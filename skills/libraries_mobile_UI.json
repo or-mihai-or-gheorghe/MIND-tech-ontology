@@ -1,0 +1,272 @@
+[
+    {
+        "name": "React Native Elements",
+        "synonyms": [
+            "react native elements",
+            "react-native-elements",
+            "rne"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "React Native",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "NativeBase",
+        "synonyms": [
+            "nativebase",
+            "native base",
+            "native-base"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "React Native",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "React Native Paper",
+        "synonyms": [
+            "react native paper",
+            "react-native-paper",
+            "rn paper"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "React Native",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "UI Kitten",
+        "synonyms": [
+            "uikitten",
+            "ui kitten",
+            "ui-kitten"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "React Native",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Material Components for iOS",
+        "synonyms": [
+            "material components for ios",
+            "mdc ios",
+            "material ios",
+            "material design for ios"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Swift",
+            "Objective-C"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Material Components for Android",
+        "synonyms": [
+            "material components for android",
+            "mdc android",
+            "material android",
+            "material design for android"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Java",
+            "Kotlin"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Ant Design Mobile",
+        "synonyms": [
+            "ant design mobile",
+            "antd-mobile",
+            "ant-mobile"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Vant",
+        "synonyms": [
+            "vant",
+            "vant ui",
+            "vant-ui"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Vue.js",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Weex",
+        "synonyms": [
+            "weex",
+            "weex framework"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "React Native Material Kit",
+        "synonyms": [
+            "react native material kit",
+            "react-native-material-kit",
+            "rn material kit"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "React Native",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    }
+]

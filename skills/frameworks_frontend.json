@@ -1,0 +1,1185 @@
+[
+    {
+        "name": "React",
+        "synonyms": [
+            "react",
+            "react.js",
+            "react js",
+            "reactjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "Webpack",
+            "React Router",
+            "CSS",
+            "Babel",
+            "Redux",
+            "Create React App",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "Custom Hooks",
+            "Composition Pattern",
+            "Virtual DOM",
+            "Context API Pattern"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Angular",
+        "synonyms": [
+            "angular",
+            "angular.io",
+            "angular 2+",
+            "angular2+",
+            "angular modern",
+            "angularjs",
+            "angular js",
+            "angular 1",
+            "angular 1.x"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "RxJS",
+            "NgRx",
+            "CSS",
+            "Grunt",
+            "Angular Material",
+            "Angular CLI",
+            "Bower",
+            "Angular UI Router",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "Observable Pattern",
+            "MVVM (Model-View-ViewModel)",
+            "Single Page Application (SPA)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Vue.js",
+        "synonyms": [
+            "vue",
+            "vue.js",
+            "vue js",
+            "vuejs",
+            "vue 3"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "Vuex",
+            "Vue CLI",
+            "CSS",
+            "Vue Router",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "Single Page Application (SPA)",
+            "Virtual DOM",
+            "MVVM (Model-View-ViewModel)",
+            "Component Composition"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Svelte",
+        "synonyms": [
+            "svelte",
+            "svelte.js",
+            "svelte js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "CSS",
+            "SvelteKit",
+            "Rollup",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "Single Page Application (SPA)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "SvelteKit",
+        "synonyms": [
+            "svelte kit",
+            "svelte-kit"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "CSS",
+            "Svelte",
+            "Rollup",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Server-Side Rendering Frameworks",
+            "Isomorphic/Universal JavaScript",
+            "Monolithic Fullstack Frameworks"
+        ]
+    },
+    {
+        "name": "Ember.js",
+        "synonyms": [
+            "ember",
+            "ember.js",
+            "ember js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "CSS",
+            "Ember CLI",
+            "JavaScript",
+            "Ember Data"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "MVC (Model-View-Controller)",
+            "Single Page Application (SPA)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Backbone.js",
+        "synonyms": [
+            "backbone",
+            "backbone.js",
+            "backbone js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "Marionette.js",
+            "HTML",
+            "jQuery",
+            "CSS",
+            "Underscore.js",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Event-Driven Architecture (EDA)",
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Aurelia",
+        "synonyms": [
+            "aurelia",
+            "aurelia framework",
+            "auralia"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "Webpack",
+            "CSS",
+            "Aurelia CLI",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "MVVM (Model-View-ViewModel)",
+            "Single Page Application (SPA)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Polymer",
+        "synonyms": [
+            "polymer",
+            "polymer.js",
+            "polymer js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "Polymer CLI"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Mithril.js",
+        "synonyms": [
+            "mithril",
+            "mithril.js",
+            "mithril js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "mithril-cli"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "Single Page Application (SPA)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Next.js",
+        "synonyms": [
+            "next",
+            "next.js",
+            "next js",
+            "nextjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [
+            "Next CLI",
+            "HTML",
+            "CSS",
+            "React",
+            "JavaScript",
+            "Vercel"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Isomorphic/Universal JavaScript",
+            "Server-Side Rendering (SSR)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Server-Side Rendering Frameworks",
+            "Isomorphic/Universal JavaScript"
+        ]
+    },
+    {
+        "name": "Nuxt.js",
+        "synonyms": [
+            "nuxt",
+            "nuxt.js",
+            "nuxt js",
+            "nuxtjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "CSS",
+            "Nuxt CLI",
+            "JavaScript",
+            "Vue.js",
+            "Netlify"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Isomorphic/Universal JavaScript",
+            "Server-Side Rendering (SSR)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Server-Side Rendering Frameworks",
+            "Isomorphic/Universal JavaScript"
+        ]
+    },
+    {
+        "name": "Gatsby",
+        "synonyms": [
+            "gatsby",
+            "gatsby.js",
+            "gatsby js",
+            "gatsbyjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "CSS",
+            "GraphQL",
+            "Gatsby CLI",
+            "React",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "JAMstack Architecture",
+            "Static Site Generation (SSG)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "RedwoodJS",
+        "synonyms": [
+            "redwoodjs",
+            "redwood",
+            "redwood js",
+            "redwood.js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "CSS",
+            "GraphQL",
+            "React",
+            "JavaScript",
+            "Prisma",
+            "PostgreSQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "JAMstack Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Monolithic Fullstack Frameworks",
+            "Fullstack End-to-End Tooling",
+            "Isomorphic/Universal JavaScript"
+        ]
+    },
+    {
+        "name": "Preact",
+        "synonyms": [
+            "preact",
+            "preact.js",
+            "preact js",
+            "preactjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "Preact CLI",
+            "CSS",
+            "React",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Inferno",
+        "synonyms": [
+            "inferno",
+            "inferno.js",
+            "inferno js",
+            "infernoj"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "CSS",
+            "React",
+            "JavaScript",
+            "create-inferno-app"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Riot.js",
+        "synonyms": [
+            "riot",
+            "riot.js",
+            "riot js",
+            "riotjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "Riot Compiler"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Marko",
+        "synonyms": [
+            "marko",
+            "marko.js",
+            "marko js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "Marko CLI"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Isomorphic/Universal JavaScript",
+            "Server-Side Rendering (SSR)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Elm",
+        "synonyms": [
+            "elm",
+            "elm-lang",
+            "elm language"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "Elm Compiler",
+            "HTML",
+            "Elm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Flux Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Stimulus",
+        "synonyms": [
+            "stimulus",
+            "stimulus.js",
+            "stimulus js",
+            "stimulus framework"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Ext JS",
+        "synonyms": [
+            "ext js",
+            "extjs",
+            "ext js framework",
+            "sencha ext"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "Sencha Cmd"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "SolidJS",
+        "synonyms": [
+            "solidjs",
+            "solid js",
+            "solid",
+            "solid framework"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "SolidStart"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Alpine.js",
+        "synonyms": [
+            "alpine.js",
+            "alpinejs",
+            "alpine js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "Tailwind CSS"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Qwik",
+        "synonyms": [
+            "qwik",
+            "qwik.js",
+            "qwik js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "Builder.io"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "Hydration"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Dojo",
+        "synonyms": [
+            "dojo",
+            "dojo toolkit",
+            "dojo.js",
+            "dojotoolkit"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "dojo-cli",
+            "CSS",
+            "JavaScript",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Vaadin",
+        "synonyms": [
+            "vaadin",
+            "vaadin framework"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "Java",
+            "HTML",
+            "Vaadin CLI"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "Single Page Application (SPA)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries"
+        ]
+    },
+    {
+        "name": "Blazor",
+        "synonyms": [
+            "blazor",
+            "blazor wasm",
+            "blazor webassembly"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "C#",
+            "CSS",
+            "dotnet CLI",
+            "Visual Studio"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture",
+            "Single Page Application (SPA)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Lit",
+        "synonyms": [
+            "lit",
+            "lit-html",
+            "lit html",
+            "lit element",
+            "lit-element"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Hyperapp",
+        "synonyms": [
+            "hyperapp",
+            "hyper app"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "Component-Based Architecture"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "CanJS",
+        "synonyms": [
+            "canjs",
+            "can js",
+            "can framework"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "DoneJS"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "MVVM (Model-View-ViewModel)"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Blitz.js",
+        "synonyms": [
+            "blitz.js",
+            "blitz",
+            "blitzjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Fullstack",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Monolithic Fullstack Frameworks",
+            "Fullstack End-to-End Tooling",
+            "Isomorphic/Universal JavaScript"
+        ]
+    },
+    {
+        "name": "Meteor",
+        "synonyms": [
+            "meteor",
+            "meteor.js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Fullstack",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Monolithic Fullstack Frameworks",
+            "Isomorphic/Universal JavaScript",
+            "Fullstack End-to-End Tooling"
+        ]
+    },
+    {
+        "name": "Sails.js",
+        "synonyms": [
+            "sails.js",
+            "sails",
+            "sailsjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Fullstack",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Monolithic Fullstack Frameworks"
+        ]
+    },
+    {
+        "name": "LoopBack",
+        "synonyms": [
+            "loopback",
+            "loopback.io"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Fullstack",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Monolithic Fullstack Frameworks",
+            "Fullstack End-to-End Tooling"
+        ]
+    },
+    {
+        "name": "KeystoneJS",
+        "synonyms": [
+            "keystonejs",
+            "keystone",
+            "keystone.js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Fullstack",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Monolithic Fullstack Frameworks",
+            "Fullstack End-to-End Tooling"
+        ]
+    },
+    {
+        "name": "Razzle",
+        "synonyms": [
+            "razzle",
+            "razzle.js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Fullstack",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Server-Side Rendering Frameworks",
+            "Isomorphic/Universal JavaScript",
+            "Fullstack End-to-End Tooling"
+        ]
+    },
+    {
+        "name": "MEAN.js",
+        "synonyms": [
+            "mean.js",
+            "mean",
+            "meanjs"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Fullstack",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "Angular",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Monolithic Fullstack Frameworks",
+            "Fullstack End-to-End Tooling"
+        ]
+    },
+    {
+        "name": "After.js",
+        "synonyms": [
+            "after.js",
+            "afterjs",
+            "after"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Fullstack",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Server-Side Rendering Frameworks",
+            "Isomorphic/Universal JavaScript"
+        ]
+    }
+]

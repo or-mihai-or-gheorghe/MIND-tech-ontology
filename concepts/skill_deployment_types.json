@@ -1,0 +1,18 @@
+[
+    "On-Premise",
+    "Cloud",
+    "Cloud Service (aaS)",
+    "SaaS (Software as a Service)",
+    "AI-as-a-Service",
+    "Serverless",
+    "Edge Computing",
+    "Hybrid Cloud",
+    "Multi-Cloud",
+    "Embedded",
+    "Distributed",
+    "In-Memory",
+    "Federated",
+    "Peer-to-Peer (P2P)",
+    "Containerized",
+    "WebAssembly (WASM)"
+  ]

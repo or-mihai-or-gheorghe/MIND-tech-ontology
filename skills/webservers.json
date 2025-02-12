@@ -1,0 +1,638 @@
+[
+    {
+        "name": "Apache HTTP Server",
+        "synonyms": [
+            "apache http server",
+            "apache",
+            "httpd",
+            "apache 2.2",
+            "apache 2.4"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Nginx",
+        "synonyms": [
+            "nginx",
+            "engine x",
+            "nginx plus"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Microsoft IIS",
+        "synonyms": [
+            "microsoft iis",
+            "iis",
+            "internet information services",
+            "iis 7",
+            "iis 8",
+            "iis 10"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "C#"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Lighttpd",
+        "synonyms": [
+            "lighttpd",
+            "lighty"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Caddy",
+        "synonyms": [
+            "caddy",
+            "caddy web server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Apache Tomcat",
+        "synonyms": [
+            "apache tomcat",
+            "tomcat",
+            "tomcat server",
+            "apache servlet container",
+            "tomcat 7",
+            "tomcat 8",
+            "tomcat 9",
+            "tomcat 10"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Middleware"
+        ]
+    },
+    {
+        "name": "Jetty",
+        "synonyms": [
+            "jetty",
+            "jetty server",
+            "eclipse jetty"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Middleware"
+        ]
+    },
+    {
+        "name": "Node.js",
+        "synonyms": [
+            "node.js",
+            "nodejs",
+            "node"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Unicorn",
+        "synonyms": [
+            "unicorn",
+            "unicorn server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Ruby"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Gunicorn",
+        "synonyms": [
+            "gunicorn",
+            "green unicorn"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Python"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "uWSGI",
+        "synonyms": [
+            "uwsgi",
+            "uwsgi server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "OpenLiteSpeed",
+        "synonyms": [
+            "openlitespeed",
+            "open lite speed",
+            "ols"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Oracle HTTP Server",
+        "synonyms": [
+            "oracle http server",
+            "ohs"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "IBM HTTP Server",
+        "synonyms": [
+            "ibm http server",
+            "ihs"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Hiawatha",
+        "synonyms": [
+            "hiawatha",
+            "hiawatha web server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Cherokee",
+        "synonyms": [
+            "cherokee",
+            "cherokee web server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Resin",
+        "synonyms": [
+            "resin",
+            "resin server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Middleware"
+        ]
+    },
+    {
+        "name": "Abyss Web Server",
+        "synonyms": [
+            "abyss web server",
+            "abyss"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Zeus Web Server",
+        "synonyms": [
+            "zeus web server",
+            "zeus"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "G-WAN",
+        "synonyms": [
+            "g-wan",
+            "gwan"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Sun Java System Web Server",
+        "synonyms": [
+            "sun java system web server",
+            "sjsws",
+            "sun web server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Middleware"
+        ]
+    },
+    {
+        "name": "GoAhead Web Server",
+        "synonyms": [
+            "goahead web server",
+            "go ahead web server",
+            "goahead"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Puma",
+        "synonyms": [
+            "puma",
+            "puma web server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Kestrel",
+        "synonyms": [
+            "kestrel",
+            "kestrel web server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "C#"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    },
+    {
+        "name": "Warp webserver",
+        "synonyms": [
+            "warp web server"
+        ],
+        "type": [
+            "Webserver"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Haskell"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Networking"
+        ]
+    }
+]

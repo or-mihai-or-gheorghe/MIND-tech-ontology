@@ -1,0 +1,166 @@
+[
+    {
+        "category": "Programming Paradigms",
+        "concepts": [
+            "Imperative",
+            "Procedural",
+            "Declarative",
+            "Functional",
+            "Object-Oriented",
+            "Event-Driven",
+            "Logic",
+            "Symbolic",
+            "Generic",
+            "Aspect-Oriented",
+            "Concurrent",
+            "Parallel",
+            "Reactive",
+            "Dataflow",
+            "Constraint-based",
+            "Array-oriented",
+            "Stack-oriented"
+        ]
+    },
+    {
+        "category": "Type Systems",
+        "concepts": [
+            "Static Typing",
+            "Dynamic Typing",
+            "Strong Typing",
+            "Weak Typing",
+            "Structural Typing",
+            "Nominal Typing",
+            "Gradual Typing",
+            "Duck Typing",
+            "Type Inference",
+            "Union Types",
+            "Dependent Types",
+            "Linear Types",
+            "Polymorphic Types"
+        ]
+    },
+    {
+        "category": "Code Execution Models",
+        "concepts": [
+            "Compiled",
+            "Interpreted",
+            "Just-In-Time Compilation",
+            "Ahead-of-Time Compilation",
+            "Bytecode Interpretation",
+            "Native Code Generation",
+            "Mixed Mode Execution",
+            "Source-to-Source Translation",
+            "Low-level",
+            "Native OS Runtime"
+        ]
+    },
+    {
+        "category": "Programming Language Concepts",
+        "concepts": [
+            "Memory Management",
+            "Garbage Collection",
+            "Manual Memory Management",
+            "Reference Counting",
+            "Lexical Scoping",
+            "Dynamic Scoping",
+            "First-class Functions",
+            "Closures",
+            "Pattern Matching",
+            "Exception Handling",
+            "Immutability",
+            "Side Effects",
+            "Lazy Evaluation",
+            "Coroutines"
+        ]
+    },
+    {
+        "category": "Query Paradigms",
+        "concepts": [
+            "Relational",
+            "NoSQL",
+            "Document-oriented",
+            "Graph-based",
+            "Key-Value",
+            "Time-series",
+            "Column-family",
+            "Multi-model",
+            "Search-oriented",
+            "Vector",
+            "Hierarchical"
+        ]
+    },
+    {
+        "category": "Query Language Structure",
+        "concepts": [
+            "Declarative",
+            "Imperative",
+            "Procedural Constructs",
+            "Functional Constructs",
+            "Path-based Syntax",
+            "Keyword-based Syntax"
+        ]
+    },
+    {
+        "category": "Data Manipulation Operations",
+        "concepts": [
+            "Selection/Filtering",
+            "Projection",
+            "Aggregation",
+            "Sorting/Ordering",
+            "Join Operations",
+            "Relationship Traversal",
+            "Set Operations",
+            "Data Modification"
+        ]
+    },
+    {
+        "category": "Query Processing and Optimization",
+        "concepts": [
+            "Query Planning",
+            "Query Optimization",
+            "Index-based Access",
+            "Full-text Search"
+        ]
+    },
+    {
+        "category": "Data Model Interaction",
+        "concepts": [
+            "Schema Awareness",
+            "Schema Flexibility",
+            "Relationship/Graph Semantics",
+            "Document Nesting Semantics",
+            "Time-series Semantics",
+            "Semantic Querying"
+        ]
+    },
+    {
+        "category": "Advanced Query Features",
+        "concepts": [
+            "Window Functions",
+            "Stored Procedures",
+            "Transactions",
+            "ACID Properties",
+            "User-Defined Functions",
+            "Recursive Querying",
+            "Analytical Functions"
+        ]
+    },
+    {
+        "category": "Markup Language Concepts",
+        "concepts": [
+            "Document Structure",
+            "Element Hierarchy",
+            "Attributes",
+            "Namespaces",
+            "Document Type Definition",
+            "Schema Definition",
+            "Entity References",
+            "Processing Instructions",
+            "Document Validation",
+            "Content Models",
+            "Mixed Content",
+            "Semantic Markup",
+            "Presentation Markup"
+        ]
+    }
+]

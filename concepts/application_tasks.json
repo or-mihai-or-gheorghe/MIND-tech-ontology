@@ -1,0 +1,345 @@
+[  
+    {
+        "category": "cross_domain",
+        "tasks": [
+            "Authentication and Authorization",
+            "Logging",
+            "Utility Libraries/Tools/Services/Agents",
+            "Configuration Management",
+            "Data Validation and Sanitization",
+            "Encryption and Decryption",
+            "File Handling",
+            "Date and Time Manipulation",
+            "Error Handling and Exception Management",
+            "Performance Monitoring and Profiling",
+            "Code Analysis and Linting",
+            "Internationalization and Localization",
+            "Deployment and Infrastructure Management",
+            "Serialization and Deserialization",
+            "Concurrency and Multithreading",
+            "Parsing and Data Formats",
+            "Compression and Archiving",
+            "Command Line Interface Tools",
+            "Networking",
+            "Other Cross-Domain Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "backend",
+        "tasks": [
+            "Object-Relational Mapping (ORMs)",
+            "Caching",
+            "Middleware",
+            "API Clients and SDKs",
+            "Database Drivers and Connectors",
+            "Messaging and Queuing",
+            "Search and Indexing",
+            "Background Job Processing",
+            "Streaming and Real-time Processing",
+            "Backend Security",
+            "Email and Notification Services",
+            "Task Scheduling and Cron Jobs",
+
+            
+            "Backend Unit Testing",
+            "API Testing",
+            "Database Testing",
+            "Load Testing",
+            "Backend Integration Testing",
+            "Service Mocking",
+
+            "Other Backend Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "frontend",
+        "tasks": [
+            "UI Component Libraries",
+            "State Management",
+            "Routing",
+            "Data Fetching and Caching",
+            "Form Management",
+            "Animation and Transitions",
+            "Data Visualization",
+            "UI Styling",
+            "Performance Optimization",
+
+            
+            "Component Testing",
+            "Frontend E2E Testing",
+            "Visual Regression Testing",
+            "Accessibility Testing",
+            "Cross-browser Testing",
+            "State Management Testing",
+            "Frontend Performance Testing",
+
+            "Other Frontend Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "fullstack",
+        "tasks": [
+            "Server-Side Rendering Frameworks",
+            "Isomorphic/Universal JavaScript",
+            "Fullstack End-to-End Tooling",
+            "Monolithic Fullstack Frameworks",
+            "Shared Middleware Integration",
+            "Other Fullstack Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "mobile",
+        "tasks": [
+            "Mobile UI Components",
+            "Local Databases",
+            "Authentication Libraries/Tools/Services/Agents",
+            "Push Notifications",
+            "Analytics and Tracking",
+            "Payment Integration",
+            "Location Services",
+            "Sensor Integration Libraries",
+
+            
+            "Device Compatibility Testing",
+            "Cross-platform Testing",
+            "Mobile UI Automation",
+            "Offline Mode Testing",
+            "Battery Consumption Testing",
+            "Memory Usage Testing",
+            "Mobile Security Testing",
+            "Network Condition Testing",
+
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "desktop",
+        "tasks": [
+            "GUI Frameworks",
+            "File System Access",
+            "Multimedia Libraries/Tools/Services/Agents",
+
+            
+            "GUI Automation Testing",
+            "System Integration Testing",
+            "Installation Testing",
+            "OS Compatibility Testing",
+            "System Resource Testing",
+            "Crash and Recovery Testing",
+
+            "Other Desktop Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "embedded",
+        "tasks": [
+            "Real-Time Operating Systems",
+            "Device Drivers",
+            "Communication Protocols",
+            "Sensor Libraries",
+
+            
+            "Hardware Interface Testing",
+            "Real-time Behavior Testing",
+            "Power Consumption Testing",
+            "Environmental Stress Testing",
+            "Safety Critical Testing",
+            "Firmware Testing",
+            "Protocol Conformance Testing",
+
+            "Other Embedded Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "ml_ai",
+        "tasks": [
+            "Machine Learning Frameworks",
+            "Deep Learning Libraries/Tools/Services/Agents",
+            "Data Preprocessing",
+            "Model Serving",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Audio Processing Libraries/Tools/Services/Agents",
+            "Video Processing Libraries/Tools/Services/Agents",
+            "Time Series Analysis",
+
+            
+            "Model Validation Testing",
+            "Training Data Testing",
+            "Bias and Fairness Testing",
+            "Model Robustness Testing",
+            "Inference Performance Testing",
+            "Model Explainability Testing",
+            "ML Pipeline Testing",
+
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "data_science",
+        "tasks": [
+            "Data Analysis",
+            "Data Visualization",
+            "Statistical Analysis",
+            "Big Data Tools",
+            "Geospatial Data Analysis",
+
+            
+            "Statistical Testing",
+            "Data Quality Testing",
+            "Data Pipeline Testing",
+            "Visualization Testing",
+            "ETL Testing",
+            "Reproducibility Testing",
+            "Scalability Testing",
+
+            "Other Data Science Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "qa_testing",
+        "tasks": [
+            "Functional Testing",
+            "API Testing",
+            "End-to-End Testing",
+            "Performance Testing",
+            "Security Testing",
+            "Accessibility Testing",
+            "Usability Testing",
+            "Compatibility Testing",
+            "Mobile Testing",
+            "Load Testing",
+            "Stress Testing",
+            "Unit Testing",
+            "Integration Testing",
+            "Acceptance Testing",
+            "Regression Testing",
+            "Smoke Testing",
+            "Sanity Testing",
+            "UI Testing",
+            "A/B Testing & Experimentation",
+            "Other QA/Testing Libraries/Tools/Services/Agents"
+        ]
+    },    
+    {
+        "category": "game_development",
+        "tasks": [
+            "Game Development Engines",
+            "Graphics Rendering",
+            "Physics and Collision",
+            "Audio Engine",
+            "Network & Multiplayer",
+            "Game AI & Pathfinding",
+            "UI and Menu Systems",
+            "Save and Load Systems",
+            "Game Analytics & Monetization",
+            "Other Game Development Libraries/Tools/Services/Agents"
+        ]
+    },   
+    {
+    "category": "devops",
+    "tasks": [
+      "CI/CD & Release Orchestration",
+      "Infrastructure as Code & Configuration Management",
+      "Containerization & Orchestration",
+      "Observability & Monitoring (Logging, Alerting)",
+      "Incident & On-Call Management",
+      "Version Control & GitOps",
+      "Artifact & Dependency Management",
+      "Performance & Load Testing (Infrastructure)",
+      "Secret & Secure Config Management",
+      "Resource & Cost Optimization"
+        ]
+    },    
+    {
+    "category": "mlops",
+    "tasks": [
+      "Data & Feature Engineering Pipelines",
+      "Automated Training & Model Registry",
+      "Hyperparameter Tuning & Experiment Management",
+      "Model Serving & Deployment",
+      "Model Monitoring & Drift Detection",
+      "Bias & Fairness Analysis",
+      "Explainability & Interpretation",
+      "A/B Testing & Shadow Deployments (ML)",
+      "ML Governance & Compliance",
+      "CI/CD for ML Pipelines"
+        ]
+    },    
+    {
+    "category": "agents",
+    "tasks": [
+      "Agent Planning & Reasoning",
+      "State Management & Memory Persistence",
+      "Tool/Service Integration (Agents)",
+      "Chain-of-Thought & Multi-step Orchestration",
+      "Multi-Agent Coordination & Messaging",
+      "Reinforcement Learning-based Agents",
+      "Agent Simulation & Testing",
+      "Prompt & Instruction Tuning (for Agents)",
+      "Agent Debugging & Logging",
+      "Environment/Context Adaptation"
+        ]
+    },    
+    {
+    "category": "llms",
+    "tasks": [
+      "Prompt Engineering & Context Management",
+      "Retrieval-Augmented Generation (RAG) Setup",
+      "LLM Fine-tuning & Adaptation (Full, LoRA, etc.)",
+      "Inference & Serving Optimization",
+      "Embedding Generation & Similarity Search",
+      "LLM Monitoring & Logging",
+      "Chain-of-Thought Prompting & Multi-turn Dialogue",
+      "LLM-based Summarization & QA",
+      "RLHF (Reinforcement Learning from Human Feedback)",
+      "Hallucination Mitigation & Fact Checking"
+        ]
+    },    
+    {
+    "category": "rpa",
+    "tasks": [
+      "Screen Scraping & Data Extraction",
+      "Bot Setup (Attended/Unattended)",
+      "Document & Form Processing",
+      "Workflow Automation & Scheduling",
+      "Queue & Error Handling",
+      "Computer Vision-based Recognition",
+      "Desktop & Browser Automation",
+      "RPA Logging & Monitoring",
+      "Credential & Secret Management (RPA)",
+      "Process Mining & Discovery"
+        ]
+    },   
+    {
+    "category": "blockchain",
+    "tasks": [
+      "Smart Contract Development & Testing",
+      "Token & NFT Management",
+      "Blockchain Node & Network Setup",
+      "Consensus & Governance Configuration",
+      "On-chain Data & Oracle Integration",
+      "Wallet Integration & Key Management",
+      "Layer 2 & Cross-chain Interoperability",
+      "Blockchain Analytics & Explorer Setup",
+      "Transaction Fee Optimization",
+      "DAO Governance Implementation"
+        ]
+    },   
+    {
+    "category": "cybersecurity",
+    "tasks": [
+      "Identity & Access Management (IAM)",
+      "Vulnerability Scanning & Remediation",
+      "Penetration Testing & Ethical Hacking",
+      "Security Monitoring & SIEM",
+      "Network Security (IDS/IPS, Firewalls)",
+      "Endpoint Security & EDR",
+      "Application Security Testing (SAST/DAST)",
+      "Incident Response & Forensics",
+      "Data Protection & DLP",
+      "Threat Intelligence & Hunting"
+        ]
+    }
+
+]

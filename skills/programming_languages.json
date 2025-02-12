@@ -1,0 +1,2831 @@
+[
+    {
+        "name": "Java",
+        "synonyms": [
+            "Java SE",
+            "Java8",
+            "JDK",
+            "JRE",
+            "OpenJDK",
+            "Oracle Java"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop",
+            "Mobile",
+            "Embedded Systems",
+            "DevOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Concurrent",
+            "Generic",
+            "Static Typing",
+            "Just-In-Time Compilation",
+            "Bytecode Interpretation",
+            "Garbage Collection",
+            "Lexical Scoping",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Maven",
+            "Gradle",
+            "Ant"
+        ],
+        "runtimeEnvironments": [
+            "JVM",
+            "HotSpot",
+            "OpenJ9",
+            "GraalVM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Python",
+        "synonyms": [
+            "Py2",
+            "Py3",
+            "CPython",
+            "Anaconda Python",
+            "IronPython",
+            "Jython",
+            "MicroPython",
+            "Py"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack",
+            "Mobile",
+            "Desktop",
+            "Embedded Systems",
+            "IoT",
+            "DevOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Object-Oriented",
+            "Functional",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "Reference Counting",
+            "Lexical Scoping",
+            "First-class Functions",
+            "Closures",
+            "Exception Handling",
+            "Side Effects"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "pip",
+            "setuptools",
+            "Poetry",
+            "Conda",
+            "wheel"
+        ],
+        "runtimeEnvironments": [
+            "CPython",
+            "PyPy",
+            "Anaconda",
+            "Jython"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "JavaScript",
+        "synonyms": [
+            "JS",
+            "es6",
+            "ECMAScript",
+            "java script",
+            "jscript",
+            "java-script",
+            "JavaScript (Node.js)",
+            "JavaScript(Node.js)",
+            "JavaScript/Node.js"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Frontend",
+            "Fullstack",
+            "Mobile",
+            "Desktop",
+            "Embedded Systems",
+            "IoT",
+            "Blockchain",
+            "RPA",
+            "DevOps",
+            "MLOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Functional",
+            "Event-Driven",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "First-class Functions",
+            "Closures",
+            "Exception Handling",
+            "Side Effects"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "npm",
+            "webpack",
+            "gulp",
+            "babel"
+        ],
+        "runtimeEnvironments": [
+            "Node.js",
+            
+            "Deno"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "TypeScript",
+        "synonyms": [
+            "TS",
+            "Type Script"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Frontend",
+            "Fullstack",
+            "Mobile",
+            "Desktop",
+            "Embedded Systems",
+            "IoT",
+            "Blockchain",
+            "RPA",
+            "DevOps",
+            "MLOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Object-Oriented",
+            "Functional",
+            "Static Typing",
+            "Structural Typing",
+            "Source-to-Source Translation",
+            "Type Inference",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "npm",
+            "webpack",
+            "rollup",
+            "yarn"
+        ],
+        "runtimeEnvironments": [
+            
+            "Node.js",
+            "Deno",
+            "Rhino"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "C#",
+        "synonyms": [
+            "Csharp",
+            "C Sharp"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack",
+            "Mobile",
+            "Desktop",
+            "Embedded Systems",
+            "IoT",
+            "Blockchain",
+            "RPA",
+            "DevOps",
+            "MLOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Concurrent",
+            "Generic",
+            "Static Typing",
+            "Ahead-of-Time Compilation",
+            "Garbage Collection",
+            "Lexical Scoping",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "MSBuild",
+            "dotnet CLI",
+            "NuGet"
+        ],
+        "runtimeEnvironments": [
+            "Common Language Runtime",
+            ".NET Framework",
+            ".NET Core",
+            ".NET"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "C",
+        "synonyms": [
+            "c language",
+            "ansi c",
+            "iso c"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop",
+            "Embedded Systems",
+            "IoT",
+            "DevOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Native OS Runtime",
+            "Imperative",
+            "Procedural",
+            "Compiled",
+            "Manual Memory Management",
+            "Lexical Scoping"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "make",
+            "cmake",
+            "autotools"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "C++",
+        "synonyms": [
+            "cpp",
+            "c plus plus"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop",
+            "Embedded Systems",
+            "IoT",
+            "DevOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [
+            "C"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Generic",
+            "Compiled",
+            "Manual Memory Management",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "cmake",
+            "ninja",
+            "msbuild"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "PHP",
+        "synonyms": [
+            "php",
+            "Hypertext Preprocessor"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack",
+            "DevOps",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Object-Oriented",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "composer",
+            "pear"
+        ],
+        "runtimeEnvironments": [
+            "Zend Engine",
+            "HHVM",
+            "Apache modphp"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Ruby",
+        "synonyms": [
+            "jruby",
+            "rubylang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack",
+            "DevOps",
+            "Data Engineering",
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Functional",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "First-class Functions",
+            "Closures",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "bundler",
+            "rake"
+        ],
+        "runtimeEnvironments": [
+            "YARV",
+            "JRuby",
+            "TruffleRuby"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Go",
+        "synonyms": [
+            "golang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Embedded Systems",
+            "IoT",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Concurrent",
+            "Static Typing",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "go build",
+            "go mod",
+            "bazel",
+            "dep"
+        ],
+        "runtimeEnvironments": [
+            "Go Native Runtime"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Kotlin",
+        "synonyms": [
+            "kt"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Frontend",
+            "Fullstack",
+            "Mobile",
+            "Desktop",
+            "Embedded Systems",
+            "IoT",
+            "Blockchain",
+            "RPA",
+            "DevOps",
+            "MLOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Functional",
+            "Static Typing",
+            "Type Inference",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Gradle",
+            "Maven"
+        ],
+        "runtimeEnvironments": [
+            "JVM",
+            "Kotlin Native",
+            "Kotlin/JS"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Scala",
+        "synonyms": [
+            "scala 2",
+            "scala 3"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Frontend",
+            "Fullstack",
+            "Mobile",
+            "Desktop",
+            "Embedded Systems",
+            "IoT",
+            "Blockchain",
+            "RPA",
+            "DevOps",
+            "MLOps",
+            "Data Engineering",
+            "Data Science",
+            "ML/AI",
+            "Cybersecurity",
+            "QA/Testing",
+            "Networking",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Functional",
+            "Static Typing",
+            "Type Inference",
+            "Just-In-Time Compilation",
+            "First-class Functions",
+            "Closures",
+            "Garbage Collection",
+            "Pattern Matching",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "sbt",
+            "maven"
+        ],
+        "runtimeEnvironments": [
+            "JVM",
+            "Scala Native",
+            "Scala.js"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Objective-C",
+        "synonyms": [
+            "objc",
+            "obj-c"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Mobile",
+            "Desktop",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [
+            "C"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Compiled",
+            "Manual Memory Management",
+            "Reference Counting",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "xcodebuild",
+            "clang"
+        ],
+        "runtimeEnvironments": [
+            "Objective-C Runtime",
+            "Cocoa",
+            "Cocoa Touch"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Apex",
+        "synonyms": [
+            "salesforce apex",
+            "apex code"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Exception Handling",
+            "Object-Oriented",
+            "Static Typing",
+            "Bytecode Interpretation"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [],
+        "runtimeEnvironments": [
+            "Lightning Platform",
+            "Salesforce platform"
+        ],
+        "associatedToApplicationDomains": [
+            "Customer Relationship Management",
+            "Enterprise Resource Planning (ERP)"
+        ]
+    },
+    {
+        "name": "Assembly Language",
+        "synonyms": [
+            "asm"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Systems Programming",
+            "Embedded Systems"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Low-level",
+            "Native Code Generation",
+            "Procedural",
+            "Manual Memory Management"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "masm",
+            "gas",
+            "nasm"
+        ],
+        "runtimeEnvironments": [
+            "Bare metal",
+            "Operating System"
+        ],
+        "associatedToApplicationDomains": [
+            "Embedded Development",
+            "Industrial Robotics Software"
+        ]
+    },
+    {
+        "name": "AutoLISP",
+        "synonyms": [
+            "autocad lisp",
+            "visual lisp"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [
+            "Lisp"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Closures",
+            "Functional",
+            "Garbage Collection",
+            "Dynamic Typing",
+            "Interpreted",
+            "Symbolic"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [],
+        "runtimeEnvironments": [
+            "AutoCAD"
+        ],
+        "associatedToApplicationDomains": [
+            "3D Modeling & CAD"
+        ]
+    },
+    {
+        "name": "Clarity",
+        "synonyms": [
+            "blockstack clarity",
+            "stacks clarity"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Blockchain"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Interpreted",
+            "Static Typing",
+            "Functional",
+            "Symbolic"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Stacks CLI"
+        ],
+        "runtimeEnvironments": [
+            "Stacks blockchain"
+        ],
+        "associatedToApplicationDomains": [
+            "Smart Contract Tools & Security"
+        ]
+    },
+    {
+        "name": "Clojure",
+        "synonyms": [
+            "clojure lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Data Engineering",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [
+            "Lisp"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Closures",
+            "Exception Handling",
+            "Dynamic Typing",
+            "Symbolic",
+            "Functional",
+            "Garbage Collection",
+            "Just-In-Time Compilation"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Boot",
+            "Leiningen"
+        ],
+        "runtimeEnvironments": [
+            "JVM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "CoffeeScript",
+        "synonyms": [
+            "coffee script"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Exception Handling",
+            "Event-Driven",
+            "Dynamic Typing",
+            "Source-to-Source Translation",
+            "Functional"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "gulp",
+            "browserify",
+            "npm"
+        ],
+        "runtimeEnvironments": [
+            "Node.js"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Crystal",
+        "synonyms": [
+            "crystal lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Ruby"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Functional",
+            "Static Typing",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "shards"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Dart",
+        "synonyms": [
+            "dartlang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Mobile",
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Compiled",
+            "Ahead-of-Time Compilation",
+            "Garbage Collection",
+            "Exception Handling",
+            "Strong Typing"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "dart CLI",
+            "pub"
+        ],
+        "runtimeEnvironments": [
+            "Dart VM",
+            "Flutter"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Elixir",
+        "synonyms": [
+            "elixir lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Erlang"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Concurrent",
+            "Dynamic Typing",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "mix"
+        ],
+        "runtimeEnvironments": [
+            "BEAM VM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Erlang",
+        "synonyms": [
+            "erlang lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Concurrent",
+            "Dynamic Typing",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "rebar"
+        ],
+        "runtimeEnvironments": [
+            "BEAM VM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "F#",
+        "synonyms": [
+            "fsharp",
+            "f sharp"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Data Engineering",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [
+            "OCaml"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Object-Oriented",
+            "Static Typing",
+            "Type Inference",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "dotnet CLI",
+            "msbuild",
+            "NuGet"
+        ],
+        "runtimeEnvironments": [
+            ".NET CLR"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Fortran",
+        "synonyms": [
+            "fortran 77",
+            "fortran 90",
+            "fortran 95",
+            "fortran 2003",
+            "fortran 2018"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Data Engineering",
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Compiled",
+            "Manual Memory Management",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "make",
+            "cmake",
+            "fpm"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Groovy",
+        "synonyms": [
+            "apache groovy"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Dynamic Typing",
+            "Just-In-Time Compilation",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "gradle",
+            "maven",
+            "grape"
+        ],
+        "runtimeEnvironments": [
+            "JVM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Haskell",
+        "synonyms": [
+            "ghc haskell",
+            "hs"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Data Engineering",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Lazy Evaluation",
+            "Static Typing",
+            "Type Inference",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "cabal",
+            "stack"
+        ],
+        "runtimeEnvironments": [
+            "GHC",
+            "Hugs"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Idris",
+        "synonyms": [
+            "idris lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Dependent Types",
+            "Static Typing",
+            "Compiled",
+            "Garbage Collection",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "idris CLI"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Julia",
+        "synonyms": [
+            "julia lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Data Engineering",
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Functional",
+            "Dynamic Typing",
+            "Just-In-Time Compilation",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "pkg",
+            "Conda"
+        ],
+        "runtimeEnvironments": [
+            "Julia Runtime"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Lisp",
+        "synonyms": [
+            "common lisp",
+            "clisp",
+            "scheme-lisp"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Symbolic",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "Closures",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "roswell",
+            "quicklisp"
+        ],
+        "runtimeEnvironments": [
+            "SBCL",
+            "CLisp",
+            "Racket"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "LiveScript",
+        "synonyms": [
+            "livescript lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Dynamic Typing",
+            "Source-to-Source Translation",
+            "Garbage Collection",
+            "Event-Driven"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "npm",
+            "gulp"
+        ],
+        "runtimeEnvironments": [
+            "Node.js"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Lua",
+        "synonyms": [
+            "lua lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Embedded Systems",
+            "Game Development"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Closures",
+            "Garbage Collection",
+            "Procedural",
+            "Dynamic Typing",
+            "Interpreted",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "luarocks"
+        ],
+        "runtimeEnvironments": [
+            "Lua VM",
+            "LuaJIT"
+        ],
+        "associatedToApplicationDomains": [
+            "Game Development Engines"
+        ]
+    },
+    {
+        "name": "MATLAB",
+        "synonyms": [
+            "matlab language",
+            "matlab scripting"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Data Engineering",
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Garbage Collection",
+            "Procedural",
+            "Dynamic Typing",
+            "Interpreted",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "MATLAB Compiler"
+        ],
+        "runtimeEnvironments": [
+            "MATLAB environment"
+        ],
+        "associatedToApplicationDomains": [
+            "Engineering Simulation",
+            "Marketing Analytics & BI"
+        ]
+    },
+    {
+        "name": "Nim",
+        "synonyms": [
+            "nim lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Systems Programming",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Object-Oriented",
+            "Compiled",
+            "Manual Memory Management",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "nimble"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "OCaml",
+        "synonyms": [
+            "ocaml lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Systems Programming",
+            "Data Engineering"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Imperative",
+            "Static Typing",
+            "Type Inference",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "opam",
+            "dune"
+        ],
+        "runtimeEnvironments": [
+            "OCaml runtime"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Octave",
+        "synonyms": [
+            "gnu octave",
+            "octave language"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Data Engineering",
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "mkoctfile"
+        ],
+        "runtimeEnvironments": [
+            "Octave environment"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Perl",
+        "synonyms": [
+            "perl 5",
+            "perl language"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Dynamic Typing",
+            "Interpreted",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "cpan",
+            "perlbrew"
+        ],
+        "runtimeEnvironments": [
+            "Perl interpreter"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Prolog",
+        "synonyms": [
+            "prolog language"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Dynamic Typing",
+            "Interpreted",
+            "Logic",
+            "Constraint-based"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "SWI-Prolog"
+        ],
+        "runtimeEnvironments": [
+            "Prolog interpreter"
+        ],
+        "associatedToApplicationDomains": [
+            "AI Agent Development"
+        ]
+    },
+    {
+        "name": "PureScript",
+        "synonyms": [
+            "purescript lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Static Typing",
+            "Type Inference",
+            "Source-to-Source Translation",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "spago",
+            "pulp"
+        ],
+        "runtimeEnvironments": [
+            "Node.js"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Q#",
+        "synonyms": [
+            "qsharp"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Exception Handling",
+            "Static Typing",
+            "Functional",
+            "Compiled"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "dotnet CLI",
+            "msbuild"
+        ],
+        "runtimeEnvironments": [
+            "Q# quantum simulator"
+        ],
+        "associatedToApplicationDomains": [
+            "Quantum Development",
+            "Quantum Simulators"
+        ]
+    },
+    {
+        "name": "R",
+        "synonyms": [
+            "r lang",
+            "r language"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Data Engineering",
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Functional",
+            "Garbage Collection",
+            "Procedural",
+            "Dynamic Typing",
+            "Interpreted",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "devtools",
+            "packrat"
+        ],
+        "runtimeEnvironments": [
+            "R environment"
+        ],
+        "associatedToApplicationDomains": [
+            "Data Science Platforms",
+            "Marketing Analytics & BI"
+        ]
+    },
+    {
+        "name": "Racket",
+        "synonyms": [
+            "racket lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "Scheme",
+            "Lisp"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Symbolic",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "Closures",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "raco"
+        ],
+        "runtimeEnvironments": [
+            "Racket VM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "ReasonML",
+        "synonyms": [
+            "reason ml",
+            "reason language"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "OCaml",
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Imperative",
+            "Static Typing",
+            "Type Inference",
+            "Source-to-Source Translation",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "bsb",
+            "esy"
+        ],
+        "runtimeEnvironments": [
+            "Node.js"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Rust",
+        "synonyms": [
+            "rust lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Systems Programming",
+            "Embedded Systems"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Functional",
+            "Static Typing",
+            "Concurrent",
+            "Parallel",
+            "Compiled",
+            "Memory Management",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "cargo",
+            "rustc"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Solidity",
+        "synonyms": [
+            "solidity lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Blockchain"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Compiled",
+            "Exception Handling",
+            "Object-Oriented",
+            "Static Typing"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "solc",
+            "Truffle",
+            "Hardhat"
+        ],
+        "runtimeEnvironments": [
+            "EVM"
+        ],
+        "associatedToApplicationDomains": [
+            "Smart Contract Tools & Security"
+        ]
+    },
+    {
+        "name": "Swift",
+        "synonyms": [
+            "apple swift",
+            "swift lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Mobile",
+            "Desktop",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Functional",
+            "Static Typing",
+            "Compiled",
+            "Reference Counting",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Xcode",
+            "Swift Package Manager",
+            "CocoaPods"
+        ],
+        "runtimeEnvironments": [
+            "iOS",
+            "macOS",
+            "Swift runtime"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "VB.NET",
+        "synonyms": [
+            "visual basic .net",
+            "vb dotnet"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [
+            "Visual Basic"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Static Typing",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "msbuild",
+            "dotnet CLI",
+            "Visual Studio"
+        ],
+        "runtimeEnvironments": [
+            ".NET runtime"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Vyper",
+        "synonyms": [
+            "vyper lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Blockchain"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Exception Handling",
+            "Static Typing",
+            "Compiled"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "vyper compiler",
+            "brownie"
+        ],
+        "runtimeEnvironments": [
+            "EVM"
+        ],
+        "associatedToApplicationDomains": [
+            "Smart Contract Tools & Security"
+        ]
+    },
+    {
+        "name": "COBOL",
+        "synonyms": [
+            "cobol 85",
+            "cobol 2002"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Exception Handling",
+            "Compiled",
+            "Manual Memory Management"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "IBM COBOL",
+            "GnuCOBOL"
+        ],
+        "runtimeEnvironments": [
+            "Mainframe",
+            "COBOL runtime"
+        ],
+        "associatedToApplicationDomains": [
+            "Government Resource Planning (GRP) Systems",
+            "Enterprise Resource Planning (ERP)"
+        ]
+    },
+    {
+        "name": "Pascal",
+        "synonyms": [
+            "pascal language",
+            "turbo pascal"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Static Typing",
+            "Compiled",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "fpc",
+            "pascal compiler"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Delphi",
+        "synonyms": [
+            "object pascal",
+            "delphi pascal"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [
+            "Pascal"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Static Typing",
+            "Compiled",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Embarcadero RAD Studio",
+            "Delphi compiler"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Visual Basic",
+        "synonyms": [
+            "vb6",
+            "classic vb"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Static Typing",
+            "Compiled",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Visual Studio 6"
+        ],
+        "runtimeEnvironments": [
+            "Windows"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Scratch",
+        "synonyms": [
+            "scratch lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Event-Driven",
+            "__Visual",
+            "Dynamic Typing",
+            "Interpreted"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [],
+        "runtimeEnvironments": [
+            "Scratch environment"
+        ],
+        "associatedToApplicationDomains": [
+            "K-12 Learning Platforms",
+            "Early Childhood Education"
+        ]
+    },
+    {
+        "name": "Scheme",
+        "synonyms": [
+            "scheme lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Embedded Systems"
+        ],
+        "impliesKnowingSkills": [
+            "Lisp"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Symbolic",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "Closures",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Racket",
+            "Chicken"
+        ],
+        "runtimeEnvironments": [
+            "Scheme interpreter/VM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Smalltalk",
+        "synonyms": [
+            "smalltalk lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Object-Oriented",
+            "Dynamic Typing",
+            "Interpreted",
+            "Garbage Collection",
+            "Closures",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Pharo",
+            "Squeak"
+        ],
+        "runtimeEnvironments": [
+            "Smalltalk VM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Eiffel",
+        "synonyms": [
+            "eiffel lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Object-Oriented",
+            "Imperative",
+            "Static Typing",
+            "Compiled",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "EiffelStudio"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Ada",
+        "synonyms": [
+            "ada lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Systems Programming",
+            "Embedded Systems"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Compiled",
+            "Exception Handling",
+            "Object-Oriented",
+            "Concurrent",
+            "Static Typing",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "GNAT"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": [
+            "Industrial Control Systems",
+            "Avionics Software"
+        ]
+    },
+    {
+        "name": "D",
+        "synonyms": [
+            "d lang",
+            "d language"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Systems Programming"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Object-Oriented",
+            "Functional",
+            "Static Typing",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "dub",
+            "dmd",
+            "ldc",
+            "gdc"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Forth",
+        "synonyms": [
+            "forth lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Embedded Systems",
+            "Systems Programming"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Stack-oriented",
+            "Manual Memory Management",
+            "Interpreted",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "gforth"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": [
+            "Embedded Development",
+            "Industrial Control Systems"
+        ]
+    },
+    {
+        "name": "PostScript",
+        "synonyms": [
+            "postscript language",
+            "post script"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Dynamic Typing",
+            "Interpreted",
+            "Stack-oriented",
+            "Procedural"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Ghostscript"
+        ],
+        "runtimeEnvironments": [
+            "PostScript interpreter"
+        ],
+        "associatedToApplicationDomains": [
+            "Media Asset Management"
+        ]
+    },
+    {
+        "name": "SAS",
+        "synonyms": [
+            "sas language",
+            "statistical analysis system"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Data Engineering",
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Interpreted",
+            "Imperative",
+            "Exception Handling",
+            "Procedural"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "SAS Studio"
+        ],
+        "runtimeEnvironments": [
+            "SAS environment"
+        ],
+        "associatedToApplicationDomains": [
+            "Business Intelligence Platforms",
+            "Marketing Analytics & BI"
+        ]
+    },
+    {
+        "name": "Tcl",
+        "synonyms": [
+            "tcl lang",
+            "tool command language"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Dynamic Typing",
+            "Interpreted",
+            "Imperative",
+            "Event-Driven"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "teacup",
+            "ActiveTcl"
+        ],
+        "runtimeEnvironments": [
+            "Tcl interpreter"
+        ],
+        "associatedToApplicationDomains": [
+            "Industrial Automation"
+        ]
+    },
+    {
+        "name": "Verilog",
+        "synonyms": [
+            "verilog hdl"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Embedded Systems"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Compiled",
+            "Concurrent"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Icarus Verilog",
+            "Verilator",
+            "ModelSim"
+        ],
+        "runtimeEnvironments": [
+            "Verilog simulator"
+        ],
+        "associatedToApplicationDomains": [
+            "Embedded Hardware",
+            "Industrial Control Systems",
+            "Avionics Software"
+        ]
+    },
+    {
+        "name": "VHDL",
+        "synonyms": [
+            "vhdl lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Embedded Systems"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Compiled",
+            "Concurrent"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "GHDL",
+            "ModelSim",
+            "Vivado"
+        ],
+        "runtimeEnvironments": [
+            "VHDL simulator"
+        ],
+        "associatedToApplicationDomains": [
+            "Embedded Hardware",
+            "Industrial Control Systems",
+            "Avionics Software"
+        ]
+    },
+    {
+        "name": "Haxe",
+        "synonyms": [
+            "haxe lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Object-Oriented",
+            "Functional",
+            "Static Typing",
+            "Source-to-Source Translation",
+            "Garbage Collection",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "haxelib"
+        ],
+        "runtimeEnvironments": [
+            "HashLink",
+            "Neko VM"          
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "LabVIEW",
+        "synonyms": [
+            "labview lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Embedded Systems",
+            "IoT"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Compiled",
+            "Event-Driven",
+            "__Visual",
+            "Dataflow"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "NI LabVIEW IDE"
+        ],
+        "runtimeEnvironments": [
+            "LabVIEW runtime"
+        ],
+        "associatedToApplicationDomains": [
+            "SCADA Systems",
+            "Industrial Automation"
+        ]
+    },
+    {
+        "name": "Logo",
+        "synonyms": [
+            "logo lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Event-Driven",
+            "Procedural",
+            "Dynamic Typing",
+            "Interpreted"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [],
+        "runtimeEnvironments": [
+            "Logo interpreter"
+        ],
+        "associatedToApplicationDomains": [
+            "K-12 Learning Platforms",
+            "Early Childhood Education"
+        ]
+    },
+    {
+        "name": "Mercury",
+        "synonyms": [
+            "mercury lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Functional",
+            "Compiled",
+            "Logic",
+            "Concurrent",
+            "Static Typing",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "mmake",
+            "Mercury compiler"
+        ],
+        "runtimeEnvironments": [
+            "JVM"
+        ],
+        "associatedToApplicationDomains": [
+            "AI Agent Development"
+        ]
+    },
+    {
+        "name": "OpenCL",
+        "synonyms": [
+            "opencl lang",
+            "opencl c"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Systems Programming",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Compiled",
+            "Manual Memory Management",
+            "Parallel",
+            "Static Typing"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "clang (OpenCL mode)"
+        ],
+        "runtimeEnvironments": [
+            "OpenCL drivers (GPU, CPU)"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "RPG",
+        "synonyms": [
+            "rpg lang",
+            "ibm rpg"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Memory Management",
+            "Imperative",
+            "Exception Handling",
+            "Compiled"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "IBM i compilers"
+        ],
+        "runtimeEnvironments": [
+            "IBM i (AS/400)"
+        ],
+        "associatedToApplicationDomains": [
+            "Enterprise Resource Planning (ERP)"
+        ]
+    },
+    {
+        "name": "Vala",
+        "synonyms": [
+            "vala lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [
+            "C"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Object-Oriented",
+            "Imperative",
+            "Static Typing",
+            "Compiled",
+            "Garbage Collection",
+            "Exception Handling",
+            "Native OS Runtime"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "valac",
+            "meson"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Wolfram Language",
+        "synonyms": [
+            "mathematica",
+            "wolframlang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Data Engineering",
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Lazy Evaluation",
+            "Functional",
+            "Dynamic Typing",
+            "Interpreted",
+            "Symbolic"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "Wolfram Mathematica"
+        ],
+        "runtimeEnvironments": [
+            "Wolfram Engine"
+        ],
+        "associatedToApplicationDomains": [
+            "Data Science Platforms"
+        ]
+    },
+    {
+        "name": "Elm",
+        "synonyms": [
+            "elm lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Functional",
+            "Static Typing",
+            "Compiled",
+            "Exception Handling"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "elm compiler"
+        ],
+        "runtimeEnvironments": [
+            "Browser"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Zig",
+        "synonyms": [
+            "zig lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Systems Programming",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Native OS Runtime",
+            "Imperative",
+            "Static Typing",
+            "Compiled",
+            "Memory Management"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "zig compiler",
+            "zig build"
+        ],
+        "runtimeEnvironments": [
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "Ring",
+        "synonyms": [
+            "ring lang"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Procedural",
+            "Object-Oriented",
+            "Dynamic Typing",
+            "Interpreted"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "ring compiler"
+        ],
+        "runtimeEnvironments": [
+            "Ring VM"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "AWK",
+        "synonyms": [
+            "gawk",
+            "mawk",
+            "nawk"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Dynamic Typing",
+            "Interpreted",
+            "Pattern Matching",
+            "Procedural"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "awk interpreter"
+        ],
+        "runtimeEnvironments": [
+            "Unix-like shell"
+        ],
+        "associatedToApplicationDomains": [
+            "Log Management & Analysis"
+        ]
+    },
+    {
+        "name": "Bash",
+        "synonyms": [
+            "bash shell",
+            "bash scripting"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Dynamic Typing",
+            "Interpreted",
+            "Imperative",
+            "Procedural"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "bash"
+        ],
+        "runtimeEnvironments": [
+            "Unix-like shell"
+        ],
+        "associatedToApplicationDomains": [
+            "CI/CD & Pipeline Automation",
+            "Infrastructure as Code & Configuration"
+        ]
+    },
+    {
+        "name": "PowerShell",
+        "synonyms": [
+            "powershell core",
+            "windows powershell",
+            "pwsh"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Dynamic Typing",
+            "Interpreted",
+            "Exception Handling",
+            "Object-Oriented"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "PowerShell CLI",
+            "PowerShell ISE"
+        ],
+        "runtimeEnvironments": [
+            "pwsh",
+            "Windows PowerShell"
+        ],
+        "associatedToApplicationDomains": [
+            "CI/CD & Pipeline Automation",
+            "Infrastructure as Code & Configuration"
+        ]
+    },
+    {
+        "name": "ABAP",
+        "synonyms": [
+            "advanced business application programming",
+            "sap abap"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Imperative",
+            "Compiled",
+            "Procedural",
+            "Exception Handling",
+            "Object-Oriented",
+            "Static Typing"
+        ],
+        "architecturalPatterns": [],
+        "buildTools": [
+            "SAP NetWeaver",
+            "ABAP Workbench"
+        ],
+        "runtimeEnvironments": [
+            "SAP Application Server"
+        ],
+        "associatedToApplicationDomains": [
+            "Enterprise Resource Planning (ERP)"
+        ]
+    }
+]

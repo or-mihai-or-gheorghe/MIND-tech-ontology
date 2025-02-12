@@ -1,0 +1,1054 @@
+[
+    {
+        "name": "Material UI",
+        "synonyms": [
+            "material ui",
+            "material-ui",
+            "mui",
+            "material design ui"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Atomic Design",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Bootstrap",
+        "synonyms": [
+            "bootstrap",
+            "boot strap",
+            "twitter bootstrap",
+            "twitterbootstrap",
+            "bs"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "jQuery"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Tailwind CSS",
+        "synonyms": [
+            "tailwind css",
+            "tailwindcss",
+            "tailwind",
+            "tailwind-css"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "Node.js",
+            "npm",
+            "PostCSS"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Responsive Design",
+            "Utility-First CSS"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Vuetify",
+        "synonyms": [
+            "vuetify",
+            "vuetifyjs",
+            "vuetify js",
+            "vue vuetify"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "Vue.js"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Atomic Design",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "Vue.js"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Ant Design",
+        "synonyms": [
+            "ant design",
+            "antd",
+            "ant-design",
+            "antdesign"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "npm",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Atomic Design",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Semantic UI",
+        "synonyms": [
+            "semantic ui",
+            "semantic-ui",
+            "semanticui"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "jQuery"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Bulma",
+        "synonyms": [
+            "bulma",
+            "bulma css",
+            "bulmacss"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Foundation",
+        "synonyms": [
+            "foundation",
+            "zurb foundation",
+            "zurbfoundation",
+            "foundation css"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "jQuery"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Chakra UI",
+        "synonyms": [
+            "chakra ui",
+            "chakraui",
+            "chakra"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "PrimeReact",
+        "synonyms": [
+            "primereact",
+            "prime react",
+            "prime-react"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "PrimeNG",
+        "synonyms": [
+            "primeng",
+            "prime ng",
+            "prime-ng"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "Angular",
+            "npm",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "Angular"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "PrimeVue",
+        "synonyms": [
+            "primevue",
+            "prime vue",
+            "prime-vue"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript",
+            "Vue.js",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "Vue.js"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Carbon Design System",
+        "synonyms": [
+            "ibm carbon ds",
+            "carbon design",
+            "ibm carbon",
+            "carbon ds"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript",
+            "npm",
+            "Sass"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Evergreen",
+        "synonyms": [
+            "evergreen",
+            "evergreen ui",
+            "evergreenui",
+            "evergreen framework"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Blueprint",
+        "synonyms": [
+            "blueprint",
+            "blueprintjs",
+            "blueprint js",
+            "blueprint framework"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Grommet",
+        "synonyms": [
+            "grommet",
+            "grommet ui",
+            "grommet framework"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Element UI",
+        "synonyms": [
+            "element ui",
+            "element-ui",
+            "elementui",
+            "element"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript",
+            "Vue.js",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "Vue.js"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Quasar",
+        "synonyms": [
+            "quasar",
+            "quasar framework",
+            "quasarjs",
+            "quasar js"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "Mobile",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [
+            "Electron",
+            "npm",
+            "JavaScript",
+            "Vue.js",
+            "Cordova"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design",
+            "Progressive Web Application (PWA)",
+            "Single Page Application (SPA)"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "Vue.js"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Monolithic Fullstack Frameworks",
+            "Server-Side Rendering Frameworks"
+        ]
+    },
+    {
+        "name": "Fomantic UI",
+        "synonyms": [
+            "fomantic ui",
+            "fomantic-ui",
+            "fomanticui",
+            "fomantic"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "jQuery"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Materialize css",
+        "synonyms": [
+            "materialize css",
+            "materializecss"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "jQuery"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "React-Bootstrap",
+        "synonyms": [
+            "react-bootstrap",
+            "react bootstrap",
+            "reactbootstrap"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React",
+            "JavaScript",
+            "npm"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [
+            "React"
+        ],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "MDBootstrap",
+        "synonyms": [
+            "mdbootstrap",
+            "material design bootstrap",
+            "md bootstrap",
+            "mdb",
+            "mdbootstrap"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "HTML",
+            "jQuery",
+            "CSS",
+            "JavaScript",
+            "Bootstrap"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Kendo UI",
+        "synonyms": [
+            "kendo ui",
+            "kendoui",
+            "kendo",
+            "telerik kendo ui",
+            "telerik"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript",
+            "jQuery",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "DevExtreme",
+        "synonyms": [
+            "devextreme",
+            "dev extreme",
+            "dx",
+            "devextreme ui"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript",
+            "jQuery",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Syncfusion Essential JS 2",
+        "synonyms": [
+            "syncfusion essential js 2",
+            "essential js 2",
+            "ej2",
+            "syncfusion ej2"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Wijmo",
+        "synonyms": [
+            "wijmo",
+            "wijmo ui",
+            "wijmo framework"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript",
+            "jQuery",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Material Components Web",
+        "synonyms": [
+            "material components web",
+            "mdc web"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "MUI"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Spectre.css",
+        "synonyms": [
+            "spectre.css",
+            "spectre css",
+            "spectre"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "UIkit",
+        "synonyms": [
+            "uikit",
+            "ui kit",
+            "uikit framework",
+            "uikit css"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "JavaScript",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Component-Based Architecture",
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Milligram",
+        "synonyms": [
+            "milligram",
+            "milligram css",
+            "milligramcss"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Pure.css",
+        "synonyms": [
+            "pure.css",
+            "pure css",
+            "purecss"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Primer CSS",
+        "synonyms": [
+            "primer css",
+            "primer",
+            "primer framework",
+            "primercss"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS",
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Responsive Design"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    }
+]

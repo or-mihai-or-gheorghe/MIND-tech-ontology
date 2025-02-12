@@ -1,0 +1,3620 @@
+[
+  {
+    "name": "SAP NetWeaver",
+    "synonyms": [
+      "sap netweaver",
+      "sapnetweaver",
+      "sap net weaver"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "ABAP Workbench",
+      "SAP UI5",
+      "ABAP",
+      "SAP HANA",
+      "REST (Representational State Transfer)",
+      "SOAP (Simple Object Access Protocol)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Repository Pattern",
+      "Defense in Depth",
+      "Unit of Work",
+      "Authorization",
+      "Monolithic Architecture",
+      "Load Balancing",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Salesforce Apex",
+    "synonyms": [
+      "salesforce apex",
+      "salesforceapex"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Visualforce",
+      "Salesforce Platform",
+      "SOQL",
+      "Lightning",
+      "Apex",
+      "REST (Representational State Transfer)",
+      "SOAP (Simple Object Access Protocol)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Defense in Depth",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Kore",
+    "synonyms": [
+      "kore"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "C",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "libmicrohttpd",
+    "synonyms": [
+      "libmicrohttpd",
+      "lib microhttpd"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "C",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Mongoose",
+    "synonyms": [
+      "mongoose",
+      "mongoose c"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "C",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "ASP.NET Core",
+    "synonyms": [
+      "asp.net core",
+      "aspnet core",
+      "asp net core",
+      ".NET Core"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "C#",
+      "Entity Framework Core",
+      "VB.NET",
+      "MS SQL Server",
+      "Visual Studio",
+      "ASP.NET MVC",
+      "ASP.NET",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Authorization",
+      "Inversion of Control (IoC)",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "ASP.NET MVC",
+    "synonyms": [
+      "asp.net mvc",
+      "aspnet mvc",
+      "asp net mvc"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Visual Studio",
+      "MS SQL Server",
+      "C#",
+      "Entity Framework",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Authorization",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "NancyFX",
+    "synonyms": [
+      "nancyfx",
+      "nancy fx"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Visual Studio",
+      "Owin",
+      "C#",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Authorization",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "ServiceStack",
+    "synonyms": [
+      "servicestack",
+      "service stack"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Visual Studio",
+      "SQL Server",
+      "Redis",
+      "C#",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Repository Pattern",
+      "Unit of Work",
+      "Caching",
+      "Authorization",
+      "Service-Oriented Architecture (SOA)",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Wt",
+    "synonyms": [
+      "wt"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Qt",
+      "C++",
+      "Boost"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "CppCMS",
+    "synonyms": [
+      "cppcms",
+      "cpp cms"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "C++",
+      "Boost",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Pistache",
+    "synonyms": [
+      "pistache"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "C++",
+      "GCC",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Crow",
+    "synonyms": [
+      "crow"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "C++",
+      "CMake",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Oat++",
+    "synonyms": [
+      "oat++",
+      "oatpp",
+      "oat plus plus"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "C++",
+      "CMake",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Stacks Blockchain Tools",
+    "synonyms": [
+      "stacks blockchain tools",
+      "stacks blockchain",
+      "stacks tools"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Stacks CLI",
+      "Bitcoin",
+      "Clarity"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "RPC (Remote Procedure Call)",
+      "Event Store"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Ring Framework",
+    "synonyms": [],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Leiningen",
+      "Clojure",
+      "Ring",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Compojure",
+    "synonyms": [
+      "compojure"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Leiningen",
+      "Clojure",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Luminus",
+    "synonyms": [
+      "luminus"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Leiningen",
+      "Clojure",
+      "Ring",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Pedestal",
+    "synonyms": [
+      "pedestal"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "REPL",
+      "Clojure",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Event-Driven Architecture (EDA)"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Kemal",
+    "synonyms": [
+      "kemal"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Shards",
+      "Crystal",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Amber",
+    "synonyms": [
+      "amber"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Amber CLI",
+      "Crystal",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Lucky",
+    "synonyms": [
+      "lucky"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Lucky CLI",
+      "Crystal",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Shelf",
+    "synonyms": [
+      "shelf"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pub",
+      "Dart",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Alfred",
+    "synonyms": [
+      "alfred"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pub",
+      "Dart",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Angel",
+    "synonyms": [
+      "angel"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pub",
+      "Dart",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Phoenix",
+    "synonyms": [
+      "phoenix"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Ecto",
+      "Erlang/OTP",
+      "Mix",
+      "Elixir",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Repository Pattern",
+      "Unit of Work",
+      "Caching",
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Plug",
+    "synonyms": [
+      "plug"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Erlang/OTP",
+      "Elixir",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Nerves",
+    "synonyms": [
+      "nerves"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Raspberry Pi",
+      "Embedded Linux",
+      "Elixir"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Cowboy",
+    "synonyms": [
+      "cowboy"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Erlang",
+      "OTP",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Chicago Boss",
+    "synonyms": [
+      "chicago boss",
+      "chicagoboss"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Erlang",
+      "OTP",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Yaws",
+    "synonyms": [
+      "yaws"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Erlang",
+      "OTP",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Suave",
+    "synonyms": [
+      "suave"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "F#",
+      "NuGet",
+      "Visual Studio",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Giraffe",
+    "synonyms": [
+      "giraffe"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "F#",
+      "NuGet",
+      "Visual Studio",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Authorization",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "WebSharper",
+    "synonyms": [
+      "websharper",
+      "web sharper"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "F#",
+      "Visual Studio",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Gin",
+    "synonyms": [
+      "gin"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "go modules",
+      "Go",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Beego",
+    "synonyms": [
+      "beego"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "beego CLI",
+      "Go",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Echo",
+    "synonyms": [
+      "echo"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "go modules",
+      "Go",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Revel",
+    "synonyms": [
+      "revel"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Revel CLI",
+      "Go",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Fiber",
+    "synonyms": [
+      "fiber"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "go modules",
+      "Go",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Grails",
+    "synonyms": [
+      "grails",
+      "grails framework"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend",
+      "Fullstack"
+    ],
+    "impliesKnowingSkills": [
+      "Groovy",
+      "JVM",
+      "Gradle",
+      "GORM",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication",
+      "Server-Side Rendering (SSR)"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": [
+      "Monolithic Fullstack Frameworks"
+    ]
+  },
+  {
+    "name": "Ratpack",
+    "synonyms": [
+      "ratpack"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Groovy",
+      "Java",
+      "Gradle",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Dependency Injection"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Yesod",
+    "synonyms": [
+      "yesod"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cabal",
+      "Haskell",
+      "Stack",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Monolithic Architecture",
+      "Data Mapper"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Snap",
+    "synonyms": [
+      "snap"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cabal",
+      "Haskell",
+      "Stack",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Scotty",
+    "synonyms": [
+      "scotty"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cabal",
+      "Haskell",
+      "Stack",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Spock",
+    "synonyms": [
+      "spock"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cabal",
+      "Haskell",
+      "Stack",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Data Mapper"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Spring Boot",
+    "synonyms": [
+      "java spring boot",
+      "springboot"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Spring Framework",
+      "Java",
+      "Tomcat",
+      "Kotlin",
+      "Maven",
+      "Gradle",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Repository Pattern",
+      "Unit of Work",
+      "Caching",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Jakarta EE",
+    "synonyms": [
+      "jakarta ee",
+      "jakartaee",
+      "jakarta enterprise edition"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Java",
+      "Maven",
+      "Gradle",
+      "WildFly",
+      "GlassFish",
+      "REST (Representational State Transfer)",
+      "SOAP (Simple Object Access Protocol)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Data Mapper",
+      "Repository Pattern",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Micronaut",
+    "synonyms": [
+      "micronaut"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Kotlin",
+      "Java",
+      "Maven",
+      "Gradle",
+      "GraalVM",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Microservices Architecture",
+      "Repository Pattern",
+      "Unit of Work",
+      "Caching",
+      "Authorization",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Play Framework",
+    "synonyms": [
+      "play framework",
+      "playframework"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Java",
+      "Scala",
+      "Akka",
+      "sbt",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Vert.x",
+    "synonyms": [
+      "vert.x",
+      "vertx",
+      "vert x"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Kotlin",
+      "Eclipse Vert.x",
+      "Java",
+      "Maven",
+      "Gradle",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Event-Driven Architecture (EDA)"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Dropwizard",
+    "synonyms": [
+      "dropwizard"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Java",
+      "Maven",
+      "Gradle",
+      "Jetty",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Quarkus",
+    "synonyms": [
+      "quarkus"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Java",
+      "Maven",
+      "Gradle",
+      "GraalVM",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Microservices Architecture",
+      "Repository Pattern",
+      "Unit of Work",
+      "Caching",
+      "Authorization",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Express.js",
+    "synonyms": [
+      "express.js",
+      "expressjs",
+      "express js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Koa.js",
+    "synonyms": [
+      "koa.js",
+      "koajs",
+      "koa js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Hapi.js",
+    "synonyms": [
+      "hapi.js",
+      "hapijs",
+      "hapi js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Authorization",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "NestJS",
+    "synonyms": [
+      "nestjs",
+      "nest js",
+      "nest.js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "TypeScript",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "AdonisJS",
+    "synonyms": [
+      "adonisjs",
+      "adonis js",
+      "adonis.js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "TypeScript",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Sails.js",
+    "synonyms": [
+      "sails.js",
+      "sailsjs",
+      "sails js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Waterline ORM",
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Meteor.js",
+    "synonyms": [
+      "meteor.js",
+      "meteorjs",
+      "meteor js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "MongoDB",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Caching",
+      "Authorization",
+      "Active Record",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Fastify",
+    "synonyms": [
+      "fastify"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Ktor",
+    "synonyms": [
+      "ktor"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "JVM",
+      "Kotlin",
+      "Gradle",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Jester",
+    "synonyms": [
+      "jester"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Nim",
+      "Nimble",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Karax",
+    "synonyms": [
+      "karax"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Nim",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Prologue",
+    "synonyms": [
+      "prologue"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Nim",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Laravel",
+    "synonyms": [
+      "laravel"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Eloquent ORM",
+      "Composer",
+      "MySQL",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Symfony",
+    "synonyms": [
+      "symfony"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Composer",
+      "Doctrine ORM",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Data Mapper",
+      "Repository Pattern",
+      "Caching",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "CodeIgniter",
+    "synonyms": [
+      "codeigniter"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Composer",
+      "MySQL",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "CakePHP",
+    "synonyms": [
+      "cakephp",
+      "cake php"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Composer",
+      "MySQL",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Yii",
+    "synonyms": [
+      "yii"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Composer",
+      "MySQL",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Laminas",
+    "synonyms": [
+      "laminas"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Composer",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Dependency Injection",
+      "Monolithic Architecture"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Phalcon",
+    "synonyms": [
+      "phalcon"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Zephir",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Slim",
+    "synonyms": [
+      "slim"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Composer",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "FuelPHP",
+    "synonyms": [
+      "fuelphp",
+      "fuel php"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "PHP",
+      "Composer",
+      "MySQL",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Catalyst",
+    "synonyms": [
+      "catalyst"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "CPAN",
+      "Perl",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Data Mapper",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Dancer",
+    "synonyms": [
+      "dancer"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "CPAN",
+      "Perl",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Mojolicious",
+    "synonyms": [
+      "mojolicious"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "CPAN",
+      "Perl",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Django",
+    "synonyms": [
+      "django",
+      "Python Django"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "WSGI",
+      "Python",
+      "SQLite",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Integration Testing",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Unit Testing",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Flask",
+    "synonyms": [
+      "flask"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "Python",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "FastAPI",
+    "synonyms": [
+      "fastapi",
+      "fast api"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "Python",
+      "ASGI",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Dependency Injection"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Pyramid",
+    "synonyms": [
+      "pyramid"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "WSGI",
+      "Python",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Authorization",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Tornado",
+    "synonyms": [
+      "tornado"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "asyncio",
+      "Python",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Authorization",
+      "Event-Driven Architecture (EDA)",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Bottle",
+    "synonyms": [
+      "bottle"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "Python",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Falcon",
+    "synonyms": [
+      "falcon"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "Python",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "web2py",
+    "synonyms": [
+      "web2py",
+      "web 2 py"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "Python",
+      "SQLite",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Sanic",
+    "synonyms": [
+      "sanic"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "asyncio",
+      "Python",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Ruby on Rails",
+    "synonyms": [
+      "ruby on rails",
+      "rails",
+      "ror"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "SQLite",
+      "Bundler",
+      "RubyGems",
+      "ActiveRecord",
+      "Ruby",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Integration Testing",
+      "Active Record",
+      "Monolithic Architecture",
+      "Unit Testing"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Sinatra",
+    "synonyms": [
+      "sinatra"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Bundler",
+      "Ruby",
+      "RubyGems",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Hanami",
+    "synonyms": [
+      "hanami"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Bundler",
+      "Ruby",
+      "RubyGems",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Data Mapper",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Padrino",
+    "synonyms": [
+      "padrino"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Bundler",
+      "Ruby",
+      "RubyGems",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Grape",
+    "synonyms": [
+      "grape"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Bundler",
+      "Ruby",
+      "RubyGems",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Actix Web",
+    "synonyms": [
+      "actix web",
+      "actixweb"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cargo",
+      "Rust",
+      "Tokio",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Rocket",
+    "synonyms": [
+      "rocket"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cargo",
+      "Rust",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Warp",
+    "synonyms": [
+      "warp"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cargo",
+      "Rust",
+      "Tokio",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Tide",
+    "synonyms": [
+      "tide"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cargo",
+      "Rust",
+      "async-std",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Axum",
+    "synonyms": [
+      "axum"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Cargo",
+      "Rust",
+      "Tokio",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Akka HTTP",
+    "synonyms": [
+      "akka http",
+      "akka-http",
+      "akkahttp"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "sbt",
+      "Scala",
+      "Akka",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Event-Driven Architecture (EDA)"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Lift",
+    "synonyms": [
+      "lift"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "sbt",
+      "Scala",
+      "Scala.js",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Scalatra",
+    "synonyms": [
+      "scalatra"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "sbt",
+      "Scala",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Truffle",
+    "synonyms": [
+      "truffle"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Solidity",
+      "Vyper",
+      "Ganache",
+      "Truffle Suite"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "RPC (Remote Procedure Call)",
+      "Event Store"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Hardhat",
+    "synonyms": [
+      "hardhat"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Solidity",
+      "Ethereum",
+      "Hardhat"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "RPC (Remote Procedure Call)"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Embark",
+    "synonyms": [
+      "embark"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Solidity",
+      "Embark"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "RPC (Remote Procedure Call)"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Brownie",
+    "synonyms": [
+      "brownie"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Solidity",
+      "Brownie",
+      "Vyper",
+      "Ethereum",
+      "Python"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "RPC (Remote Procedure Call)"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Vapor",
+    "synonyms": [
+      "vapor"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Swift",
+      "Vapor Toolbox",
+      "Xcode",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Perfect",
+    "synonyms": [
+      "perfect"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Swift",
+      "Xcode",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Zewo",
+    "synonyms": [
+      "zewo"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Swift",
+      "Xcode",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "LoopBack",
+    "synonyms": [
+      "loopback",
+      "loop back"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "npm",
+      "TypeScript",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Authorization",
+      "Active Record",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "FeathersJS",
+    "synonyms": [
+      "feathersjs",
+      "feathers js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "npm",
+      "TypeScript",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Repository Pattern",
+      "Authorization",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "ActionHero",
+    "synonyms": [
+      "actionhero",
+      "action hero"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Node.js",
+      "npm",
+      "TypeScript",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "ASP.NET",
+    "synonyms": [
+      "asp.net",
+      "aspnet",
+      "asp net",
+      ".NET",
+      ".NET Framework"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "VB.NET",
+      "MS SQL Server",
+      "Visual Studio",
+      "Entity Framework",
+      "SOAP (Simple Object Access Protocol)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Caching",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "IBM Mainframe Systems",
+    "synonyms": [
+      "ibm mainframe systems",
+      "ibmmainframesystems"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Mainframe tools",
+      "COBOL",
+      "IBM z/OS",
+      "SOAP (Simple Object Access Protocol)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Defense in Depth",
+      "Unit of Work",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "DataSnap",
+    "synonyms": [
+      "datasnap",
+      "data snap"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "RAD Studio",
+      "Delphi",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Active Record",
+      "RPC (Remote Procedure Call)",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "uniGUI",
+    "synonyms": [
+      "unigui",
+      "uni gui"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "RAD Studio",
+      "Delphi",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Active Record",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "mORMot",
+    "synonyms": [
+      "mormot",
+      "mormot framework"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Free Pascal",
+      "Delphi",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Caching",
+      "Active Record",
+      "RPC (Remote Procedure Call)",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Vibe.d",
+    "synonyms": [
+      "vibe.d",
+      "vibed",
+      "vibe d"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "D",
+      "DUB",
+      "D Language",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Hunt Framework",
+    "synonyms": [
+      "hunt framework",
+      "huntframework"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "D",
+      "DUB",
+      "D Language",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Tcl Web Server",
+    "synonyms": [
+      "tcl web server",
+      "tclwebserver"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Tcl",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "NaviServer",
+    "synonyms": [
+      "naviserver",
+      "navi server"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Tcl",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Ufront",
+    "synonyms": [
+      "ufront"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Haxe",
+      "Haxelib",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "tink_web",
+    "synonyms": [
+      "tink_web",
+      "tink web"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Haxe",
+      "Haxelib",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "IBM iSeries Backend Development",
+    "synonyms": [
+      "ibm iseries backend development",
+      "ibmiseriesbackenddevelopment"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "RPG",
+      "IBM iSeries",
+      "SOAP (Simple Object Access Protocol)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Repository Pattern",
+      "Defense in Depth",
+      "Unit of Work",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Buffalo",
+    "synonyms": [
+      "buffalo",
+      "buffalo framework"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Buffalo CLI",
+      "go modules",
+      "Go",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Iris",
+    "synonyms": [
+      "iris",
+      "iris framework"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "go modules",
+      "Iris CLI",
+      "Go",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Authorization",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Chi",
+    "synonyms": [
+      "chi",
+      "chi router",
+      "chi framework"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "go modules",
+      "Go",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "aiohttp",
+    "synonyms": [
+      "aiohttp",
+      "aio http",
+      "aio-http"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "asyncio",
+      "Python",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "CherryPy",
+    "synonyms": [
+      "cherrypy",
+      "cherry py",
+      "cherry-py"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "pip",
+      "Python",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Lagom",
+    "synonyms": [
+      "lagom",
+      "lagom framework",
+      "lagom microservices"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend"
+    ],
+    "impliesKnowingSkills": [
+      "Java",
+      "Scala",
+      "Lightbend",
+      "sbt",
+      "REST (Representational State Transfer)"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "Microservices Architecture",
+      "Authorization",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": []
+  },
+  {
+    "name": "Total.js",
+    "synonyms": [
+      "total.js",
+      "totaljs",
+      "total js"
+    ],
+    "type": [
+      "Framework"
+    ],
+    "technicalDomains": [
+      "Backend",
+      "Fullstack"
+    ],
+    "impliesKnowingSkills": [
+      "Total.js CLI",
+      "Node.js",
+      "JavaScript",
+      "npm",
+      "REST (Representational State Transfer)",
+      "WebSocket"
+    ],
+    "impliesKnowingConcepts": [],
+    "conceptualAspects": [],
+    "architecturalPatterns": [],
+    "implementsPatternsByDefault": [
+      "MVC (Model-View-Controller)",
+      "Caching",
+      "Active Record",
+      "Authorization",
+      "Monolithic Architecture",
+      "Dependency Injection",
+      "Authentication"
+    ],
+    "implementsPatternsThroughLibrariesAndServices": [],
+    "associatedToApplicationDomains": [],
+    "solvesApplicationTasks": [
+      "Monolithic Fullstack Frameworks",
+      "Shared Middleware Integration"
+    ]
+  }
+]

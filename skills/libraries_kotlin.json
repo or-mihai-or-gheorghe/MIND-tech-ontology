@@ -1,0 +1,882 @@
+[
+    {
+        "name": "Jetpack Compose",
+        "synonyms": [
+            "jetpack compose",
+            "compose",
+            "android compose"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Components"
+        ]
+    },
+    {
+        "name": "Accompanist",
+        "synonyms": [
+            "accompanist",
+            "jetpack accompanist"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Components",
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Room Persistence Library",
+        "synonyms": [
+            "room",
+            "room persistence",
+            "android room"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Local Databases"
+        ]
+    },
+    {
+        "name": "SQLDelight",
+        "synonyms": [
+            "sqldelight",
+            "sql delight"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Local Databases"
+        ]
+    },
+    {
+        "name": "Realm Kotlin",
+        "synonyms": [
+            "kotlin realm"
+            
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": ["realm"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Local Databases"
+        ]
+    },
+    {
+        "name": "Firebase Authentication",
+        "synonyms": [
+            "firebase authentication",
+            "firebase auth"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": ["Firebase"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Authentication Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Auth0 Android",
+        "synonyms": [
+            "auth0 android"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": ["auth0"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Authentication Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Firebase Cloud Messaging",
+        "synonyms": [
+            "firebase cloud messaging",
+            "fcm"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Push Notifications"
+        ]
+    },
+    {
+        "name": "OneSignal",
+        "synonyms": [
+            "onesignal",
+            "one signal"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Push Notifications"
+        ]
+    },
+    {
+        "name": "Firebase Analytics",
+        "synonyms": [
+            "firebase analytics",
+            "firebase analytics sdk"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Analytics and Tracking"
+        ]
+    },
+    {
+        "name": "Mixpanel",
+        "synonyms": [
+            "mixpanel",
+            "mix panel"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Analytics and Tracking"
+        ]
+    },
+    {
+        "name": "Stripe Android SDK",
+        "synonyms": [
+            "stripe android"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": ["stripe"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Payment Integration"
+        ]
+    },
+    {
+        "name": "Braintree Android SDK",
+        "synonyms": [
+            "braintree android sdk"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": ["braintree"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Payment Integration"
+        ]
+    },
+    {
+        "name": "Fused Location Provider",
+        "synonyms": [
+            "fused location provider",
+            "google location services"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Location Services"
+        ]
+    },
+    {
+        "name": "Mapbox Android SDK",
+        "synonyms": [
+            "mapbox android sdk",
+            "mapbox sdk",
+            "mapbox"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Location Services"
+        ]
+    },
+    {
+        "name": "Estimote Kotlin SDK",
+        "synonyms": [
+            "estimote kotlin",
+            "estimote sdk",
+            "estimote"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Sensor Integration Libraries"
+        ]
+    },
+    {
+        "name": "AltBeacon",
+        "synonyms": [
+            "altbeacon",
+            "alt beacon"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Sensor Integration Libraries"
+        ]
+    },
+    {
+        "name": "Firebase Test Lab",
+        "synonyms": [
+            "firebase test lab",
+            "test lab"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Device Compatibility Testing"
+        ]
+    },
+    {
+        "name": "AWS Device Farm",
+        "synonyms": [
+            "aws device farm",
+            "amazon device farm"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Device Compatibility Testing"
+        ]
+    },
+    {
+        "name": "Appium",
+        "synonyms": [
+            "appium",
+            "appium for android"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Cross-platform Testing"
+        ]
+    },
+    {
+        "name": "Kaspresso",
+        "synonyms": [
+            "kaspresso",
+            "kaspresso ui testing"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Automation"
+        ]
+    },
+    {
+        "name": "Barista",
+        "synonyms": [
+            "barista",
+            "barista testing"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Automation"
+        ]
+    },
+    {
+        "name": "MockWebServer",
+        "synonyms": [
+            "mockwebserver",
+            "square mockwebserver"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Offline Mode Testing"
+        ]
+    },
+    {
+        "name": "Battery Historian",
+        "synonyms": [
+            "battery historian",
+            "battery analysis tool"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Battery Consumption Testing"
+        ]
+    },
+    {
+        "name": "LeakCanary",
+        "synonyms": [
+            "leakcanary",
+            "memory leak detection leakcanary"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Memory Usage Testing"
+        ]
+    },
+    {
+        "name": "MobSF",
+        "synonyms": [
+            "mobsf",
+            "mobile security framework"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile Security Testing"
+        ]
+    },
+    {
+        "name": "QARK",
+        "synonyms": [
+            "qark",
+            "quick android review kit"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile Security Testing"
+        ]
+    },
+    {
+        "name": "Charles Proxy",
+        "synonyms": [
+            "charles proxy",
+            "charles"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Network Condition Testing"
+        ]
+    },
+    {
+        "name": "Android Network Profiler",
+        "synonyms": [
+            "android network profiler",
+            "network profiler"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Network Condition Testing"
+        ]
+    },
+    {
+        "name": "Kotlin Coroutines",
+        "synonyms": [
+            "kotlin coroutines"            
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": ["Coroutines"],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Koin",
+        "synonyms": [
+            "koin",
+            "koin di",
+            "koin dependency injection"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Kodein",
+        "synonyms": [
+            "kodein",
+            "kodein di",
+            "kodein dependency injection"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Moshi",
+        "synonyms": [
+            "moshi",
+            "moshi json"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "Kotlin"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    }
+]

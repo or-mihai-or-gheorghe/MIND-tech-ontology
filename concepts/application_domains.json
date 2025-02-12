@@ -1,0 +1,459 @@
+[
+    {
+        "category": "Content & Knowledge Management",
+        "application_domains": [
+            "Traditional CMS Platforms",
+            "Headless CMS & Content APIs",
+            "Enterprise CMS Solutions",
+            "Static Site Generators",
+            "Document Management Systems",
+            "Digital Asset Management (DAM)",
+            "Knowledge Management Systems",
+            "Internal Wikis & Documentation",
+            "API Documentation Platforms",
+            "Technical Documentation Tools",
+            "Content Operations & Workflows",
+            "Content Analytics & Optimization"
+        ]
+    },
+    {
+        "category": "Enterprise Systems & Business Applications",
+        "application_domains": [
+            "Enterprise Resource Planning (ERP)",
+            "Cloud-Native ERP",
+            "Customer Relationship Management",
+            "Marketing Automation & CX",
+            "Human Capital Management",
+            "Talent Management & Recruiting",
+            "Employee Experience & Engagement",
+            "Workforce Management",
+            "Time Tracking & Project Costing",
+            "Supply Chain Management",
+            "Procurement & Spend Management",
+            "Manufacturing Systems",
+            "Manufacturing Execution Systems",
+            "Asset & Maintenance Management",
+            "Project Portfolio Management",
+            "Enterprise Service Management",
+            "Configure Price Quote (CPQ)",
+            "Quote-to-Cash Solutions"
+        ]
+    },
+    {
+        "category": "E-commerce, Retail & Digital Commerce",
+        "application_domains": [
+            "Enterprise E-commerce Platforms",
+            "SMB E-commerce Platforms",
+            "Headless Commerce Platforms",
+            "Payment Processing & Gateways",
+            "Buy Now Pay Later (BNPL)",
+            "Retail Point of Sale (POS)",
+            "Inventory Management Systems",
+            "Order Management Systems (OMS)",
+            "Fulfillment & Shipping",
+            "Multi-channel Management",
+            "Marketplace Solutions",
+            "Dropshipping & Sourcing",
+            "E-commerce Analytics & Optimization",
+            "Product Information Management",
+            "E-commerce Search & Discovery",
+            "Retail Store Technology"
+        ]
+    },
+    {
+        "category": "Data, Analytics & Business Intelligence",
+        "application_domains": [
+            "Modern Data Warehouses",
+            "Data Lakes & Lakehouses",
+            "Data Integration & ETL/ELT",
+            "Reverse ETL & Operational Analytics",
+            "Business Intelligence Platforms",
+            "Self-Service Analytics",
+            "Data Visualization Libraries",
+            "Data Cataloging & Discovery",
+            "Data Quality & Observability",
+            "Data Governance & Privacy",
+            "Data Science Platforms",
+            "Analytics Engineering",
+            "Stream Processing",
+            "Time Series & Event Analytics",
+            "Embedded Analytics",
+            "AI/ML Feature Stores"
+        ]
+    },
+    {
+        "category": "DevOps & Platform Engineering",
+        "application_domains": [
+            "CI/CD & Pipeline Automation",
+            "Infrastructure as Code & Configuration",
+            "Container Platforms & Orchestration",
+            "Container Development Tools",
+            "Service Mesh & Networking",
+            "DevOps Observability & Monitoring",
+            "Continuous Testing & Quality",
+            "GitOps & Release Management",
+            "Developer Platforms",
+            "DevOps Analytics & Insights"
+        ]
+    },
+    {
+        "category": "Cloud Computing & Infrastructure Services",
+        "application_domains": [
+            "Major Cloud Providers",
+            "Regional Cloud Providers",
+            "Cloud Database Services - SQL",
+            "Cloud Database Services - NoSQL",  
+            "Database Management & Optimization",  
+            "Cloud Storage Solutions",  
+            "Content Delivery Networks",  
+            "Edge Computing & Functions",  
+            "Container Services",  
+            "Serverless Platforms",  
+            "Message Queuing & Event Streaming",  
+            "Cloud Email Services",  
+            "SMS & Communication APIs",  
+            "Cloud Security Services",   
+            "Secret Management",  
+            "Cloud Networking",  
+            "Cloud Load Balancing",  
+            "Cloud DNS Services",  
+            "Cloud Monitoring & APM",  
+            "Log Management & Analysis",  
+            "Infrastructure Monitoring",  
+            "Cloud Cost Management",  
+            "Cloud Compliance & Governance",  
+            "Cloud AI/ML Services",  
+            "Cloud DevOps Tools",  
+            "Backup & Disaster Recovery",  
+            "Cloud Migration Tools"
+        ]
+    },
+    {
+        "category": "Security & Compliance",
+        "application_domains": [
+            "Cloud Security Platforms",  
+            "Endpoint Protection",  
+            "Network Security",  
+            "Zero Trust Security",  
+            "Identity & Access Management",  
+            "Privileged Access Management",  
+            "SIEM & Security Analytics",  
+            "Security Orchestration (SOAR)",  
+            "Threat Intelligence",  
+            "Vulnerability Management",  
+            "Application Security Testing",  
+            "Container Security",  
+            "Cloud Infrastructure Security",  
+            "Data Security & Loss Prevention",  
+            "Email Security",  
+            "Mobile Security",  
+            "API Security",  
+            "Security Training & Awareness",  
+            "Penetration Testing Tools",  
+            "Bug Bounty Platforms",  
+            "GRC Platforms",  
+            "Third-Party Risk Management",  
+            "Regulatory Compliance",  
+            "Financial Crime Prevention",  
+            "Security Ratings & Scoring",  
+            "Crypto Security & Custody"
+        ]
+    },
+    {
+        "category": "Communications & Collaboration",
+        "application_domains": [
+            "Team Communication Platforms",  
+            "Video Platforms & Virtual Events",  
+            "Asynchronous Video Communication",  
+            "Project & Work Management",  
+            "Task & Personal Productivity",  
+            "Documentation & Knowledge Sharing",  
+            "Digital Whiteboarding & Visual Collaboration",  
+            "Version Control & Code Collaboration",  
+            "Code Review & Pair Programming",  
+            "Design Collaboration & Handoff",  
+            "File Sharing & Content Collaboration",  
+            "Internal Communications & Engagement"
+        ]
+    }, 
+    {
+        "category": "Marketing Technology & Analytics",
+        "application_domains": [
+            "Web Analytics & Tracking",  
+            "Product Analytics & User Behavior",  
+            "Marketing Attribution & Mix",  
+            "Customer Data Platforms",  
+            "A/B Testing & Experimentation",  
+            "Tag Management Systems",  
+            "Marketing Analytics & BI",  
+            "Social Media Analytics",  
+            "Consent & Privacy Management"
+        ]
+    },
+    {
+        "category": "Customer Engagement & Support",
+        "application_domains": [
+            "Customer Service Platforms",  
+            "IT Service Management (ITSM)",  
+            "Contact Center Solutions",  
+            "Voice & Telephony",  
+            "Customer Feedback & Surveys",  
+            "Conversational AI & Chatbots",  
+            "Customer Success Platforms",  
+            "Knowledge Base & Self-Service",  
+            "Community & Forum Platforms",  
+            "User Onboarding & Adoption"
+        ]
+    },
+    {
+        "category": "AI, ML & Data Science",
+        "application_domains": [
+            "Enterprise AI Development Platforms",  
+            "LLM Platforms & Services",  
+            "LLM Development & RAG Frameworks",  
+            "AI Agent Development",  
+            "AI Agent Orchestration",  
+            "AI Agent Evaluation & Testing",  
+            "Vector Databases & Similarity Search Services",  
+            "Model Training & MLOps Platforms",  
+            "Model Fine-Tuning & Experimentation",  
+            "AutoML & No-Code AI Platforms",  
+            "Deep Learning Frameworks",  
+            "Traditional ML Libraries",  
+            "NLP & Text Processing",  
+            "Computer Vision & Image Processing",  
+            "Data Labeling & Dataset Management",  
+            "AI Infrastructure & Optimization"
+        ]
+    },
+    {
+        "category": "Process Automation & Low-Code Platforms",
+        "application_domains": [
+            "Enterprise RPA Platforms",  
+            "Cloud Automation & Integration",  
+            "Business Process Management (BPM)",  
+            "Low-Code Development Platforms",  
+            "No-Code Development Platforms",  
+            "Workflow Management Systems",  
+            "Document Automation & Processing",  
+            "Process Mining & Analytics",  
+            "Automation Testing & Quality",  
+            "Intelligent Process Automation"
+        ]
+    },
+    {
+        "category": "Blockchain, Web3 & Digital Assets",
+        "application_domains": [
+            "Layer 1 Blockchain Networks",  
+            "Layer 2 Scaling Solutions",  
+            "Enterprise Blockchain Platforms",  
+            "Web3 Development Frameworks",  
+            "Smart Contract Tools & Security",  
+            "DeFi Infrastructure & Protocols",  
+            "Cross-chain & Interoperability",  
+            "Crypto Wallets & Identity",  
+            "NFT Platforms & Infrastructure",  
+            "Web3 Data & Analytics",  
+            "DAO Tools & Governance",  
+            "Real-World Asset Tokenization",  
+            "Web3 Gaming & Metaverse",  
+            "Crypto Payment & Fiat Ramps"
+        ]
+    },
+    {
+        "category": "IoT & Industrial Technology",
+        "application_domains": [ 
+            "IoT Cloud Platforms",  
+            "Industrial IoT Platforms",  
+            "IoT Device Management",  
+            "IoT Security Platforms",  
+            "Edge Computing Platforms",  
+            "Industrial Control Systems",  
+            "SCADA Systems",  
+            "Industrial Networks",  
+            "Industrial Automation",  
+            "Embedded Operating Systems",  
+            "Embedded Development",  
+            "Embedded Hardware",  
+            "Real-time Communication",  
+            "Asset Tracking & Management",  
+            "Fleet Management",  
+            "Building Automation",  
+            "Smart Home Platforms",  
+            "Smart City Solutions",  
+            "Industrial Analytics",  
+            "Digital Twin Platforms",  
+            "IoT Application Development",  
+            "IoT Connectivity",  
+            "Sensor Networks"
+        ]
+    },
+    {
+        "category": "Healthcare & Life Sciences Technology",
+        "application_domains": [
+            "Electronic Health Records (EHR)",  
+            "Practice Management Systems",  
+            "Hospital Information Systems",  
+            "Revenue Cycle Management",  
+            "Telemedicine Platforms",  
+            "Remote Patient Monitoring",  
+            "Healthcare Analytics & AI",  
+            "Clinical Decision Support",  
+            "Medical Imaging & PACS",  
+            "Laboratory Information Systems",  
+            "Pharmacy Management Systems",  
+            "Clinical Trial Management",  
+            "Drug Discovery & Development",  
+            "Life Sciences R&D Platforms",  
+            "Healthcare Interoperability",  
+            "Medical Device Software",  
+            "Population Health Management",  
+            "Mental Health Platforms"
+        ]
+    },  
+    {
+        "category": "Education & Training Technology",
+        "application_domains": [
+            "Enterprise Learning Management Systems",  
+            "K-12 Learning Platforms",  
+            "Higher Education Management",  
+            "MOOC & Online Course Platforms",  
+            "Course Creation & Teaching Platforms",  
+            "Virtual Classroom Solutions",  
+            "Online Tutoring & Mentoring",  
+            "Language Learning Platforms",  
+            "Coding & Tech Education",  
+            "Assessment & Proctoring Tools",  
+            "Student Engagement & Feedback",  
+            "Education Analytics & Insights",  
+            "Educational Content Management",  
+            "Career & Skills Development",  
+            "Early Childhood Education"
+        ]
+    },
+    {
+        "category": "Media, Entertainment & Gaming",
+        "application_domains": [
+            "Video Content Management",  
+            "Media Asset Management",  
+            "Streaming Infrastructure",  
+            "Live Streaming Platforms",  
+            "Video Processing & Encoding",  
+            "Content Protection & DRM",  
+            "Game Development Engines",  
+            "Game Development Tools",  
+            "Gaming Infrastructure",  
+            "Game Analytics & Operations",  
+            "Mobile Game Development",  
+            "Esports & Tournament Platforms",  
+            "Motion Capture & Animation",  
+            "Sound Design & Audio",  
+            "Localization Management",  
+            "Virtual Production",  
+            "Metaverse Platforms",  
+            "Media Distribution & Licensing",  
+            "Broadcast Management",  
+            "Content Monetization",  
+            "Fan Engagement & Community",  
+            "QA & Testing for Games"
+        ]
+    },
+    {
+        "category": "Travel, Hospitality & Transportation",
+        "application_domains": [
+            "Global Distribution Systems (GDS)",  
+            "Online Travel & Booking Platforms",  
+            "Hotel Property Management Systems",  
+            "Hotel Distribution & Channel Management",  
+            "Transportation Management Systems",  
+            "Fleet Management & Telematics",  
+            "Last-Mile Delivery Management",  
+            "Mapping & Navigation Services",  
+            "Ride-Hailing & Mobility Platforms",  
+            "Car Rental Management Systems",  
+            "Airlines & Aviation Systems",  
+            "Railway Management Systems",  
+            "Port & Maritime Management",  
+            "Travel Analytics & Revenue Management",  
+            "Smart Tourism & Experience Platforms"
+        ]
+    },
+    {
+        "category": "Real Estate & Construction",
+        "application_domains": [
+            "Property Management & PropTech Platforms",  
+            "Building Information Modeling (BIM) Tools",  
+            "Construction Management Software"
+        ]
+    },
+    {
+        "category": "Legal & Government",
+        "application_domains": [
+            "LegalTech & eDiscovery Tools",  
+            "Government Resource Planning (GRP) Systems",  
+            "Electronic Voting & Public Service Portals"
+        ]
+    }, 
+    {
+        "category": "Engineering & Simulation",
+        "application_domains": [
+            "3D Modeling & CAD",  
+            "3D Animation & Visual Effects",  
+            "Engineering Simulation",  
+            "Digital Twin Platforms"
+        ]
+    },
+    {
+        "category": "Robotics & Automation",
+        "application_domains": [
+            "Robotics Development",  
+            "Industrial Robotics Software",  
+            "Autonomous Systems",  
+            "Motion Control & PLC"
+        ]
+    },
+    {
+        "category": "Sustainability & ESG",
+        "application_domains": [
+            "Environmental Management",  
+            "Carbon Accounting & Management",  
+            "ESG Reporting & Analytics",  
+            "Energy Management"
+        ]
+    }, 
+    {
+        "category": "Aerospace & Defense",
+        "application_domains": [
+            "Avionics Software",  
+            "Flight Management Systems",  
+            "Air Traffic Management",  
+            "Space Systems Software"
+        ]
+    },
+    {
+        "category": "Advanced Manufacturing",
+        "application_domains": [
+            "Additive Manufacturing",  
+            "Industrial IoT Platforms",  
+            "Quality Management Systems",  
+            "Manufacturing Analytics"
+        ]
+    },
+    {
+        "category": "Quantum Computing",
+        "application_domains": [
+            "Quantum Development",  
+            "Quantum Simulators",  
+            "Post-Quantum Cryptography"
+        ]
+    },
+    {
+        "category": "Extended Reality (XR)",
+        "application_domains": [
+            "AR Development",  
+            "VR Development",  
+            "Mixed Reality",  
+            "Spatial Computing" 
+        ]
+    }
+]

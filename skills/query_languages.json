@@ -1,0 +1,1466 @@
+[
+    {
+        "name": "SQL",
+        "synonyms": [
+            "Structured Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Schema Awareness",
+            "Relational",
+            "Stored Procedures",
+            "__Data Modification",
+            "Query Planning",
+            "Set Operations",
+            "Join Operations",
+            "__Analytical Functions",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Projection",
+            "Index-based Access"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "PL/SQL",
+        "synonyms": [
+            "Procedural Language/SQL",
+            "PLSQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "__Procedural Constructs",
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Schema Awareness",
+            "Relational",
+            "Stored Procedures",
+            "__Data Modification",
+            "Query Planning",
+            "Set Operations",
+            "Join Operations",
+            "__Analytical Functions",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Projection",
+            "Imperative",
+            "Index-based Access"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "T-SQL",
+        "synonyms": [
+            "Transact-SQL",
+            "T-SQL",
+            "Transact SQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "__Procedural Constructs",
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Schema Awareness",
+            "Relational",
+            "Stored Procedures",
+            "__Data Modification",
+            "Query Planning",
+            "Set Operations",
+            "Join Operations",
+            "__Analytical Functions",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Projection",
+            "Imperative",
+            "Index-based Access"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "MySQL Query Language",
+        "synonyms": [
+            "MySQL QL",
+            "MySQL SQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Schema Awareness",
+            "Relational",
+            "Stored Procedures",
+            "__Data Modification",
+            "Query Planning",
+            "Set Operations",
+            "Join Operations",
+            "__Analytical Functions",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Projection",
+            "Index-based Access"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "PostgreSQL SQL",
+        "synonyms": [
+            "PostgreSQL QL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Schema Awareness",
+            "Relational",
+            "Stored Procedures",
+            "__Data Modification",
+            "Query Planning",
+            "Set Operations",
+            "Join Operations",
+            "__Analytical Functions",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Projection",
+            "Index-based Access"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CQL (Cassandra Query Language)",
+        "synonyms": [
+            "CQL",
+            "Cassandra CQL",
+            "Cassandra Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "__Data Modification",
+            "Column-family",
+            "Query Planning",
+            "Transactions",
+            "Query Optimization",
+            "__Projection",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Cypher (Neo4j)",
+        "synonyms": [
+            "Cypher",
+            "Neo4j Cypher"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "ACID Properties",
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "__Relationship Traversal",
+            "__Recursive Querying",
+            "__Data Modification",
+            "Query Planning",
+            "Transactions",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "__User-Defined Functions",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Gremlin",
+        "synonyms": [
+            "Apache Gremlin"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "ACID Properties",
+            "__Procedural Constructs",
+            "Aggregation",
+            "__Relationship Traversal",
+            "__Schema Awareness",
+            "__Recursive Querying",
+            "__Data Modification",
+            "Query Planning",
+            "Imperative",
+            "Transactions",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "__User-Defined Functions",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SPARQL",
+        "synonyms": [
+            "SPARQL Protocol and RDF Query Language",
+            "Sparql"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "__Relationship Traversal",
+            "__Recursive Querying",
+            "Query Planning",
+            "__Semantic Querying",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "Set Operations",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "GraphQL",
+        "synonyms": [
+            "GraphQL Query Language",
+            "Graph QL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "__Relationship Traversal",
+            "__Projection",
+            "__Semantic Querying",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "N1QL (Couchbase)",
+        "synonyms": [
+            "SQL++ for JSON",
+            "N1QL",
+            "Couchbase Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "Document-oriented",
+            "Relational",
+            "__Data Modification",
+            "Query Planning",
+            "Set Operations",
+            "Join Operations",
+            "__Analytical Functions",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Projection",
+            "__Schema Flexibility",
+            "Index-based Access",
+            "Full-text Search"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "HiveQL (Hive Query Language)",
+        "synonyms": [
+            "HQL",
+            "Hive Query Language",
+            "HiveQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "Relational",
+            "__Data Modification",
+            "Query Planning",
+            "Query Optimization",
+            "__Projection",
+            "Set Operations",
+            "__User-Defined Functions",
+            "Join Operations",
+            "__Analytical Functions",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Pig Latin (Apache Pig)",
+        "synonyms": [
+            "Pig Latin",
+            "Apache Pig Latin"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Procedural Constructs",
+            "__Selection/Filtering",
+            "Aggregation",
+            "__Data Modification",
+            "Query Planning",
+            "Query Optimization",
+            "__Projection",
+            "Set Operations",
+            "Join Operations",
+            "__Sorting/Ordering",
+            "Dataflow",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Drill SQL (Apache Drill)",
+        "synonyms": [
+            "Apache Drill SQL",
+            "Drill SQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Aggregation",
+            "__Schema Flexibility",
+            "__Data Modification",
+            "Query Planning",
+            "Query Optimization",
+            "__Projection",
+            "Set Operations",
+            "Multi-model",
+            "Join Operations",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Full-text Search"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "KQL (Kusto Query Language)",
+        "synonyms": [
+            "KQL",
+            "Azure Data Explorer Query Language",
+            "Kusto Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Time-series",
+            "Aggregation",
+            "__Functional Constructs",
+            "__Data Modification",
+            "Query Planning",
+            "__Time-series Semantics",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "Join Operations",
+            "__Analytical Functions",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Full-text Search"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Flux (InfluxDB)",
+        "synonyms": [
+            "InfluxDB Flux"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Time-series",
+            "__Selection/Filtering",
+            "Aggregation",
+            "__Functional Constructs",
+            "__Data Modification",
+            "Query Planning",
+            "__Time-series Semantics",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "__User-Defined Functions",
+            "__Analytical Functions",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "Dataflow",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "InfluxQL (InfluxDB)",
+        "synonyms": [
+            "Influx SQL",
+            "InfluxQL",
+            "InfluxDB Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Time-series",
+            "Declarative",
+            "Aggregation",
+            "__Data Modification",
+            "Query Planning",
+            "__Time-series Semantics",
+            "Query Optimization",
+            "__Projection",
+            "__User-Defined Functions",
+            "__Analytical Functions",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "PromQL (Prometheus Query Language)",
+        "synonyms": [
+            "Prometheus Query Language",
+            "PromQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Time-series",
+            "Aggregation",
+            "__Functional Constructs",
+            "__Time-series Semantics",
+            "__Projection",
+            "__Path-based Syntax",
+            "__Analytical Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "XQuery",
+        "synonyms": [
+            "XML Query Language",
+            "X-Query"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "Document-oriented",
+            "__Schema Awareness",
+            "__Data Modification",
+            "Query Planning",
+            "Join Operations",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Semantic Querying",
+            "__Projection",
+            "__Schema Flexibility",
+            "__Functional Constructs",
+            "__Path-based Syntax",
+            "Index-based Access",
+            "Full-text Search"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "XPath",
+        "synonyms": [
+            "XML Path Language",
+            "X-Path"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Projection",
+            "__Path-based Syntax",
+            "__Selection/Filtering",
+            "Document-oriented"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "JSONiq",
+        "synonyms": [
+            "JSON Query Language",
+            "JSON-iq"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Aggregation",
+            "__Schema Flexibility",
+            "__Functional Constructs",
+            "__Recursive Querying",
+            "__Data Modification",
+            "Query Planning",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "Full-text Search",
+            "__User-Defined Functions",
+            "Join Operations",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Document-oriented"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "LINQ (Language Integrated Query)",
+        "synonyms": [
+            "LINQ",
+            ".NET Language Integrated Query",
+            "Language Integrated Query"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Procedural Constructs",
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__Method Chaining Syntax",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Schema Awareness",
+            "__Data Modification",
+            "Query Planning",
+            "Set Operations",
+            "Join Operations",
+            "__Analytical Functions",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Projection",
+            "__Functional Constructs",
+            "Imperative",
+            "Index-based Access"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "AQL (ArangoDB Query Language)",
+        "synonyms": [
+            "AQL",
+            "ArangoDB Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Relationship/Graph Semantics",
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "Document-oriented",
+            "__Data Modification",
+            "Query Planning",
+            "Join Operations",
+            "__Relationship Traversal",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Document Nesting Semantics",
+            "__Projection",
+            "__Schema Flexibility",
+            "__Path-based Syntax",
+            "Multi-model",
+            "Index-based Access",
+            "Graph-based",
+            "Full-text Search"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Datalog",
+        "synonyms": [],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "__Recursive Querying",
+            "__Rule-based Syntax",
+            "Pattern Matching",
+            "__Semantic Querying",
+            "Logic"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "MDX (Multidimensional Expressions)",
+        "synonyms": [
+            "Multidimensional Expressions",
+            "Multi-Dimensional eXpressions",
+            "MDX"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Aggregation",
+            "__Projection",
+            "__Analytical Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "DMX (Data Mining Extensions)",
+        "synonyms": [
+            "DMX",
+            "Data Mining Extensions",
+            "Data Mining eXtensions"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Data Modification",
+            "__Procedural Constructs",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "DAX (Data Analysis Expressions)",
+        "synonyms": [
+            "Data Analysis eXpressions",
+            "DAX",
+            "Data Analysis Expressions"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Aggregation",
+            "__Functional Constructs",
+            "__Projection",
+            "__Analytical Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "UnQL (Unstructured Query Language)",
+        "synonyms": [
+            "UnQL",
+            "Unstructured Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Aggregation",
+            "__Schema Flexibility",
+            "__Data Modification",
+            "Query Planning",
+            "Query Optimization",
+            "__Projection",
+            "Full-text Search",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Document-oriented"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CQL for TimeSeries",
+        "synonyms": [
+            "CQL TimeSeries",
+            "TimeSeries CQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "CQL (Cassandra Query Language)"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Time-series",
+            "Declarative",
+            "Aggregation",
+            "__Schema Awareness",
+            "__Data Modification",
+            "Column-family",
+            "Query Planning",
+            "Transactions",
+            "__Time-series Semantics",
+            "Query Optimization",
+            "__Projection",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SoQL (Socrata Query Language)",
+        "synonyms": [
+            "Socrata Query Language",
+            "SoQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Aggregation",
+            "Relational",
+            "__Projection",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Full-text Search"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "EQL (Event Query Language)",
+        "synonyms": [
+            "Elastic Query Language",
+            "EQL",
+            "Event Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Time-series",
+            "Declarative",
+            "Aggregation",
+            "__Time-series Semantics",
+            "__Projection",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "FQL (Facebook Query Language)",
+        "synonyms": [
+            "FQL",
+            "Facebook Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Relational",
+            "__Projection",
+            "Join Operations",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "GSQL (TigerGraph)",
+        "synonyms": [
+            "TigerGraph Query Language",
+            "GSQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Aggregation",
+            "__Recursive Querying",
+            "Transactions",
+            "Query Optimization",
+            "__User-Defined Functions",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Schema Awareness",
+            "__Data Modification",
+            "Query Planning",
+            "__Analytical Functions",
+            "__Relationship Traversal",
+            "__Keyword-based Syntax",
+            "ACID Properties",
+            "__Projection",
+            "__Path-based Syntax",
+            "Index-based Access",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CIM Query Language (CQL)",
+        "synonyms": [
+            "CIM-CQL",
+            "CQL (CIM)",
+            "CIM Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "CQL (Cassandra Query Language)"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "__Relationship Traversal",
+            "Relational",
+            "__Projection",
+            "Join Operations",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Druid SQL",
+        "synonyms": [
+            "Druid Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Window Functions",
+            "Time-series",
+            "Declarative",
+            "Aggregation",
+            "__Time-series Semantics",
+            "Query Optimization",
+            "__Projection",
+            "__Analytical Functions",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Phoenix SQL (Apache Phoenix)",
+        "synonyms": [
+            "Apache Phoenix SQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "ACID Properties",
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "Relational",
+            "__Data Modification",
+            "Query Planning",
+            "Transactions",
+            "Query Optimization",
+            "__Projection",
+            "__User-Defined Functions",
+            "Join Operations",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CrateDB SQL",
+        "synonyms": [
+            "CrateDB Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Aggregation",
+            "__Schema Flexibility",
+            "Relational",
+            "__Data Modification",
+            "Query Planning",
+            "Query Optimization",
+            "__Projection",
+            "Full-text Search",
+            "Join Operations",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Document-oriented"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SQL++",
+        "synonyms": [
+            "SQLpp",
+            "SQL Plus Plus"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "Aggregation",
+            "__Schema Flexibility",
+            "Relational",
+            "__Recursive Querying",
+            "__Data Modification",
+            "Query Planning",
+            "Query Optimization",
+            "__Projection",
+            "Set Operations",
+            "Full-text Search",
+            "Join Operations",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Document-oriented"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "OpenCypher",
+        "synonyms": [
+            "Open Cypher"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "Cypher (Neo4j)"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "ACID Properties",
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "__Relationship Traversal",
+            "__Recursive Querying",
+            "__Data Modification",
+            "Query Planning",
+            "Transactions",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "__User-Defined Functions",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "OQL (Object Query Language)",
+        "synonyms": [
+            "OQL",
+            "Object Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Schema Awareness",
+            "Declarative",
+            "Aggregation",
+            "__Relationship Traversal",
+            "Relational",
+            "__Projection",
+            "Join Operations",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "RDQL (RDF Data Query Language)",
+        "synonyms": [
+            "RDF Data Query Language",
+            "RDQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SPARQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Schema Awareness",
+            "Declarative",
+            "__Relationship Traversal",
+            "Query Planning",
+            "__Semantic Querying",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "Index-based Access",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "RQL (RDF Query Language)",
+        "synonyms": [
+            "RDF Query Language",
+            "RQL"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SPARQL",
+            "RDQL (RDF Data Query Language)"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Schema Awareness",
+            "Declarative",
+            "__Relationship Traversal",
+            "Query Planning",
+            "__Semantic Querying",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "Index-based Access",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SeRQL (Sesame RDF Query Language)",
+        "synonyms": [
+            "SeRQL",
+            "Sesame RDF Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SPARQL",
+            "RDQL (RDF Data Query Language)",
+            "RQL (RDF Query Language)"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Schema Awareness",
+            "Declarative",
+            "__Relationship Traversal",
+            "Query Planning",
+            "__Semantic Querying",
+            "Query Optimization",
+            "__Projection",
+            "__Path-based Syntax",
+            "Index-based Access",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SPIN (SPARQL Inferencing Notation)",
+        "synonyms": [
+            "SPIN",
+            "SPARQL Inferencing Notation"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SPARQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Semantic Querying",
+            "__Rule-based Syntax",
+            "Graph-based"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "PartiQL",
+        "synonyms": [
+            "Partial Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "__Selection/Filtering",
+            "Aggregation",
+            "__Schema Flexibility",
+            "__Document Nesting Semantics",
+            "__Data Modification",
+            "Query Planning",
+            "Query Optimization",
+            "__Projection",
+            "Set Operations",
+            "Join Operations",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Multi-paradigm",
+            "__Keyword-based Syntax"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "MongoDB Query Language",
+        "synonyms": [
+            "MongoDB Query Language",
+            "Mongo Query Language",
+            "MongoDB Query API"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "__Procedural Constructs",
+            "Aggregation",
+            "__Document Nesting Semantics",
+            "__Schema Flexibility",
+            "__Functional Constructs",
+            "__Data Modification",
+            "Query Planning",
+            "Imperative",
+            "Query Optimization",
+            "__Method Chaining Syntax",
+            "__Projection",
+            "Full-text Search",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "Document-oriented"
+        ],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Firestore Query Language",
+        "synonyms": [
+            "Firestore Query Language"
+        ],
+        "type": [
+            "QueryLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [
+            "Declarative",
+            "__Document Nesting Semantics",
+            "__Schema Flexibility",
+            "__Projection",
+            "Index-based Access",
+            "__Sorting/Ordering",
+            "__Selection/Filtering",
+            "__Keyword-based Syntax",
+            "Document-oriented"
+        ],
+        "architecturalPatterns": []
+    }
+]

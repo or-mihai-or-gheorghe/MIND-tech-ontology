@@ -1,0 +1,5321 @@
+[
+    {
+        "name": "Keycloak",
+        "synonyms": [
+            "key clock",
+            "keyclok"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Authentication and Authorization"
+        ]
+    },
+    {
+        "name": "Graylog",
+        "synonyms": [
+            "gray log",
+            "graylog server"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Logging"
+        ]
+    },
+    {
+        "name": "Ansible",
+        "synonyms": [
+            "ansible",
+            "ansible-playbook",
+            "ansible automation"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Deployment and Infrastructure Management",
+            "Infrastructure as Code & Configuration Management",
+            "Configuration Management"
+        ]
+    },
+    {
+        "name": "GnuPG",
+        "synonyms": [
+            "gpg",
+            "gnupg"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Encryption and Decryption"
+        ]
+    },
+    {
+        "name": "7-Zip",
+        "synonyms": [
+            "7zip",
+            "7 zip"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Compression and Archiving"
+        ]
+    },
+    {
+        "name": "ESLint",
+        "synonyms": [
+            "es lint",
+            "eslint"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Code Analysis and Linting"
+        ]
+    },
+    {
+        "name": "cURL",
+        "synonyms": [
+            "curl",
+            "cURL command line"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Command Line Interface Tools"
+        ]
+    },
+    {
+        "name": "Prometheus",
+        "synonyms": [
+            "prometheus",
+            "prometheus monitoring",
+            "prom"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Monitoring and Profiling",
+            "Observability & Monitoring (Logging, Alerting)"
+        ]
+    },
+    {
+        "name": "SonarQube",
+        "synonyms": [
+            "sonarlint",
+            "sonar",
+            "sonarqube",
+            "sonar scanner",
+            "sonar qbe"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration",
+            "Code Analysis and Linting"
+        ]
+    },
+    {
+        "name": "Wireshark",
+        "synonyms": [
+            "wire shark",
+            "wireshark network analyzer"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "Nagios",
+        "synonyms": [
+            "nagios monitoring",
+            "nagios core"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Performance Monitoring and Profiling"
+        ]
+    },
+    {
+        "name": "btop",
+        "synonyms": [
+            "btop++",
+            "btop monitor"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Monitoring and Profiling"
+        ]
+    },
+    {
+        "name": "DBeaver",
+        "synonyms": [
+            "dbeaver community",
+            "db eaver",
+            "d beaver"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Postman",
+        "synonyms": [
+            "post man",
+            "postman tool"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Clients and SDKs",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "Apache JMeter",
+        "synonyms": [
+            "jmeter",
+            "j meter",
+            "apache jmeter"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Testing",
+            "Backend Integration Testing",
+            "Load Testing",
+            "API Testing",
+            "Stress Testing"
+        ]
+    },
+    {
+        "name": "RabbitMQ",
+        "synonyms": [
+            "rabbit mq",
+            "rmq"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Messaging and Queuing"
+        ]
+    },
+    {
+        "name": "Kafka",
+        "synonyms": [
+            "kafka gui",
+            "Apache Kafka",
+            "kafka manager",
+            "kafka tool"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Messaging and Queuing",
+            "Streaming and Real-time Processing"
+        ]
+    },
+    {
+        "name": "ElasticHQ",
+        "synonyms": [
+            "elastichq",
+            "elastic hq",
+            "elasticsearch management"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": ["elasticsearch"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Search and Indexing"
+        ]
+    },
+    {
+        "name": "WireMock",
+        "synonyms": [
+            "wire mock",
+            "wiremock server"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Service Mocking"
+        ]
+    },
+    {
+        "name": "MailHog",
+        "synonyms": [
+            "mail hog",
+            "mailhog"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Email and Notification Services"
+        ]
+    },
+    {
+        "name": "Crontab UI",
+        "synonyms": [
+            "crontabui",
+            "cron tab ui"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Task Scheduling and Cron Jobs"
+        ]
+    },
+    {
+        "name": "OWASP ZAP",
+        "synonyms": [
+            "zap",
+            "owasp zap",
+            "owasp zed attack proxy"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Backend Security",
+            "Functional Testing",
+            "Security Testing"
+        ]
+    },
+    {
+        "name": "Insomnia",
+        "synonyms": [
+            "insomnia rest client",
+            "insomnia tool"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Clients and SDKs",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "RedisInsight",
+        "synonyms": [
+            "redis insight",
+            "redis gui",
+            "redisinsight"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Caching",
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "pgAdmin",
+        "synonyms": [
+            "pg admin",
+            "pgadmin4",
+            "pg-admin"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "DataGrip",
+        "synonyms": [
+            "data grip",
+            "jetbrains datagrip"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "HeidiSQL",
+        "synonyms": [
+            "heidisql",
+            "heidi sql"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Navicat",
+        "synonyms": [
+            "navicat premium",
+            "navicat for mysql",
+            "navicat for postgres"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Squirrel SQL",
+        "synonyms": [
+            "squirrel",
+            "squirrel sql client"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Sequel Pro",
+        "synonyms": [
+            "sequelpro",
+            "sequel pro",
+            "sequel pro app"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Hoppscotch",
+        "synonyms": [
+            "hoppscotch",
+            "postwoman",
+            "postwoman api client"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Clients and SDKs",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "Paw",
+        "synonyms": [
+            "paw",
+            "paw api client"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Clients and SDKs",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "HTTPie",
+        "synonyms": [
+            "httpie",
+            "httpie cli",
+            "httpie tool"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Clients and SDKs",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "SQLPro Studio",
+        "synonyms": [
+            "sqlpro",
+            "sqlpro studio",
+            "sql pro"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Swagger",
+        "synonyms": [
+            "swaggerui",
+            "swagger ui",
+            "swagger documentation",
+            "swaggereditor",
+            "swagger editor",
+            "openapi editor",
+            "swagger codegen",
+            "openapi codegen",
+            "openapi",
+            "open api"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Clients and SDKs",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "Redoc",
+        "synonyms": [
+            "redoc",
+            "redocly"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Clients and SDKs",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "Storybook",
+        "synonyms": [
+            "storybook",
+            "ui storybook"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries"
+        ]
+    },
+    {
+        "name": "Redux DevTools",
+        "synonyms": [
+            "redux devtools",
+            "redux developer tools"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "State Management Testing"
+        ]
+    },
+    {
+        "name": "Lighthouse",
+        "synonyms": [
+            "lighthouse",
+            "google lighthouse"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Optimization",
+            "Frontend Performance Testing"
+        ]
+    },
+    {
+        "name": "Cypress",
+        "synonyms": [
+            "cypress.io",
+            "cypress"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Testing",
+            "End-to-End Testing",
+            "Frontend E2E Testing",
+            "Functional Testing",
+            "Regression Testing"
+        ]
+    },
+    {
+        "name": "TestCafe",
+        "synonyms": [
+            "test cafe",
+            "testcafe"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Testing",
+            "End-to-End Testing",
+            "Frontend E2E Testing",
+            "Functional Testing",
+            "Regression Testing"
+        ]
+    },
+    {
+        "name": "Playwright",
+        "synonyms": [
+            "playwright",
+            "microsoft playwright"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Frontend E2E Testing"
+        ]
+    },
+    {
+        "name": "Percy",
+        "synonyms": [
+            "percy",
+            "percy visual testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Visual Regression Testing"
+        ]
+    },
+    {
+        "name": "Applitools",
+        "synonyms": [
+            "applitools",
+            "applitools eyes"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Visual Regression Testing"
+        ]
+    },
+    {
+        "name": "Chromatic",
+        "synonyms": [
+            "chromatic",
+            "storybook chromatic"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Component Testing",
+            "Visual Regression Testing"
+        ]
+    },
+    {
+        "name": "Pa11y",
+        "synonyms": [
+            "pa11y",
+            "pa11y-ci"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Accessibility Testing"
+        ]
+    },
+    {
+        "name": "BrowserStack",
+        "synonyms": [
+            "browser stack",
+            "browserstack"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Cross-browser Testing",
+            "Compatibility Testing",
+            "Mobile Testing"
+        ]
+    },
+    {
+        "name": "MobX DevTools",
+        "synonyms": [
+            "mobx devtools",
+            "mobx developer tools"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "State Management Testing"
+        ]
+    },
+    {
+        "name": "WebPageTest",
+        "synonyms": [
+            "webpagetest",
+            "wpt"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Frontend Performance Testing"
+        ]
+    },
+    {
+        "name": "Puppeteer",
+        "synonyms": [
+            "puppeteer",
+            "puppeteer automation"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Frontend E2E Testing",
+            "Component Testing",
+            "End-to-End Testing",
+            "Functional Testing",
+            "UI Testing"
+        ]
+    },
+    {
+        "name": "Selenium",
+        "synonyms": [
+            "selenium",
+            "selenium webdriver",
+            "selenium automation"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Testing",
+            "End-to-End Testing",
+            "Frontend E2E Testing",
+            "Cross-browser Testing",
+            "Integration Testing",
+            "Functional Testing",
+            "Compatibility Testing"
+        ]
+    },
+    {
+        "name": "Sauce Labs",
+        "synonyms": [
+            "sauce labs",
+            "sauce",
+            "sauce labs testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Cross-browser Testing",
+            "Frontend E2E Testing"
+        ]
+    },
+    {
+        "name": "CrossBrowserTesting",
+        "synonyms": [
+            "cross browser testing",
+            "crossbrowsertesting"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Cross-browser Testing",
+            "Frontend E2E Testing"
+        ]
+    },
+    {
+        "name": "Figma",
+        "synonyms": [
+            "figma",
+            "figma design"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "Adobe XD",
+        "synonyms": [
+            "adobe xd",
+            "xd",
+            "adobe experience design"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "Adobe Illustrator",
+        "synonyms": [
+            "adobe illustrator",
+            "illustrator",
+            "ai"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "Adobe Photoshop",
+        "synonyms": [
+            "adobe photoshop",
+            "photoshop",
+            "ps"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "Chrome DevTools",
+        "synonyms": [
+            "chrome devtools",
+            "chrome developer tools"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Optimization",
+            "Frontend Performance Testing"
+        ]
+    },
+    {
+        "name": "Firefox Developer Tools",
+        "synonyms": [
+            "firefox devtools",
+            "firefox developer tools"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Optimization",
+            "Frontend Performance Testing"
+        ]
+    },
+    {
+        "name": "InVision",
+        "synonyms": [
+            "invision",
+            "invisionapp"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "Sketch",
+        "synonyms": [
+            "sketch",
+            "sketch app"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "CodeSandbox",
+        "synonyms": [
+            "codesandbox",
+            "csb"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Fullstack End-to-End Tooling"
+        ]
+    },
+    {
+        "name": "StackBlitz",
+        "synonyms": [
+            "stackblitz",
+            "stack blitz"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Fullstack End-to-End Tooling"
+        ]
+    },
+    {
+        "name": "Render",
+        "synonyms": [
+            "render",
+            "render.com"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Fullstack End-to-End Tooling"
+        ]
+    },
+    {
+        "name": "ngrok",
+        "synonyms": [
+            "ngrok",
+            "ngrok tunnel"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Shared Middleware Integration"
+        ]
+    },
+    {
+        "name": "LocalTunnel",
+        "synonyms": [
+            "localtunnel",
+            "lt"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Shared Middleware Integration"
+        ]
+    },
+    {
+        "name": "Ionic Studio",
+        "synonyms": [
+            "ionic studio",
+            "ionic app builder"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Components",
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "DB Browser for SQLite",
+        "synonyms": [
+            "sqlite browser",
+            "db browser"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Local Databases"
+        ]
+    },
+    {
+        "name": "Realm Studio",
+        "synonyms": [
+            "realm studio",
+            "realm browser"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Local Databases"
+        ]
+    },
+    {
+        "name": "Firebase CLI",
+        "synonyms": [
+            "firebase cli",
+            "firebase command line"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Authentication Libraries/Tools/Services/Agents",
+            "Push Notifications"
+        ]
+    },
+    {
+        "name": "OneSignal CLI",
+        "synonyms": [
+            "onesignal cli",
+            "onesignal command line"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Push Notifications"
+        ]
+    },
+    {
+        "name": "Countly",
+        "synonyms": [
+            "countly",
+            "countly analytics"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Analytics and Tracking"
+        ]
+    },
+    {
+        "name": "Stripe CLI",
+        "synonyms": [
+            "stripe cli",
+            "stripe command line"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Payment Integration"
+        ]
+    },
+    {
+        "name": "Sensor Kinetics Pro",
+        "synonyms": [
+            "sensor kinetics",
+            "sensor kinetics pro"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Sensor Integration Libraries"
+        ]
+    },
+    {
+        "name": "Appium",
+        "synonyms": [
+            "appium",
+            "appium automation"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing",
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "End-to-End Testing",
+            "Mobile UI Automation",
+            "Mobile Testing",
+            "Functional Testing",
+            "Device Compatibility Testing",
+            "Cross-platform Testing"
+        ]
+    },
+    {
+        "name": "Charles Proxy",
+        "synonyms": [
+            "charles",
+            "charles proxy"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Offline Mode Testing",
+            "Network Condition Testing"
+        ]
+    },
+    {
+        "name": "Battery Historian",
+        "synonyms": [
+            "battery historian"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Battery Consumption Testing"
+        ]
+    },
+    {
+        "name": "Android Studio",
+        "synonyms": [
+            "android studio"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Memory Usage Testing",
+            "Battery Consumption Testing",
+            "Device Compatibility Testing"
+        ]
+    },
+    {
+        "name": "MobSF",
+        "synonyms": [
+            "mobsf",
+            "mobile security framework"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile Security Testing"
+        ]
+    },
+    {
+        "name": "Network Link Conditioner",
+        "synonyms": [
+            "network link conditioner",
+            "ncl"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Network Condition Testing"
+        ]
+    },
+    {
+        "name": "Genymotion",
+        "synonyms": [
+            "genymotion",
+            "android emulator"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Fastlane",
+        "synonyms": [
+            "fastlane",
+            "fast lane"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Gradle",
+        "synonyms": [
+            "gradle",
+            "gradle build tool"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Xcode",
+        "synonyms": [
+            "xcode",
+            "x code"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Detox",
+        "synonyms": [
+            "detox",
+            "detox testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Automation",
+            "Cross-platform Testing"
+        ]
+    },
+    {
+        "name": "Espresso",
+        "synonyms": [
+            "espresso",
+            "android espresso"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Automation",
+            "Device Compatibility Testing"
+        ]
+    },
+    {
+        "name": "XCUITest",
+        "synonyms": [
+            "xcuitest",
+            "xctest",
+            "ios testing framework"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Automation",
+            "Device Compatibility Testing"
+        ]
+    },
+    {
+        "name": "Robotium",
+        "synonyms": [
+            "robotium",
+            "robotium testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Automation",
+            "Device Compatibility Testing"
+        ]
+    },
+    {
+        "name": "Selendroid",
+        "synonyms": [
+            "selendroid",
+            "selenium for android"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Automation",
+            "Cross-platform Testing"
+        ]
+    },
+    {
+        "name": "Jupyter Notebook",
+        "synonyms": [
+            "jupyter",
+            "ipython notebook",
+            "ipynb"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "CUDA",
+        "synonyms": [
+            "cuda",
+            "nvidia cuda",
+            "cuda toolkit"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Inference Performance Testing",
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "TensorBoard",
+        "synonyms": [
+            "tensorboard",
+            "tb"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Model Explainability Testing",
+            "Model Validation Testing"
+        ]
+    },
+    {
+        "name": "MLflow",
+        "synonyms": [
+            "ml flow",
+            "mlflow"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Hyperparameter Tuning & Experiment Management",
+            "Automated Training & Model Registry",
+            "CI/CD for ML Pipelines",
+            "Model Validation Testing",
+            "ML Pipeline Testing"
+        ]
+    },
+    {
+        "name": "Kubeflow",
+        "synonyms": [
+            "kubeflow",
+            "kf"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "ML Pipeline Testing",
+            "Model Serving"
+        ]
+    },
+    {
+        "name": "Apache Airflow",
+        "synonyms": [
+            "airflow",
+            "apache airflow"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Pipeline Testing",
+            "ML Pipeline Testing",
+            "ETL Testing",
+            "Data Preprocessing"
+        ]
+    },
+    {
+        "name": "Streamlit",
+        "synonyms": [
+            "streamlit",
+            "stream lit"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "LabelImg",
+        "synonyms": [
+            "labelimg",
+            "label img"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Preprocessing"
+        ]
+    },
+    {
+        "name": "ONNX Runtime",
+        "synonyms": [
+            "onnx runtime",
+            "onnx"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Model Serving",
+            "Inference Performance Testing"
+        ]
+    },
+    {
+        "name": "TensorRT",
+        "synonyms": [
+            "tensorrt",
+            "nvidia tensorrt"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Inference Performance Testing"
+        ]
+    },
+    {
+        "name": "Weights & Biases",
+        "synonyms": [
+            "wandb",
+            "weights and biases"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "ML Pipeline Testing",
+            "Model Validation Testing",
+            "Training Data Testing"
+        ]
+    },
+    {
+        "name": "Google Colab",
+        "synonyms": [
+            "colab",
+            "google colab notebook"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Spyder",
+        "synonyms": [
+            "spyder",
+            "spyder ide"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Visual Studio Code",
+        "synonyms": [
+            "vscode",
+            "visual studio code",
+            "vs code"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "JupyterLab",
+        "synonyms": [
+            "jupyter lab",
+            "jupyterlab"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Anaconda Navigator",
+        "synonyms": [
+            "anaconda navigator",
+            "anaconda"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other ML/AI Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Prefect",
+        "synonyms": [
+            "prefect",
+            "prefect.io"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Pipeline Testing",
+            "ETL Testing"
+        ]
+    },
+    {
+        "name": "Luigi",
+        "synonyms": [
+            "luigi",
+            "spotify luigi"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Pipeline Testing",
+            "ETL Testing"
+        ]
+    },
+    {
+        "name": "Apache Spark",
+        "synonyms": [
+            "spark",
+            "apache spark"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Big Data Tools",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "Hadoop",
+        "synonyms": [
+            "hadoop",
+            "apache hadoop"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Big Data Tools",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "ArcGIS",
+        "synonyms": [
+            "arcgis",
+            "esri arcgis",
+            "arc gis"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Geospatial Data Analysis"
+        ]
+    },
+    {
+        "name": "QGIS",
+        "synonyms": [
+            "qgis",
+            "quantum gis",
+            "q gis"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Geospatial Data Analysis"
+        ]
+    },
+    {
+        "name": "Carto",
+        "synonyms": [
+            "carto",
+            "carto platform"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Geospatial Data Analysis"
+        ]
+    },
+    {
+        "name": "MapInfo",
+        "synonyms": [
+            "mapinfo",
+            "mapinfo pro"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Geospatial Data Analysis"
+        ]
+    },
+    {
+        "name": "RStudio",
+        "synonyms": [
+            "rstudio",
+            "r studio"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Statistical Analysis"
+        ]
+    },
+    {
+        "name": "SAS",
+        "synonyms": [
+            "sas",
+            "sas analytics"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Statistical Analysis",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "Tableau",
+        "synonyms": [
+            "tableau",
+            "tableau software"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Visualization",
+            "Visualization Testing"
+        ]
+    },
+    {
+        "name": "Power BI",
+        "synonyms": [
+            "power bi",
+            "microsoft power bi"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Visualization",
+            "Visualization Testing"
+        ]
+    },
+    {
+        "name": "Looker",
+        "synonyms": [
+            "looker",
+            "looker studio"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Visualization",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "RapidMiner",
+        "synonyms": [
+            "rapidminer",
+            "rapid miner"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Statistical Analysis"
+        ]
+    },
+    {
+        "name": "KNIME",
+        "synonyms": [
+            "knime",
+            "knime analytics platform"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Data Pipeline Testing",
+            "ETL Testing"
+        ]
+    },
+    {
+        "name": "Alteryx",
+        "synonyms": [
+            "alteryx",
+            "alteryx designer"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Data Pipeline Testing",
+            "ETL Testing"
+        ]
+    },
+    {
+        "name": "Databricks",
+        "synonyms": [
+            "databricks",
+            "azure databricks"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Big Data Tools",
+            "Data Analysis"
+        ]
+    },
+    {
+        "name": "DataRobot",
+        "synonyms": [
+            "datarobot",
+            "data robot"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Data Quality Testing",
+            "Scalability Testing"
+        ]
+    },
+    {
+        "name": "Talend",
+        "synonyms": [
+            "talend",
+            "talend open studio"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "ETL Testing",
+            "Data Pipeline Testing"
+        ]
+    },
+    {
+        "name": "Informatica",
+        "synonyms": [
+            "informatica",
+            "informatica powercenter"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "ETL Testing",
+            "Data Pipeline Testing"
+        ]
+    },
+    {
+        "name": "Mode Analytics",
+        "synonyms": [
+            "mode analytics",
+            "mode"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Data Visualization"
+        ]
+    },
+    {
+        "name": "Apache NiFi",
+        "synonyms": [
+            "nifi",
+            "apache nifi"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Pipeline Testing",
+            "ETL Testing"
+        ]
+    },
+    {
+        "name": "SoapUI",
+        "synonyms": [
+            "soapui",
+            "soap ui",
+            "soapui testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Testing",
+            "Functional Testing"
+        ]
+    },
+    {
+        "name": "Gatling",
+        "synonyms": [
+            "gatling",
+            "gatling load testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Testing",
+            "Load Testing",
+            "Stress Testing"
+        ]
+    },
+    {
+        "name": "Ranorex Studio",
+        "synonyms": [
+            "ranorex",
+            "ranorex studio"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Functional Testing",
+            "UI Testing",
+            "Regression Testing"
+        ]
+    },
+    {
+        "name": "Katalon Studio",
+        "synonyms": [
+            "katalon",
+            "katalon studio",
+            "katalon automation"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Testing",
+            "End-to-End Testing",
+            "Mobile Testing",
+            "Functional Testing",
+            "Regression Testing"
+        ]
+    },
+    {
+        "name": "Robot Framework",
+        "synonyms": [
+            "robot framework",
+            "robotframework",
+            "robot"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Acceptance Testing",
+            "Integration Testing",
+            "Regression Testing"
+        ]
+    },
+    {
+        "name": "TestNG",
+        "synonyms": [
+            "testng",
+            "test ng",
+            "test next generation"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Unit Testing",
+            "Integration Testing"
+        ]
+    },
+    {
+        "name": "JUnit",
+        "synonyms": [
+            "junit",
+            "j unit",
+            "junit framework"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Unit Testing",
+            "Integration Testing"
+        ]
+    },
+    {
+        "name": "Cucumber",
+        "synonyms": [
+            "cucumber",
+            "cuke",
+            "bdd cucumber"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Acceptance Testing",
+            "Regression Testing"
+        ]
+    },
+    {
+        "name": "LoadRunner",
+        "synonyms": [
+            "loadrunner",
+            "hp loadrunner",
+            "microfocus loadrunner"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Load Testing",
+            "Stress Testing",
+            "Performance Testing"
+        ]
+    },
+    {
+        "name": "Burp Suite",
+        "synonyms": [
+            "burpsuite",
+            "burp suite",
+            "burp"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Security Testing",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "Optimizely",
+        "synonyms": [
+            "optimizely",
+            "optimizely experiment",
+            "optimizely platform"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "A/B Testing & Experimentation"
+        ]
+    },
+    {
+        "name": "UserTesting",
+        "synonyms": [
+            "usertesting",
+            "user testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Usability Testing"
+        ]
+    },
+    {
+        "name": "Testim",
+        "synonyms": [
+            "testim",
+            "testim automation"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Smoke Testing",
+            "Regression Testing"
+        ]
+    },
+    {
+        "name": "TestComplete",
+        "synonyms": [
+            "testcomplete",
+            "smartbear testcomplete"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Functional Testing",
+            "UI Testing",
+            "Regression Testing"
+        ]
+    },
+    {
+        "name": "Eggplant",
+        "synonyms": [
+            "eggplant",
+            "eggplant functional testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Functional Testing",
+            "End-to-End Testing"
+        ]
+    },
+    {
+        "name": "Jenkins",
+        "synonyms": [
+            "jenkins",
+            "jenkins ci"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "GitLab CI",
+        "synonyms": [
+            "gitlab ci",
+            "gitlab continuous integration"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "CircleCI",
+        "synonyms": [
+            "circleci",
+            "circle ci"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "Travis CI",
+        "synonyms": [
+            "travis ci",
+            "travis"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "Bamboo",
+        "synonyms": [
+            "bamboo"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "TeamCity",
+        "synonyms": [
+            "teamcity",
+            "team city"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "Spinnaker",
+        "synonyms": [
+            "spinnaker"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "Argo CD",
+        "synonyms": [
+            "argo cd",
+            "argo continuous delivery"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration",
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "Harness",
+        "synonyms": [
+            "harness"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "Terraform",
+        "synonyms": [
+            "terraform"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Infrastructure as Code & Configuration Management"
+        ]
+    },
+    {
+        "name": "Chef",
+        "synonyms": [
+            "chef"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Infrastructure as Code & Configuration Management"
+        ]
+    },
+    {
+        "name": "Puppet",
+        "synonyms": [
+            "puppet"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Infrastructure as Code & Configuration Management"
+        ]
+    },
+    {
+        "name": "SaltStack",
+        "synonyms": [
+            "saltstack",
+            "salt"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Infrastructure as Code & Configuration Management"
+        ]
+    },
+    {
+        "name": "AWS CloudFormation",
+        "synonyms": [
+            "cloudformation",
+            "aws cloudformation"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Infrastructure as Code & Configuration Management"
+        ]
+    },
+    {
+        "name": "Pulumi",
+        "synonyms": [
+            "pulumi"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Infrastructure as Code & Configuration Management"
+        ]
+    },
+    {
+        "name": "Docker",
+        "synonyms": [
+            "docker"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Containerization & Orchestration"
+        ]
+    },
+    {
+        "name": "Kubernetes",
+        "synonyms": [
+            "k8s",
+            "kubernetes"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Containerization & Orchestration"
+        ]
+    },
+    {
+        "name": "Docker Swarm",
+        "synonyms": [
+            "docker swarm"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": ["docker"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Containerization & Orchestration"
+        ]
+    },
+    {
+        "name": "OpenShift",
+        "synonyms": [
+            "openshift"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Containerization & Orchestration"
+        ]
+    },
+    {
+        "name": "Rancher",
+        "synonyms": [
+            "rancher"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Containerization & Orchestration"
+        ]
+    },
+    {
+        "name": "Nomad",
+        "synonyms": [
+            "nomad"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Containerization & Orchestration"
+        ]
+    },
+    {
+        "name": "Grafana",
+        "synonyms": [
+            "grafana"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Observability & Monitoring (Logging, Alerting)"
+        ]
+    },
+    {
+        "name": "ELK Stack",
+        "synonyms": [
+            "elk"
+
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "elasticsearch",
+            "logstash",
+            "kibana"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Observability & Monitoring (Logging, Alerting)"
+        ]
+    },
+    {
+        "name": "Splunk",
+        "synonyms": [
+            "splunk"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Observability & Monitoring (Logging, Alerting)"
+        ]
+    },
+    {
+        "name": "Datadog",
+        "synonyms": [
+            "datadog"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Observability & Monitoring (Logging, Alerting)"
+        ]
+    },
+    {
+        "name": "New Relic",
+        "synonyms": [
+            "new relic"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Observability & Monitoring (Logging, Alerting)"
+        ]
+    },
+    {
+        "name": "PagerDuty",
+        "synonyms": [
+            "pager duty"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Incident & On-Call Management"
+        ]
+    },
+    {
+        "name": "OpsGenie",
+        "synonyms": [
+            "opsgenie"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Incident & On-Call Management"
+        ]
+    },
+    {
+        "name": "VictorOps",
+        "synonyms": [
+            "victorops",
+            "splunk on-call",
+            "victor ops"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Incident & On-Call Management"
+        ]
+    },
+    {
+        "name": "xMatters",
+        "synonyms": [
+            "xmatters"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Incident & On-Call Management"
+        ]
+    },
+    {
+        "name": "Git",
+        "synonyms": [
+            "git"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "GitHub",
+        "synonyms": [
+            "github"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "GitLab",
+        "synonyms": [
+            "gitlab"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "Bitbucket",
+        "synonyms": [
+            "bitbucket"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "Flux CD",
+        "synonyms": [
+            "flux",
+            "flux cd"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "Nexus Repository",
+        "synonyms": [
+            "nexus",
+            "nexus repository",
+            "sonatype nexus"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "JFrog Artifactory",
+        "synonyms": [
+            "artifactory",
+            "jfrog artifactory"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "GitHub Packages",
+        "synonyms": [
+            "github packages",
+            "github package registry"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "k6",
+        "synonyms": [
+            "k6",
+            "k6 load testing"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance & Load Testing (Infrastructure)"
+        ]
+    },
+    {
+        "name": "HashiCorp Vault",
+        "synonyms": [
+            "vault",
+            "hashicorp vault"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Secret & Secure Config Management"
+        ]
+    },
+    {
+        "name": "AWS Secrets Manager",
+        "synonyms": [
+            "aws secrets manager"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Secret & Secure Config Management"
+        ]
+    },
+    {
+        "name": "Azure Key Vault",
+        "synonyms": [
+            "azure key vault"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Secret & Secure Config Management"
+        ]
+    },
+    {
+        "name": "CyberArk",
+        "synonyms": [
+            "cyberark"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Secret & Secure Config Management"
+        ]
+    },
+    {
+        "name": "CloudHealth",
+        "synonyms": [
+            "cloudhealth"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Resource & Cost Optimization"
+        ]
+    },
+    {
+        "name": "CloudCheckr",
+        "synonyms": [
+            "cloudcheckr"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Resource & Cost Optimization"
+        ]
+    },
+    {
+        "name": "AWS Trusted Advisor",
+        "synonyms": [
+            "trusted advisor",
+            "aws trusted advisor"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Resource & Cost Optimization"
+        ]
+    },
+    {
+        "name": "Kubecost",
+        "synonyms": [
+            "kubecost"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Resource & Cost Optimization"
+        ]
+    },
+    {
+        "name": "Spot.io",
+        "synonyms": [
+            "spot.io",
+            "spotinst"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Resource & Cost Optimization"
+        ]
+    },
+    {
+        "name": "Subversion",
+        "synonyms": [
+            "svn",
+            "apache subversion"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "TortoiseSVN",
+        "synonyms": [
+            "tortoise svn",
+            "tortoisesvn",
+            "tortoise"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "CodeClimate",
+        "synonyms": [
+            "code climate"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "GitHub Actions",
+        "synonyms": [
+            "github actions",
+            "gh actions",
+            "git hub actions"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration",
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "Kubeflow Pipelines",
+        "synonyms": [
+            "kubeflow pipelines",
+            "kf pipelines"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data & Feature Engineering Pipelines",
+            "Model Serving & Deployment",
+            "CI/CD for ML Pipelines"
+        ]
+    },
+    {
+        "name": "DVC",
+        "synonyms": [
+            "dvc",
+            "data version control"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data & Feature Engineering Pipelines",
+            "CI/CD for ML Pipelines",
+            "Automated Training & Model Registry"
+        ]
+    },
+    {
+        "name": "Metaflow",
+        "synonyms": [
+            "metaflow",
+            "netflix metaflow"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data & Feature Engineering Pipelines",
+            "Automated Training & Model Registry",
+            "CI/CD for ML Pipelines"
+        ]
+    },
+    {
+        "name": "Seldon Core",
+        "synonyms": [
+            "seldon core",
+            "seldon"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Model Serving & Deployment"
+        ]
+    },
+    {
+        "name": "KFServing",
+        "synonyms": [
+            "kfserving",
+            "kserve"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Model Serving & Deployment",
+            "CI/CD for ML Pipelines"
+        ]
+    },
+    {
+        "name": "BentoML",
+        "synonyms": [
+            "bentoml",
+            "bento ml"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Model Serving & Deployment",
+            "CI/CD for ML Pipelines"
+        ]
+    },
+    {
+        "name": "Evidently AI",
+        "synonyms": [
+            "evidently ai",
+            "evidently"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Model Monitoring & Drift Detection",
+            "Bias & Fairness Analysis"
+        ]
+    },
+    {
+        "name": "Fiddler AI",
+        "synonyms": [
+            "fiddler ai",
+            "fiddler"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Model Monitoring & Drift Detection",
+            "Bias & Fairness Analysis",
+            "Explainability & Interpretation"
+        ]
+    },
+    {
+        "name": "ClearML",
+        "synonyms": [
+            "clearml",
+            "clear ml"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Automated Training & Model Registry",
+            "Hyperparameter Tuning & Experiment Management",
+            "CI/CD for ML Pipelines"
+        ]
+    },
+    {
+        "name": "Neptune.ai",
+        "synonyms": [
+            "neptune.ai"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Hyperparameter Tuning & Experiment Management",
+            "Automated Training & Model Registry"
+        ]
+    },
+    {
+        "name": "Optuna",
+        "synonyms": [
+            "optuna",
+            "optuna tuning"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Hyperparameter Tuning & Experiment Management"
+        ]
+    },
+    {
+        "name": "MLRun",
+        "synonyms": [
+            "mlrun",
+            "ml run"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD for ML Pipelines",
+            "Automated Training & Model Registry"
+        ]
+    },
+    {
+        "name": "LaunchDarkly",
+        "synonyms": [
+            "launchdarkly",
+            "launch darkly"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "A/B Testing & Shadow Deployments (ML)"
+        ]
+    },
+    {
+        "name": "ModelOp",
+        "synonyms": [
+            "modelop",
+            "model op"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "ML Governance & Compliance"
+        ]
+    },
+    {
+        "name": "SHAP",
+        "synonyms": [
+            "shap",
+            "shapley"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Explainability & Interpretation"
+        ]
+    },
+    {
+        "name": "LIME",
+        "synonyms": [
+            "lime",
+            "lime explainability"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Explainability & Interpretation"
+        ]
+    },
+    {
+        "name": "Featuretools",
+        "synonyms": [
+            "featuretools",
+            "feature tools"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data & Feature Engineering Pipelines"
+        ]
+    },
+    {
+        "name": "Amazon SageMaker",
+        "synonyms": [
+            "sagemaker",
+            "amazon sagemaker",
+            "aws sagemaker"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Automated Training & Model Registry",
+            "Model Serving & Deployment",
+            "CI/CD for ML Pipelines"
+        ]
+    },
+    {
+        "name": "Google AI Platform",
+        "synonyms": [
+            "google ai platform",
+            "vertex ai",
+            "google vertex"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "MLOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Automated Training & Model Registry",
+            "Model Serving & Deployment",
+            "CI/CD for ML Pipelines"
+        ]
+    },
+    {
+        "name": "LangChain",
+        "synonyms": [
+            "langchain",
+            "lang chain",
+            "lc"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Chain-of-Thought & Multi-step Orchestration",
+            "Chain-of-Thought Prompting & Multi-turn Dialogue",
+            "Prompt Engineering & Context Management",
+            "Tool/Service Integration (Agents)",
+            "Agent Planning & Reasoning"
+        ]
+    },
+    {
+        "name": "Auto-GPT",
+        "synonyms": [
+            "auto gpt",
+            "autogpt"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Chain-of-Thought & Multi-step Orchestration",
+            "Agent Planning & Reasoning",
+            "Prompt & Instruction Tuning (for Agents)"
+        ]
+    },
+    {
+        "name": "AgentGPT",
+        "synonyms": [
+            "agent gpt"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Multi-Agent Coordination & Messaging",
+            "Agent Debugging & Logging"
+        ]
+    },
+    {
+        "name": "Rasa",
+        "synonyms": [
+            "rasa",
+            "rasa framework"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Agent Planning & Reasoning",
+            "State Management & Memory Persistence",
+            "Tool/Service Integration (Agents)"
+        ]
+    },
+    {
+        "name": "Microsoft Bot Framework",
+        "synonyms": [
+            "microsoft bot framework",
+            "bot framework"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Agent Planning & Reasoning",
+            "State Management & Memory Persistence",
+            "Tool/Service Integration (Agents)"
+        ]
+    },
+    {
+        "name": "RLlib",
+        "synonyms": [
+            "rllib",
+            "ray rllib"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Reinforcement Learning-based Agents"
+        ]
+    },
+    {
+        "name": "PettingZoo",
+        "synonyms": [
+            "pettingzoo"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Multi-Agent Coordination & Messaging",
+            "Agent Simulation & Testing"
+        ]
+    },
+    {
+        "name": "GAMA",
+        "synonyms": [
+            "gama",
+            "gama platform"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Agent Simulation & Testing",
+            "Multi-Agent Coordination & Messaging"
+        ]
+    },
+    {
+        "name": "Ray",
+        "synonyms": [
+            "ray",
+            "ray distributed"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Reinforcement Learning-based Agents",
+            "Multi-Agent Coordination & Messaging"
+        ]
+    },
+    {
+        "name": "PromptLayer",
+        "synonyms": [
+            "promptlayer",
+            "prompt layer"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Prompt & Instruction Tuning (for Agents)",
+            "Agent Debugging & Logging"
+        ]
+    },
+    {
+        "name": "Hugging Face Transformers",
+        "synonyms": [
+            "transformers",
+            "huggingface transformers"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "LLM Fine-tuning & Adaptation (Full, LoRA, etc.)",
+            "Embedding Generation & Similarity Search",
+            "Inference & Serving Optimization"
+        ]
+    },
+    {
+        "name": "DeepSpeed",
+        "synonyms": [
+            "deepspeed",
+            "microsoft deepspeed"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "LLM Fine-tuning & Adaptation (Full, LoRA, etc.)",
+            "Inference & Serving Optimization"
+        ]
+    },
+    {
+        "name": "OpenPrompt",
+        "synonyms": [
+            "openprompt"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Prompt Engineering & Context Management"
+        ]
+    },
+    {
+        "name": "Weaviate",
+        "synonyms": [
+            "weaviate"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Retrieval-Augmented Generation (RAG) Setup",
+            "Embedding Generation & Similarity Search"
+        ]
+    },
+    {
+        "name": "Pinecone",
+        "synonyms": [
+            "pinecone"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Retrieval-Augmented Generation (RAG) Setup",
+            "Embedding Generation & Similarity Search"
+        ]
+    },
+    {
+        "name": "LlamaIndex",
+        "synonyms": [
+            "llama index",
+            "gpt index"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Retrieval-Augmented Generation (RAG) Setup"
+        ]
+    },
+    {
+        "name": "PEFT",
+        "synonyms": [
+            "peft",
+            "parameter-efficient fine tuning"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "LLM Fine-tuning & Adaptation (Full, LoRA, etc.)"
+        ]
+    },
+    {
+        "name": "VLLM",
+        "synonyms": [
+            "vllm",
+            "v l l m"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Inference & Serving Optimization"
+        ]
+    },
+    {
+        "name": "LM Evaluation Harness",
+        "synonyms": [
+            "lm evaluation harness",
+            "evaluation harness"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "LLM Monitoring & Logging",
+            "Hallucination Mitigation & Fact Checking"
+        ]
+    },
+    {
+        "name": "OpenAI API",
+        "synonyms": [
+            "openai api",
+            "openai"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Inference & Serving Optimization",
+            "LLM Monitoring & Logging"
+        ]
+    },
+    {
+        "name": "Optimum",
+        "synonyms": [
+            "optimum",
+            "huggingface optimum"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Inference & Serving Optimization",
+            "LLM Fine-tuning & Adaptation (Full, LoRA, etc.)"
+        ]
+    }
+]

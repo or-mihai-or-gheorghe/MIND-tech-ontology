@@ -1,0 +1,2781 @@
+[
+    {
+        "name": "CSS",
+        "synonyms": [
+            "cascading style sheets",
+            "CSS 3",
+            "CSS3"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "HTML",
+        "synonyms": [
+            "hypertext markup language",
+            "Hyper Text Markup Language",
+            "HTML5",
+            "HTML 5"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "npm",
+        "synonyms": [
+            "node package manager"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "node.js",
+        "synonyms": [
+            "node",
+            "nodejs",
+            "node js",
+            "node-js"
+        ],
+        "type": [
+            "Tool",
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "visual studio",
+        "synonyms": [
+            "vs",
+            "visualstudio"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Desktop",
+            "Backend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "pip",
+        "synonyms": [
+            "python package installer"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Data Science",
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "jquery",
+        "synonyms": [
+            "j query"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Frontend Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "jvm",
+        "synonyms": [
+            "java virtual machine"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "nuget",
+        "synonyms": [
+            "nuget package manager"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "sbt",
+        "synonyms": [
+            "scala build tool"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "cmake",
+        "synonyms": [
+            "cmake build system"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Desktop",
+            "Embedded Systems",
+            "Systems Programming"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "cabal",
+        "synonyms": [
+            "haskell cabal"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "rubygems",
+        "synonyms": [
+            "ruby gems"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "dotnet cli",
+        "synonyms": [
+            ".NET CLI",
+            "dotnet command-line"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "msbuild",
+        "synonyms": [
+            "ms build",
+            "ms build system"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Desktop",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "leiningen",
+        "synonyms": [
+            "lein"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "graalvm",
+        "synonyms": [
+            "graal vm"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack",
+            "Systems Programming"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "asyncio",
+        "synonyms": [],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Concurrency and Multithreading"
+        ]
+    },
+    {
+        "name": "tokio",
+        "synonyms": [],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Systems Programming"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Concurrency and Multithreading"
+        ]
+    },
+    {
+        "name": "dub",
+        "synonyms": [
+            "dub package manager"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Systems Programming"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "haxelib",
+        "synonyms": [
+            "haxe lib"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "cocoapods",
+        "synonyms": [
+            "cocoa pods"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile",
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "yaml",
+        "synonyms": [
+            "yaml ain't markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "rollup",
+        "synonyms": [
+            "rollup.js"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "gulp",
+        "synonyms": [
+            "gulp.js"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "abap workbench",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "entity framework",
+        "synonyms": [
+            "ef"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Object-Relational Mapping (ORMs)"
+        ]
+    },
+    {
+        "name": "stacks cli",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Blockchain"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "shards",
+        "synonyms": [
+            "crystal shards"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "nimble",
+        "synonyms": [
+            "nim package manager"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "wsgi",
+        "synonyms": [
+            "web server gateway interface"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "akka",
+        "synonyms": [
+            "akka toolkit"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Concurrency and Multithreading"
+        ]
+    },
+    {
+        "name": "scala.js",
+        "synonyms": [
+            "scalajs",
+            "scala js"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "ethereum",
+        "synonyms": [
+            "eth"
+        ],
+        "type": [
+            "Service"
+        ],
+        "technicalDomains": [
+            "Blockchain"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "groups": [],
+        "deploymentType": [],
+        "solvesApplicationTasks": [
+            "Smart Contract Development & Testing"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "rad studio",
+        "synonyms": [
+            "rapid application development studio"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Desktop",
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "capacitor",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "sencha cmd",
+        "synonyms": [
+            "sencha command-line"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "conda",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Data Science",
+            "ML/AI",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "deno",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "beam vm",
+        "synonyms": [
+            "beam virtual machine"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "evm",
+        "synonyms": [
+            "ethereum virtual machine"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Blockchain"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Smart Contract Development & Testing"
+        ]
+    },
+    {
+        "name": "modelsim",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Embedded Systems"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "sap ui5",
+        "synonyms": [
+            "sapui5"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries"
+        ]
+    },
+    {
+        "name": "owin",
+        "synonyms": [
+            "open web interface for .net"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "gcc",
+        "synonyms": [
+            "gnu compiler collection"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Systems Programming",
+            "Embedded Systems",
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "bitcoin",
+        "synonyms": [
+            "btc"
+        ],
+        "type": [
+            "Service"
+        ],
+        "technicalDomains": [
+            "Blockchain"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "groups": [],
+        "deploymentType": [],
+        "solvesApplicationTasks": [
+            "Blockchain Node & Network Setup"
+        ],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "repl",
+        "synonyms": [
+            "read-eval-print loop"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "raspberry pi",
+        "synonyms": [
+            "rpi"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Embedded Systems",
+            "IoT"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Embedded Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "ecto",
+        "synonyms": [],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Object-Relational Mapping (ORMs)"
+        ]
+    },
+    {
+        "name": "eloquent orm",
+        "synonyms": [
+            "eloquent"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Object-Relational Mapping (ORMs)"
+        ]
+    },
+    {
+        "name": "lightbend",
+        "synonyms": [
+            "typesafe"
+        ],
+        "type": [
+            "Service"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "groups": [],
+        "deploymentType": [],
+        "solvesApplicationTasks": [],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "expo",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "testflight",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Mobile Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "grunt",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "logstash",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Observability & Monitoring (Logging, Alerting)"
+        ]
+    },
+    {
+        "name": "kibana",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Observability & Monitoring (Logging, Alerting)"
+        ]
+    },
+    {
+        "name": "ffmpeg",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Multimedia Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "ganache",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Blockchain"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Smart Contract Development & Testing"
+        ]
+    },
+    {
+        "name": "ngrx",
+        "synonyms": [],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "State Management"
+        ]
+    },
+    {
+        "name": "tomcat",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Middleware"
+        ]
+    },
+    {
+        "name": "wildfly",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Middleware"
+        ]
+    },
+    {
+        "name": "glassfish",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Middleware"
+        ]
+    },
+    {
+        "name": "qmake",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "pypy",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "rhino",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "bazel",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "gas",
+        "synonyms": [
+            "google apps script"
+        ],
+        "type": [
+            "ScriptingLanguage"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "masm",
+        "synonyms": [
+            "microsoft macro assembler"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Systems Programming"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "buildTools": [],
+        "runtimeEnvironments": [],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "nasm",
+        "synonyms": [
+            "netwide assembler"
+        ],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Systems Programming"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "buildTools": [],
+        "runtimeEnvironments": [],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "roswell",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "quicklisp",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "sbcl",
+        "synonyms": [
+            "steel bank common lisp"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "opam",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    },
+    {
+        "name": "dune",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "pharo",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "valac",
+        "synonyms": [],
+        "type": [
+            "ProgrammingLanguage"
+        ],
+        "technicalDomains": [
+            "Desktop"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "buildTools": [],
+        "runtimeEnvironments": [],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "sap application server",
+        "synonyms": [
+            "sap as",
+            "sap server"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Middleware"
+        ]
+    },
+    {
+        "name": "postcss",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "electron",
+        "synonyms": [
+            "electron js",
+            "electron.js"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Desktop",
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "GUI Frameworks"
+        ]
+    },
+    {
+        "name": "perlbrew",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "bare metal",
+        "synonyms": [],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Embedded Systems"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Webpack",
+        "synonyms": [
+            "webpack",
+            "webpack bundler",
+            "module bundler"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Command Line Interface Tools"
+        ]
+    },
+    {
+        "name": "Parcel",
+        "synonyms": [
+            "parcel",
+            "parcel bundler"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Command Line Interface Tools"
+        ]
+    },
+    {
+        "name": "Vite",
+        "synonyms": [
+            "vite",
+            "vitejs",
+            "vite build tool"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Command Line Interface Tools"
+        ]
+    },
+    {
+        "name": "AWS API Gateway",
+        "synonyms": [
+            "aws api gateway",
+            "amazon api gateway",
+            "api gateway"
+        ],
+        "type": [
+            "Service"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "groups": [
+            "AWS"
+        ],
+        "deploymentType": [],
+        "solvesApplicationTasks": [],
+        "associatedToApplicationDomains": [
+            "Service Mesh & Networking"
+        ]
+    },
+    {
+        "name": "Apigee",
+        "synonyms": [
+            "apigee",
+            "google apigee",
+            "apigee api management"
+        ],
+        "type": [
+            "Service"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "groups": [],
+        "deploymentType": [],
+        "solvesApplicationTasks": [],
+        "associatedToApplicationDomains": [
+            "Service Mesh & Networking"
+        ]
+    },
+    {
+        "name": "Spring Framework",
+        "synonyms": [
+            "java spring framework",
+            "spring",
+            "Java Spring"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Java",
+            "Maven",
+            "REST (Representational State Transfer)",
+            "Gradle"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+            "MVC (Model-View-Controller)",
+            "Dependency Injection"
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Java Persistence API (JPA)",
+        "synonyms": [
+            "jpa",
+            "java persistence api",
+            "java persistence"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Java",
+            "SQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Spring Boot Actuator",
+        "synonyms": [
+            "spring boot actuator",
+            "actuator"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Spring Boot",
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Spring Cloud",
+        "synonyms": [
+            "spring cloud"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Spring Boot",
+            "Spring Framework",
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Microservices Architecture"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Netflix Eureka",
+        "synonyms": [
+            "netflix eureka",
+            "eureka"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Spring Cloud",
+            "Java"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Microservices Architecture"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Hystrix",
+        "synonyms": [
+            "hystrix",
+            "netflix hystrix"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Java",
+            "Spring Cloud"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Microservices Architecture",
+            "Circuit Breaker",
+            "Bulkhead Pattern"
+        ],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Zuul",
+        "synonyms": [
+            "zuul",
+            "netflix zuul"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Java",
+            "Spring Cloud",
+            "API Gateway"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Microservices Architecture"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Django REST Framework",
+        "synonyms": [
+            "drf",
+            "django rest framework",
+            "Python drf",
+            "Python Django REST Framework"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Django",
+            "Python",
+            "REST (Representational State Transfer)"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Flask-RESTful",
+        "synonyms": [
+            "flask restful",
+            "flask-restful"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Flask",
+            "Python",
+            "REST (Representational State Transfer)"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "implementsPatternsByDefault": [
+        ],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "CSS Flexbox",
+        "synonyms": [
+            "flexbox",
+            "css flexbox",
+            "flex layout"
+        ],
+        "type": [
+            "Skill"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CSS Grid",
+        "synonyms": [
+            "css grid",
+            "grid layout",
+            "css grid layout"
+        ],
+        "type": [
+            "Skill"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CSS Multi-Column Layout",
+        "synonyms": [
+            "multi-column layout",
+            "css columns",
+            "css multi-column"
+        ],
+        "type": [
+            "Skill"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "CSS"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Daphne",
+        "synonyms": [
+            "python daphne",
+            "Daphne/ASGI"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Python",
+            "ASGI"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Flower",
+        "synonyms": [
+            "python flower",
+            "celery flower"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Celery",
+            "Python"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Pipenv",
+        "synonyms": [
+            "pipenv"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Python",
+            "pip"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Yjs",
+        "synonyms": [
+            "yjs"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "ASGI",
+        "synonyms": [
+            "asgi",
+            "asynchronous server gateway interface",
+            "ASGI (Asynchronous Server Gateway Interface)"
+        ],
+        "type": [
+            "Tool"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Python",
+            "Asyncio",
+            "WebSockets"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "deploymentType": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "AWS Elastic Beanstalk",
+        "synonyms": [
+            "aws elastic beanstalk",
+            "elastic beanstalk"
+        ],
+        "type": [
+            "Service"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "groups": [
+            "AWS"
+        ],
+        "deploymentType": [],
+        "solvesApplicationTasks": [],
+        "associatedToApplicationDomains": []
+    },
+    {
+        "name": "LoRA",
+        "synonyms": [
+            "lora",
+            "low rank adaptation",
+            "low-rank adaptation"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "QLoRA",
+        "synonyms": [
+            "qlora",
+            "q lora",
+            "q-lora",
+            "quantized lora"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [
+            "LoRA"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "XLA",
+        "synonyms": [
+            "xla",
+            "accelerated linear algebra",
+            "xla compiler"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "ML/AI"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Karate Framework",
+        "synonyms": [
+            "karate framework",
+            "karate",
+            "api testing karate",
+            "karate api testing"
+        ],
+        "type": "Framework",
+        "technicalDomains": [
+            "QA/Testing",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Selenium Grid",
+        "synonyms": [
+            "selenium grid",
+            "seleniumgrid",
+            "selenium distributed testing"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "QA/Testing",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Selenium"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "TestRail",
+        "synonyms": [
+            "testrail",
+            "test rail",
+            "test management tool"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "App Service",
+        "synonyms": [
+            "app service",
+            "azure app service",
+            "web app service",
+            "application service"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "ARM Templates",
+        "synonyms": [
+            "arm templates",
+            "azure resource manager templates",
+            "arm",
+            "azure arm templates"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "cert-manager",
+        "synonyms": [
+            "cert-manager",
+            "cert manager",
+            "certificate manager",
+            "certmanager"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "ACME",
+        "synonyms": [
+            "acme",
+            "acme protocol",
+            "automated certificate management environment",
+            "acme tool"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "AWS Organizations",
+        "synonyms": [
+            "aws organizations",
+            "aws org",
+            "aws organization",
+            "aws organisations",
+            "aws orgs"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "AWS Transit Gateway",
+        "synonyms": [
+            "aws transit gateway",
+            "transit gateway",
+            "aws tg",
+            "transit gw"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Networking",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "AWS PrivateLink",
+        "synonyms": [
+            "aws privatelink",
+            "private link",
+            "aws private link",
+            "privatelink"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Networking",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "AWS Control Tower",
+        "synonyms": [
+            "aws control tower",
+            "control tower",
+            "aws tower",
+            "controltower"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "AWS Landing Zone",
+        "synonyms": [
+            "aws landing zone",
+            "landing zone",
+            "aws lz",
+            "aws landing"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Anthos",
+        "synonyms": [
+            "anthos",
+            "google anthos",
+            "anthos platform",
+            "anthos service"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Azure Arc",
+        "synonyms": [
+            "azure arc",
+            "arc",
+            "azure arc management",
+            "azurearc"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "AWX",
+        "synonyms": [
+            "awx",
+            "ansible awx",
+            "awx tower",
+            "awx tool"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Tower",
+        "synonyms": [
+            "tower",
+            "ansible tower",
+            "tower tool"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [
+            "Ansible"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Redux Toolkit",
+        "synonyms": [
+            "redux toolkit",
+            "rtk",
+            "redux-toolkit",
+            "redux toolkit library"
+        ],
+        "type": "Library",
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "Redux"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "React Query",
+        "synonyms": [
+            "react query",
+            "rq",
+            "react-query",
+            "reactquery"
+        ],
+        "type": "Library",
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "React"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "TypeGraphQL",
+        "synonyms": [
+            "typegraphql",
+            "type graph ql",
+            "type graph-ql",
+            "type-graphql"
+        ],
+        "type": "Library",
+        "technicalDomains": [
+            "Fullstack",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "GraphQL"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "KSQL",
+        "synonyms": [
+            "ksql",
+            "k-sql",
+            "k sql",
+            "ksqldb"
+        ],
+        "type": "QueryLanguage",
+        "technicalDomains": [
+            "Data Engineering",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Amazon Kinesis",
+        "synonyms": [
+            "amazon kinesis",
+            "aws kinesis",
+            "kinesis",
+            "amazon-kinesis"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Data Engineering",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "AWS Step Functions",
+        "synonyms": [
+            "aws step functions",
+            "step functions",
+            "aws step",
+            "step-funcs"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Backend",
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "GCP Dataflow",
+        "synonyms": [
+            "gcp dataflow",
+            "google dataflow",
+            "gcp-dataflow"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Data Engineering"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": ["Dataflow"],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "GCP Pub/Sub",
+        "synonyms": [
+            "gcp pub/sub",
+            "google pubsub",
+            "gcp pubsub"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Data Engineering",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Cloud Composer",
+        "synonyms": [
+            "cloud composer",
+            "composer",
+            "google composer",
+            "gcp composer"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Data Engineering"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Azure Data Factory",
+        "synonyms": [
+            "azure data factory",
+            "data factory",
+            "adf",
+            "azure-data-factory"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Data Engineering"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Azure Event Hubs",
+        "synonyms": [
+            "azure event hubs",
+            "event hubs",
+            "aeh",
+            "azure-event-hubs"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Data Engineering",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Azure Stream Analytics",
+        "synonyms": [
+            "azure stream analytics",
+            "stream analytics",
+            "asa",
+            "azure-stream-analytics"
+        ],
+        "type": "Service",
+        "technicalDomains": [
+            "Data Engineering",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SparkOptimizer",
+        "synonyms": [
+            "sparkoptimizer",
+            "spark optimizer",
+            "spark-opt",
+            "optimizer for spark"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "Data Engineering"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Kafka Connect",
+        "synonyms": [
+            "kafka connect",
+            "kafka-connect",
+            "connect",
+            "kafka connector"
+        ],
+        "type": "Tool",
+        "technicalDomains": [
+            "Data Engineering",
+            "Backend"
+        ],
+        "impliesKnowingSkills": [
+            "Kafka"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "HIPAA Compliance",
+        "synonyms": [
+            "hipaa compliance",
+            "hipaa",
+            "health insurance portability and accountability",
+            "hipaa-compliance",
+            "hipaa regulation"
+        ],
+        "type": "Skill",
+        "technicalDomains": [
+            "Cybersecurity"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "WCAG",
+        "synonyms": [
+            "wcag 2.1",
+            "web content accessibility guidelines",
+            "wcag compliance",
+            "web accessibility guidelines"
+        ],
+        "type": "Skill",
+        "technicalDomains": [
+            "Frontend",
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    }
+]

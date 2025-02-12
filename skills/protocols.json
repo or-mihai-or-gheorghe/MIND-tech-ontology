@@ -1,0 +1,681 @@
+[
+    {
+        "name": "HTTP",
+        "synonyms": [
+            "hypertext transfer protocol",
+            "http/1.0",
+            "http/1.1",
+            "http/2",
+            "http2",
+            "http 2",
+            "http 3",
+            "http3",
+            "http/3"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "WebSocket",
+        "synonyms": [
+            "web socket",
+            "websockets",
+            "web sockets",
+            "wss"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Streaming and Real-time Processing"
+        ]
+    },
+    {
+        "name": "FTP",
+        "synonyms": [
+            "file transfer protocol",
+            "ftps",
+            "ftp-ssl"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "File Handling"
+        ]
+    },
+    {
+        "name": "SMTP",
+        "synonyms": [
+            "simple mail transfer protocol",
+            "smtps"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Email and Notification Services"
+        ]
+    },
+    {
+        "name": "IMAP",
+        "synonyms": [
+            "internet message access protocol",
+            "imap4"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Email and Notification Services"
+        ]
+    },
+    {
+        "name": "POP3",
+        "synonyms": [
+            "post office protocol 3",
+            "pop-3",
+            "pop 3"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Email and Notification Services"
+        ]
+    },
+    {
+        "name": "WebDAV",
+        "synonyms": [
+            "web distributed authoring and versioning",
+            "dav",
+            "delta-v"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "File Handling"
+        ]
+    },
+    {
+        "name": "SOAP",
+        "synonyms": [
+            "simple object access protocol",
+            "SOAP (simple object access protocol)",
+            "soap 1.1",
+            "soap 1.2"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Serialization and Deserialization"
+        ]
+    },
+    {
+        "name": "REST",
+        "synonyms": [
+            "representational state transfer",
+            "REST (Representational State Transfer)",
+            "restful",
+            "RESTful API",
+            "RESTful APIs",
+            "REST API",
+            "REST APIs"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "GraphQL",
+        "synonyms": [
+            "graph query language"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "API Testing"
+        ]
+    },
+    {
+        "name": "gRPC",
+        "synonyms": [
+            "google remote procedure call",
+            "gRPC/Protobuff",
+            "gRPC Protobuf",
+            "Protobuf/gRPC",
+            "Protobuf gPRC"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": ["ProtoBuf"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Streaming and Real-time Processing"
+        ]
+    },
+    {
+        "name": "RTSP",
+        "synonyms": [
+            "real time streaming protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Streaming and Real-time Processing"
+        ]
+    },
+    {
+        "name": "MQTT",
+        "synonyms": [
+            "message queue telemetry transport",
+            "mqtt 3.1",
+            "mqtt 3.1.1",
+            "mqtt 5.0"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Messaging and Queuing"
+        ]
+    },
+    {
+        "name": "CoAP",
+        "synonyms": [
+            "constrained application protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Communication Protocols"
+        ]
+    },
+    {
+        "name": "XMPP",
+        "synonyms": [
+            "extensible messaging and presence protocol",
+            "jabber"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Messaging and Queuing"
+        ]
+    },
+    {
+        "name": "DNS",
+        "synonyms": [
+            "domain name system",
+            "domain name server"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "TLS",
+        "synonyms": [
+            "transport layer security",
+            "tls 1.0",
+            "tls 1.1",
+            "tls 1.2",
+            "tls 1.3"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Encryption and Decryption"
+        ]
+    },
+    {
+        "name": "QUIC",
+        "synonyms": [
+            "quick udp internet connections",
+            "google quic",
+            "quic protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Encryption and Decryption"
+        ]
+    },
+    {
+        "name": "SSH",
+        "synonyms": [
+            "secure shell",
+            "ssh-1",
+            "ssh-2",
+            "ssh protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Authentication and Authorization"
+        ]
+    },
+    {
+        "name": "SFTP",
+        "synonyms": [
+            "ssh file transfer protocol",
+            "secure file transfer protocol",
+            "sftp protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "File Handling",
+            "Encryption and Decryption"
+        ]
+    },
+    {
+        "name": "Telnet",
+        "synonyms": [
+            "telnet protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "SNMP",
+        "synonyms": [
+            "simple network management protocol",
+            "snmpv1",
+            "snmpv2c",
+            "snmpv3"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Performance Monitoring and Profiling"
+        ]
+    },
+    {
+        "name": "LDAP",
+        "synonyms": [
+            "lightweight directory access protocol",
+            "ldap protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Authentication and Authorization"
+        ]
+    },
+    {
+        "name": "RTMP",
+        "synonyms": [
+            "real time messaging protocol",
+            "rtmp protocol",
+            "adobe rtmp"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Streaming and Real-time Processing"
+        ]
+    },
+    {
+        "name": "SCTP",
+        "synonyms": [
+            "stream control transmission protocol",
+            "sctp protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "SIP",
+        "synonyms": [
+            "session initiation protocol",
+            "sip protocol",
+            "sip/2.0"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Streaming and Real-time Processing"
+        ]
+    },
+    {
+        "name": "BitTorrent Protocol",
+        "synonyms": [
+            "bittorrent",
+            "bt protocol",
+            "bit torrent"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "File Handling"
+        ]
+    },
+    {
+        "name": "NTP",
+        "synonyms": [
+            "network time protocol",
+            "ntpv4",
+            "ntp protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Date and Time Manipulation"
+        ]
+    },
+    {
+        "name": "UDP",
+        "synonyms": [
+            "user datagram protocol",
+            "udp protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "TCP",
+        "synonyms": [
+            "transmission control protocol",
+            "tcp protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "ICMP",
+        "synonyms": [
+            "internet control message protocol",
+            "icmp protocol"
+        ],
+        "type": [
+            "Protocol"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "Error Handling and Exception Management"
+        ]
+    }
+]

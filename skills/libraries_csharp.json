@@ -1,0 +1,3808 @@
+[
+    {
+        "name": "Newtonsoft.Json",
+        "synonyms": [
+            "json.net",
+            "newtonsoft json",
+            "newtonsoft"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Serialization and Deserialization"
+        ]
+    },
+    {
+        "name": "NLog",
+        "synonyms": [
+            "nlog",
+            "n-log"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Logging"
+        ]
+    },
+    {
+        "name": "log4net",
+        "synonyms": [
+            "log4net",
+            "log 4 net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Logging"
+        ]
+    },
+    {
+        "name": "Serilog",
+        "synonyms": [
+            "serilog"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Logging"
+        ]
+    },
+    {
+        "name": "AutoMapper",
+        "synonyms": [
+            "automapper",
+            "auto mapper"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Utility Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Mapster",
+        "synonyms": [
+            "mapster",
+            "map ster"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Utility Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Humanizer",
+        "synonyms": [
+            "humanizer",
+            "humanzier"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Date and Time Manipulation",
+            "Utility Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Polly",
+        "synonyms": [
+            "polly"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Error Handling and Exception Management",
+            "Other Backend Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "FluentValidation",
+        "synonyms": [
+            "fluentvalidation",
+            "fluent validation",
+            "fv"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Validation and Sanitization"
+        ]
+    },
+    {
+        "name": "RestSharp",
+        "synonyms": [
+            "restsharp",
+            "rest sharp"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "API Clients and SDKs"
+        ]
+    },
+    {
+        "name": "CommandLineParser",
+        "synonyms": [
+            "commandlineparser",
+            "command line parser",
+            "cli parser"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Command Line Interface Tools"
+        ]
+    },
+    {
+        "name": "SharpZipLib",
+        "synonyms": [
+            "sharpziplib",
+            "sharp zip lib",
+            "ziplib"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Compression and Archiving"
+        ]
+    },
+    {
+        "name": "BouncyCastle",
+        "synonyms": [
+            "bouncycastle",
+            "bouncy castle",
+            "bc"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Encryption and Decryption"
+        ]
+    },
+    {
+        "name": "CsvHelper",
+        "synonyms": [
+            "csvhelper",
+            "csv helper"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "File Handling",
+            "Parsing and Data Formats"
+        ]
+    },
+    {
+        "name": "YamlDotNet",
+        "synonyms": [
+            "yamldotnet",
+            "yaml dot net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Parsing and Data Formats"
+        ]
+    },
+    {
+        "name": "IniParser",
+        "synonyms": [
+            "iniparser",
+            "ini parser"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Configuration Management",
+            "Parsing and Data Formats"
+        ]
+    },
+    {
+        "name": "MiniProfiler",
+        "synonyms": [
+            "miniprofiler",
+            "mini profiler"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Monitoring and Profiling"
+        ]
+    },
+    {
+        "name": "BenchmarkDotNet",
+        "synonyms": [
+            "benchmarkdotnet",
+            "benchmark dot net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Monitoring and Profiling"
+        ]
+    },
+    {
+        "name": "Roslynator",
+        "synonyms": [
+            "roslynator",
+            "roslyn ator"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Code Analysis and Linting"
+        ]
+    },
+    {
+        "name": "StyleCop.Analyzers",
+        "synonyms": [
+            "stylecop.analyzers",
+            "stylecop",
+            "stylecop analyzers"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Code Analysis and Linting"
+        ]
+    },
+    {
+        "name": "SharpConfig",
+        "synonyms": [
+            "sharpconfig",
+            "sharp config"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Configuration Management"
+        ]
+    },
+    {
+        "name": "NodaTime",
+        "synonyms": [
+            "nodatime",
+            "noda time"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Date and Time Manipulation"
+        ]
+    },
+    {
+        "name": "Ardalis.GuardClauses",
+        "synonyms": [
+            "ardalis.guardclauses",
+            "guardclauses",
+            "guard clauses"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Validation and Sanitization"
+        ]
+    },
+    {
+        "name": "MediatR",
+        "synonyms": [
+            "mediatr",
+            "mediatr library"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Backend Libraries/Tools/Services/Agents",
+            "Other Cross-Domain Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Spectre.Console",
+        "synonyms": [
+            "spectre.console",
+            "spectre console",
+            "spectre csharp"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Command Line Interface Tools"
+        ]
+    },
+    {
+        "name": "McMaster.Extensions.CommandLineUtils",
+        "synonyms": [
+            "mcmaster.extensions.commandlineutils",
+            "commandline utils",
+            "mcmaster command line utils"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Command Line Interface Tools"
+        ]
+    },
+    {
+        "name": "FluentFTP",
+        "synonyms": [
+            "fluentftp",
+            "fluent ftp"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "AngleSharp",
+        "synonyms": [
+            "anglesharp",
+            "angle sharp"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Parsing and Data Formats"
+        ]
+    },
+    {
+        "name": "Fody",
+        "synonyms": [
+            "fody",
+            "weaver"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Cross-Domain Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "FastMember",
+        "synonyms": [
+            "fastmember",
+            "fast member"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Utility Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "System.IO.Abstractions",
+        "synonyms": [
+            "system.io.abstractions",
+            "io abstractions",
+            "file system abstractions"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "File Handling"
+        ]
+    },
+    {
+        "name": "RestEase",
+        "synonyms": [
+            "restease",
+            "rest ease"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "Flurl",
+        "synonyms": [
+            "flurl",
+            "flurl.http",
+            "flurl http"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Networking",
+            "API Clients and SDKs"
+        ]
+    },
+    {
+        "name": "Config.Net",
+        "synonyms": [
+            "config.net",
+            "config net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Configuration Management"
+        ]
+    },
+    {
+        "name": "CS-Script",
+        "synonyms": [
+            "csscript",
+            "c# script",
+            "cs script"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Cross-Domain Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Handlebars.Net",
+        "synonyms": [
+            "handlebars.net",
+            "handlebars"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Cross-Domain Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "DotNetZip",
+        "synonyms": [
+            "dotnetzip",
+            "dot net zip",
+            "dot net zip library"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Compression and Archiving"
+        ]
+    },
+    {
+        "name": "Mono.Cecil",
+        "synonyms": [
+            "mono.cecil",
+            "cecil",
+            "monocecil"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Code Analysis and Linting"
+        ]
+    },
+    {
+        "name": "SpanJson",
+        "synonyms": [
+            "spanjson",
+            "span json"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Serialization and Deserialization"
+        ]
+    },
+    {
+        "name": "MessagePack",
+        "synonyms": [
+            "messagepack-csharp",
+            "messagepack csharp",
+            "csharp messagepack",
+            "msgpack"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Serialization and Deserialization"
+        ]
+    },
+    {
+        "name": "protobuf-net",
+        "synonyms": [
+            "protobuf-net",
+            "protonet"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": ["ProtoBuf"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Serialization and Deserialization"
+        ]
+    },
+    {
+        "name": "libphonenumber-csharp",
+        "synonyms": [
+            "libphonenumber-csharp",
+            "libphonenumber",
+            "phone number parser"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Parsing and Data Formats",
+            "Internationalization and Localization"
+        ]
+    },
+    {
+        "name": "LanguageExt",
+        "synonyms": [
+            "languageext",
+            "language ext"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Cross-Domain Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Scriban",
+        "synonyms": [
+            "scriban",
+            "scriban template engine"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Other Cross-Domain Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "System.CommandLine",
+        "synonyms": [
+            "system.commandline",
+            "commandline"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Command Line Interface Tools"
+        ]
+    },
+    {
+        "name": "ReactiveX",
+        "synonyms": [
+            "rx.net",
+            "rx",
+            "reactive extensions"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Concurrency and Multithreading"
+        ]
+    },
+    {
+        "name": "SharpCompress",
+        "synonyms": [
+            "sharpcompress",
+            "sharp compress"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Compression and Archiving"
+        ]
+    },
+    {
+        "name": "Entity Framework Core",
+        "synonyms": [
+            "ef core",
+            "entity framework core",
+            "efcore"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Object-Relational Mapping (ORMs)"
+        ]
+    },
+    {
+        "name": "Dapper",
+        "synonyms": [
+            "dapper",
+            "micro orm dapper"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Object-Relational Mapping (ORMs)"
+        ]
+    },
+    {
+        "name": "NHibernate",
+        "synonyms": [
+            "nhibernate",
+            "n-hibernate"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Object-Relational Mapping (ORMs)"
+        ]
+    },
+    {
+        "name": "ServiceStack.OrmLite",
+        "synonyms": [
+            "servicestack ormlite",
+            "ormlite",
+            "service stack ormlite"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Object-Relational Mapping (ORMs)"
+        ]
+    },
+    {
+        "name": "CacheManager",
+        "synonyms": [
+            "cachemanager"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Caching"
+        ]
+    },
+    {
+        "name": "EasyCaching",
+        "synonyms": [
+            "easycaching",
+            "easy caching"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Caching"
+        ]
+    },
+    {
+        "name": "LazyCache",
+        "synonyms": [
+            "lazycache",
+            "lazy cache"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Caching"
+        ]
+    },
+    {
+        "name": "Nowin",
+        "synonyms": [
+            "nowin",
+            "owin nowin"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Middleware"
+        ]
+    },
+    {
+        "name": "Refit",
+        "synonyms": [
+            "refit"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Clients and SDKs"
+        ]
+    },
+    {
+        "name": "MySql.Data",
+        "synonyms": [
+            "mysql.data",
+            "mysql data"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Npgsql",
+        "synonyms": [
+            "npgsql",
+            "npg sql"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Microsoft.Data.SqlClient",
+        "synonyms": [
+            "microsoft.data.sqlclient",
+            "sql client",
+            "ms sql client"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "MongoDB.Driver",
+        "synonyms": [
+            "mongodb.driver",
+            "mongo driver",
+            "mongo db driver"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "Oracle.ManagedDataAccess",
+        "synonyms": [
+            "oracle.manageddataaccess",
+            "oracle data access",
+            "oracle managed data access"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Drivers and Connectors"
+        ]
+    },
+    {
+        "name": "MassTransit",
+        "synonyms": [
+            "masstransit",
+            "mass transit"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Messaging and Queuing"
+        ]
+    },
+    {
+        "name": "RabbitMQ.Client",
+        "synonyms": [
+            "rabbitmq.client",
+            "rabbit mq client",
+            "rabbitmq"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Messaging and Queuing"
+        ]
+    },
+    {
+        "name": "EasyNetQ",
+        "synonyms": [
+            "easynetq",
+            "easy net q"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Messaging and Queuing"
+        ]
+    },
+    {
+        "name": "Apache.NMS",
+        "synonyms": [
+            "apache.nms",
+            "nms",
+            "apache nms"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Messaging and Queuing"
+        ]
+    },
+    {
+        "name": "Lucene",
+        "synonyms": [
+            "lucene.net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Search and Indexing"
+        ]
+    },
+    {
+        "name": "Elasticsearch.Net",
+        "synonyms": [
+            "elasticsearch.net",
+            "es net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": ["elasticsearch"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Search and Indexing"
+        ]
+    },
+    {
+        "name": "Nest",
+        "synonyms": [
+            "nest",
+            "elasticsearch nest"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Search and Indexing"
+        ]
+    },
+    {
+        "name": "Hangfire",
+        "synonyms": [
+            "hangfire",
+            "hang fire"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Background Job Processing"
+        ]
+    },
+    {
+        "name": "SignalR",
+        "synonyms": [
+            "signalr",
+            "signal r",
+            "asp.net signalr"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Streaming and Real-time Processing"
+        ]
+    },
+    {
+        "name": "NetMQ",
+        "synonyms": [
+            "netmq",
+            "net mq",
+            "0mq for .net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Streaming and Real-time Processing"
+        ]
+    },
+    {
+        "name": "IdentityModel",
+        "synonyms": [
+            "identitymodel",
+            "identity model"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Backend Security"
+        ]
+    },
+    {
+        "name": "BCrypt",
+        "synonyms": [
+            "bcrypt.net",
+            "BCrypt.Net-Next",
+            "bcrypt net next"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Backend Security"
+        ]
+    },
+    {
+        "name": "MailKit",
+        "synonyms": [
+            "mailkit",
+            "mail kit"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Email and Notification Services"
+        ]
+    },
+    {
+        "name": "FluentEmail",
+        "synonyms": [
+            "fluentemail",
+            "fluent email"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Email and Notification Services"
+        ]
+    },
+    {
+        "name": "Quartz.NET",
+        "synonyms": [
+            "quartz.net",
+            "quartznet"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Task Scheduling and Cron Jobs"
+        ]
+    },
+    {
+        "name": "FluentScheduler",
+        "synonyms": [
+            "fluentscheduler",
+            "fluent scheduler"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Task Scheduling and Cron Jobs"
+        ]
+    },
+    {
+        "name": "Moq",
+        "synonyms": [
+            "moq",
+            "mock"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Backend Unit Testing",
+            "Service Mocking"
+        ]
+    },
+    {
+        "name": "FluentAssertions",
+        "synonyms": [
+            "fluentassertions",
+            "fluent assertions"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Backend Unit Testing"
+        ]
+    },
+    {
+        "name": "NSubstitute",
+        "synonyms": [
+            "nsubstitute",
+            "nsub"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Backend Unit Testing"
+        ]
+    },
+    {
+        "name": "WireMock",
+        "synonyms": [
+            "wiremock.net",
+            "wiremock",
+            "wire mock"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "API Testing",
+            "Service Mocking"
+        ]
+    },
+    {
+        "name": "Respawn",
+        "synonyms": [
+            "respawn",
+            "database respawn"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Database Testing"
+        ]
+    },
+    {
+        "name": "NBomber",
+        "synonyms": [
+            "nbomber",
+            "n bomber",
+            "nbomber load testing"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend",
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Stress Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents",
+            "Performance Testing",
+            "Load Testing"
+        ]
+    },
+    {
+        "name": "Testcontainers",
+        "synonyms": [
+            "DotNet.testcontainers",
+            "DotNet testcontainers",
+            "test containers for .net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Backend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Backend Integration Testing"
+        ]
+    },
+    {
+        "name": "MahApps.Metro",
+        "synonyms": [
+            "mahapps.metro",
+            "mahapps metro",
+            "metro"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries",
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "MaterialDesignInXamlToolkit",
+        "synonyms": [
+            "materialdesigninxamltoolkit",
+            "material design in xaml toolkit",
+            "material design xaml"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries",
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "Xceed.Wpf.Toolkit",
+        "synonyms": [
+            "xceed.wpf.toolkit",
+            "xceed wpf toolkit",
+            "wpf toolkit"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries"
+        ]
+    },
+    {
+        "name": "Blazorise",
+        "synonyms": [
+            "blazorise"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries",
+            "Form Management",
+            "UI Styling",
+            "Other Frontend Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "MudBlazor",
+        "synonyms": [
+            "mudblazor",
+            "mud blazor"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries",
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "Fluxor",
+        "synonyms": [
+            "fluxor",
+            "redux for blazor"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "State Management",
+            "Other Frontend Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Bunit",
+        "synonyms": [
+            "bunit",
+            "blazor unit testing"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Component Testing"
+        ]
+    },
+    {
+        "name": "Blazored.Modal",
+        "synonyms": [
+            "blazored.modal",
+            "blazored modal"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries",
+            "Other Frontend Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Blazored.Toast",
+        "synonyms": [
+            "blazored.toast",
+            "blazored toast"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries",
+            "Other Frontend Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Blazored.LocalStorage",
+        "synonyms": [
+            "blazored.localstorage",
+            "blazored localstorage",
+            "blazored local storage"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "State Management",
+            "Other Frontend Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "MonkeyCache",
+        "synonyms": [
+            "monkeycache",
+            "monkey cache"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Fetching and Caching"
+        ]
+    },
+    {
+        "name": "LiveCharts",
+        "synonyms": [
+            "livecharts",
+            "live charts"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Visualization"
+        ]
+    },
+    {
+        "name": "OxyPlot",
+        "synonyms": [
+            "oxyplot",
+            "oxy plot"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Visualization"
+        ]
+    },
+    {
+        "name": "Transitionals",
+        "synonyms": [
+            "transitionals",
+            "wpf transitionals"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Animation and Transitions"
+        ]
+    },
+    {
+        "name": "FFImageLoading",
+        "synonyms": [
+            "ffimageloading",
+            "ff image loading"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Performance Optimization",
+            "Data Fetching and Caching"
+        ]
+    },
+    {
+        "name": "Fluent.Ribbon",
+        "synonyms": [
+            "fluent.ribbon",
+            "fluent ribbon"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Component Libraries",
+            "UI Styling"
+        ]
+    },
+    {
+        "name": "Selenium",
+        "synonyms": [
+            "selenium webdriver"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "QA/Testing",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Cross-browser Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents",
+            "Compatibility Testing",
+            "UI Testing",
+            "Frontend E2E Testing",
+            "Mobile Testing",
+            "Functional Testing",
+            "End-to-End Testing"
+        ]
+    },
+    {
+        "name": "Playwright",
+        "synonyms": [
+            "microsoft.playwright",
+            "playwright",
+            "ms playwright"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Frontend E2E Testing",
+            "Frontend Performance Testing",
+            "Cross-browser Testing"
+        ]
+    },
+    {
+        "name": "ApprovalTests",
+        "synonyms": [
+            "approval-tests",
+            "approval tests"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Visual Regression Testing"
+        ]
+    },
+    {
+        "name": "Axe.Windows",
+        "synonyms": [
+            "axe.windows",
+            "axe windows",
+            "accessibility axe"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Accessibility Testing"
+        ]
+    },
+    {
+        "name": "ReactiveUI",
+        "synonyms": [
+            "reactiveui",
+            "reactive ui"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "State Management",
+            "Other Frontend Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "ReactJS.NET",
+        "synonyms": [
+            "reactjs.net",
+            "react .net",
+            "react net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Server-Side Rendering Frameworks",
+            "Isomorphic/Universal JavaScript"
+        ]
+    },
+    {
+        "name": "Bridge.NET",
+        "synonyms": [
+            "bridge.net",
+            "bridge",
+            "c# to javascript",
+            "c#2js"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Fullstack"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Fullstack End-to-End Tooling",
+            "Isomorphic/Universal JavaScript",
+            "Other Fullstack Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Telerik UI for Xamarin",
+        "synonyms": [
+            "telerik ui for xamarin",
+            "telerik xamarin"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Components"
+        ]
+    },
+    {
+        "name": "Syncfusion Essential Studio for Xamarin",
+        "synonyms": [
+            "syncfusion essential studio for xamarin",
+            "syncfusion xamarin",
+            "syncfusion"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Components"
+        ]
+    },
+    {
+        "name": "SQLite-net",
+        "synonyms": [
+            "sqlite-net",
+            "sqlite net",
+            "sqlite net pcl"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Local Databases"
+        ]
+    },
+    {
+        "name": "Xamarin.Auth",
+        "synonyms": [
+            "xamarin.auth",
+            "xamarin auth",
+            "xauth"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Authentication Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Shiny",
+        "synonyms": [
+            "shiny",
+            "shiny notifications",
+            "shiny mobile"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Push Notifications"
+        ]
+    },
+    {
+        "name": "Microsoft.AppCenter.Analytics",
+        "synonyms": [
+            "microsoft.appcenter.analytics",
+            "appcenter analytics",
+            "ms appcenter analytics"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Analytics and Tracking"
+        ]
+    },
+    {
+        "name": "Stripe.net",
+        "synonyms": [
+            "stripe.net",
+            "stripe c#"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Stripe"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Payment Integration"
+        ]
+    },
+    {
+        "name": "Xamarin.Essentials",
+        "synonyms": [
+            "xamarin.essentials",
+            "xamarin essentials",
+            "essentials"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Location Services",
+            "Sensor Integration Libraries"
+        ]
+    },
+    {
+        "name": "Xamarin.UITest",
+        "synonyms": [
+            "xamarin.uitest",
+            "uitest",
+            "xamarin ui test",
+            "ui test"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Automation",
+            "Cross-platform Testing"
+        ]
+    },
+    {
+        "name": "ML.NET",
+        "synonyms": [
+            "ml.net",
+            "mlnet"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Statistical Analysis",
+            "Other Data Science Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Accord.NET",
+        "synonyms": [
+            "accord.net",
+            "accord"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Statistical Analysis",
+            "Statistical Testing",
+            "Other Data Science Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Math.NET Numerics",
+        "synonyms": [
+            "math.net numerics",
+            "math.net",
+            "math numerics"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Statistical Analysis",
+            "Statistical Testing"
+        ]
+    },
+    {
+        "name": "Deedle",
+        "synonyms": [
+            "deedle",
+            "deedle.net",
+            "dataframe for .net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Analysis",
+            "Other Data Science Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "ScottPlot",
+        "synonyms": [
+            "scottplot",
+            "scott plot"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Visualization",
+            "Other Data Science Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Microsoft.Spark",
+        "synonyms": [
+            "microsoft.spark",
+            "spark .net",
+            "ms spark"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Big Data Tools",
+            "Other Data Science Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "NetTopologySuite",
+        "synonyms": [
+            "nettopologysuite",
+            "net topology suite",
+            "nts"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Geospatial Data Analysis",
+            "Other Data Science Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Plotly.NET",
+        "synonyms": [
+            "plotly.net",
+            "plotly net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "Data Science"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Data Visualization",
+            "Other Data Science Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "NUnit",
+        "synonyms": [
+            "nunit",
+            "nunit framework"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Unit Testing",
+            "Integration Testing",
+            "Regression Testing",
+            "Smoke Testing",
+            "Sanity Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "xUnit.net",
+        "synonyms": [
+            "xunit",
+            "xunit.net"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Unit Testing",
+            "Integration Testing",
+            "Regression Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "MSTest",
+        "synonyms": [
+            "mstest",
+            "ms test",
+            "microsoft test"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Unit Testing",
+            "Integration Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "SpecFlow",
+        "synonyms": [
+            "specflow",
+            "spec flow",
+            "bdd specflow"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Acceptance Testing",
+            "Functional Testing",
+            "End-to-End Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Appium.WebDriver",
+        "synonyms": [
+            "appium.webdriver",
+            "appium c#",
+            "appium"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile Testing",
+            "UI Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "TestStack.White",
+        "synonyms": [
+            "teststack.white",
+            "white",
+            "ui automation"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "UI Testing",
+            "Functional Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "PuppeteerSharp",
+        "synonyms": [
+            "puppeteersharp",
+            "puppeteer sharp"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "QA/Testing"
+        ],
+        "impliesKnowingSkills": [
+            "Puppeteer"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "End-to-End Testing",
+            "UI Testing",
+            "Other QA/Testing Libraries/Tools/Services/Agents"
+        ]
+    },
+    {
+        "name": "Cake",
+        "synonyms": [
+            "cake",
+            "c# cake",
+            "csharp cake build"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "Nuke.Build",
+        "synonyms": [
+            "nuke",
+            "nuke.build",
+            "nuke build"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "CI/CD & Release Orchestration"
+        ]
+    },
+    {
+        "name": "LibGit2Sharp",
+        "synonyms": [
+            "libgit2sharp",
+            "lib git2sharp"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "Octokit.net",
+        "synonyms": [
+            "octokit.net",
+            "octokit"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Version Control & GitOps"
+        ]
+    },
+    {
+        "name": "Docker.DotNet",
+        "synonyms": [
+            "docker.dotnet",
+            "docker dotnet"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": ["Docker"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Containerization & Orchestration"
+        ]
+    },
+    {
+        "name": "KubernetesClient",
+        "synonyms": [
+            "kubernetesclient",
+            "kubernetes client for .net",
+            "csharp kubernetes client",
+            "kubernetes-client"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": ["Kubernetes"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Containerization & Orchestration"
+        ]
+    },
+    {
+        "name": "Pulumi.net",
+        "synonyms": [
+            "pulumi .net",
+            "pulumi c#"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": ["Pulumi"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Infrastructure as Code & Configuration Management"
+        ]
+    },
+    {
+        "name": "PagerDutySharp",
+        "synonyms": [
+            "pagerdutysharp",
+            "pager duty sharp"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": ["PagerDuty"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Incident & On-Call Management"
+        ]
+    },
+    {
+        "name": "NuGet.Protocol",
+        "synonyms": [
+            "nuget protocol"
+        ],
+        "type": [
+            "Library"
+        ],
+        "technicalDomains": [
+            "DevOps"
+        ],
+        "impliesKnowingSkills": ["NuGet"],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [],
+        "supportedProgrammingLanguages": [
+            "C#"
+        ],
+        "specificToFrameworks": [],
+        "adapterForToolOrService": [],
+        "implementsPatterns": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Artifact & Dependency Management"
+        ]
+    }
+]

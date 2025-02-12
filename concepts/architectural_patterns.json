@@ -1,0 +1,563 @@
+[
+    {
+        "category": "Service Architecture Patterns",
+        "patterns": [
+            "REST (Representational State Transfer)",
+            "SOAP (Simple Object Access Protocol)",
+            "GraphQL",
+            "gRPC (Google Remote Procedure Call)",
+            "WebSocket",
+            "Event-Driven Architecture (EDA)",
+            "Message-Driven Architecture",
+            "RPC (Remote Procedure Call)",
+            "Server-Sent Events (SSE)"
+        ]
+    },
+    {
+        "category": "Application Architecture Patterns (Backend)",
+        "patterns": [
+            "MVC (Model-View-Controller)",
+            "MVP (Model-View-Presenter)",
+            "MVVM (Model-View-ViewModel)",
+            "Clean Architecture",
+            "Hexagonal Architecture",
+            "Onion Architecture",
+            "Layered Architecture",
+            "Domain-Driven Design (DDD)",
+            "Service-Oriented Architecture (SOA)",
+            "Microservices Architecture",
+            "Monolithic Architecture",
+            "CQRS (Command Query Responsibility Segregation)",
+            "Event Sourcing",
+            "Serverless Architecture"
+        ]
+    },
+    {
+        "category": "Integration Patterns",
+        "patterns": [
+            "API Gateway",
+            "Backend for Frontend (BFF)",
+            "Circuit Breaker",
+            "Saga Pattern",
+            "Publish-Subscribe (PubSub)",
+            "Request-Reply",
+            "Service Mesh",
+            "Sidecar Pattern",
+            "Event Mesh"
+        ]
+    },
+    {
+        "category": "Database Patterns",
+        "patterns": [
+            "Repository Pattern",
+            "Active Record",
+            "Data Mapper",
+            "Unit of Work",
+            "Database per Service",
+            "Shared Database",
+            "Event Store"
+        ]
+    },
+    {
+        "category": "Scalability Patterns",
+        "patterns": [
+            "Horizontal Scaling",
+            "Vertical Scaling",
+            "Load Balancing",
+            "Sharding",
+            "Caching",
+            "Bulkhead Pattern",
+            "Throttling",
+            "Rate Limiting",
+            "Auto-Scaling",
+            "Partitioning"
+        ]
+    },
+    {
+        "category": "Security Patterns",
+        "patterns": [
+            "Authentication",
+            "Authorization",
+            "OAuth/OpenID Connect",
+            "JWT (JSON Web Tokens)",
+            "Secure Token Pattern",
+            "API Key",
+            "Defense in Depth",
+            "Zero Trust Architecture",
+            "Data-at-Rest Encryption",
+            "Data-in-Transit Encryption"
+        ]
+    },
+    {
+        "category": "Resilience Patterns",
+        "patterns": [
+            "Circuit Breaker",
+            "Retry Pattern",
+            "Timeout Pattern",
+            "Fallback Pattern",
+            "Bulkhead Pattern",
+            "Cache-Aside Pattern",
+            "Compensating Transaction"
+        ]
+    },
+    {
+        "category": "Development Patterns",
+        "patterns": [
+            "Dependency Injection",
+            "Inversion of Control (IoC)",
+            "Factory Pattern",
+            "Singleton Pattern",
+            "Observer Pattern",
+            "Strategy Pattern",
+            "Decorator Pattern",
+            "Adapter Pattern",
+            "Builder Pattern",
+            "Proxy Pattern"
+        ]
+    },
+    {
+        "category": "Testing Patterns",
+        "patterns": [
+            "Unit Testing",
+            "Integration Testing",
+            "End-to-End Testing",
+            "Test-Driven Development (TDD)",
+            "Behavior-Driven Development (BDD)",
+            "Contract Testing",
+            "Load Testing",
+            "Chaos Engineering",
+            "Smoke Testing",
+            "Canary Testing"
+        ]
+    },
+    {
+        "category": "Frontend Application Architecture Patterns",
+        "patterns": [
+            "MVC (Model-View-Controller)",
+            "MVP (Model-View-Presenter)",
+            "MVVM (Model-View-ViewModel)",
+            "Flux Architecture",
+            "Redux Architecture",
+            "Component-Based Architecture",
+            "Atomic Design",
+            "Container/Presentational Pattern",
+            "JAMstack Architecture",
+            "Micro-Frontend Architecture",
+            "Single Page Application (SPA)",
+            "Multi-Page Application (MPA)",
+            "Progressive Web Application (PWA)",
+            "Isomorphic/Universal JavaScript",
+            "Event-Driven Architecture"
+        ]
+    },
+    {
+        "category": "Frontend State Management Patterns",
+        "patterns": [
+            "Flux Pattern",
+            "Redux Pattern",
+            "Observer Pattern",
+            "Publisher/Subscriber (PubSub) Pattern",
+            "Command Pattern",
+            "Finite State Machine (FSM)",
+            "Context API Pattern",
+            "Composition Pattern",
+            "Proxy Pattern",
+            "Observable Pattern"
+        ]
+    },
+    {
+        "category": "Frontend Rendering Patterns",
+        "patterns": [
+            "Client-Side Rendering (CSR)",
+            "Server-Side Rendering (SSR)",
+            "Static Site Generation (SSG)",
+            "Incremental Static Regeneration (ISR)",
+            "Islands Architecture",
+            "Streaming SSR",
+            "Dynamic Imports",
+            "Code Splitting",
+            "Tree Shaking",
+            "Hydration"
+        ]
+    },
+    {
+        "category": "Frontend Component Patterns",
+        "patterns": [
+            "Compound Components",
+            "Higher-Order Components (HOC)",
+            "Render Props",
+            "Custom Hooks",
+            "Provider Pattern",
+            "Controlled Components",
+            "Uncontrolled Components",
+            "Smart/Dumb Components",
+            "Component Composition",
+            "Slots Pattern"
+        ]
+    },
+    {
+        "category": "Frontend Styling Patterns",
+        "patterns": [
+            "CSS Modules",
+            "CSS-in-JS",
+            "Styled Components",
+            "Utility-First CSS",
+            "BEM (Block Element Modifier)",
+            "OOCSS (Object-Oriented CSS)",
+            "SMACSS (Scalable and Modular Architecture for CSS)",
+            "Atomic CSS",
+            "CSS Variables Pattern",
+            "Theming Pattern"
+        ]
+    },
+    {
+        "category": "Frontend Performance Patterns",
+        "patterns": [
+            "Virtual DOM",
+            "Lazy Loading",
+            "Infinite Scrolling",
+            "Windowing/Virtualization",
+            "Memoization",
+            "Resource Prefetching",
+            "Service Workers",
+            "Asset Optimization",
+            "Critical CSS",
+            "Progressive Enhancement"
+        ]
+    },
+    {
+        "category": "Frontend Routing Patterns",
+        "patterns": [
+            "Hash-Based Routing",
+            "History API Routing",
+            "Nested Routing",
+            "Dynamic Routing",
+            "Protected Routes",
+            "Route Guards",
+            "Layout Routes",
+            "Modal Routes",
+            "Parallel Routes",
+            "Catch-all Routes"
+        ]
+    },
+    {
+        "category": "Frontend Form Patterns",
+        "patterns": [
+            "Controlled Forms",
+            "Uncontrolled Forms",
+            "Form Validation",
+            "Form State Management",
+            "Multi-step Forms",
+            "Dynamic Forms",
+            "Form Composition",
+            "Field Array Pattern",
+            "Form Builder Pattern",
+            "Form Wizard Pattern"
+        ]
+    },
+    {
+        "category": "Frontend Security Patterns",
+        "patterns": [
+            "Content Security Policy (CSP)",
+            "Cross-Site Scripting (XSS) Prevention",
+            "CSRF Protection",
+            "Secure Authentication Patterns",
+            "OAuth Integration",
+            "JWT Handling",
+            "Secure Storage Pattern",
+            "Input Sanitization",
+            "Permission-Based Access",
+            "Security Headers Implementation"
+        ]
+    },
+    {
+        "category": "Frontend UI Design Patterns",
+        "patterns": [
+            "Responsive Design",
+            "Adaptive Design",
+            "Mobile-First Design",
+            "Progressive Disclosure",
+            "Skeleton Screen",
+            "Infinite Scroll",
+            "Pull to Refresh",
+            "Modal Dialog",
+            "Toast Notification",
+            "Accordion Pattern"
+        ]
+    },
+    {
+        "category": "Mobile Application Architecture Patterns",
+        "patterns": [
+            "MVC (Model-View-Controller)",
+            "MVP (Model-View-Presenter)",
+            "MVVM (Model-View-ViewModel)",
+            "VIPER (View-Interactor-Presenter-Entity-Router)",
+            "Clean Architecture",
+            "Redux Architecture",
+            "BLoC Architecture",
+            "Coordinator Pattern",
+            "Layered Architecture",
+            "Modular Architecture"
+        ]
+    },
+    {
+        "category": "Mobile UI Patterns",
+        "patterns": [
+            "Responsive Design",
+            "Adaptive Design",
+            "Gesture-Based Interaction",
+            "Composable UI",
+            "Declarative UI",
+            "Bottom Sheet",
+            "Navigation Drawer",
+            "Tab Navigation",
+            "Modal/Dialog",
+            "Pull to Refresh"
+        ]
+    },
+    {
+        "category": "Mobile State Management Patterns",
+        "patterns": [
+            "Redux Pattern",
+            "BLoC Pattern",
+            "MobX Pattern",
+            "Provider Pattern",
+            "Riverpod Pattern",
+            "Observable Pattern",
+            "Finite State Machine (FSM)",
+            "Event Bus"
+        ]
+    },
+    {
+        "category": "Mobile Data Storage Patterns",
+        "patterns": [
+            "SQLite Database",
+            "Realm Database",
+            "Core Data",
+            "Key-Value Storage",
+            "File System Storage",
+            "Encrypted Storage",
+            "Cache Storage"
+        ]
+    },
+    {
+        "category": "Mobile Offline Patterns",
+        "patterns": [
+            "Offline-First",
+            "Cache Synchronization",
+            "Queue-Based Updates",
+            "Conflict Resolution",
+            "Optimistic UI Updates",
+            "Background Synchronization"
+        ]
+    },
+    {
+        "category": "Mobile Performance Patterns",
+        "patterns": [
+            "Lazy Loading",
+            "Image Caching",
+            "View Recycling",
+            "Memory Cache Management",
+            "Background Processing"
+        ]
+    },
+    {
+        "category": "Mobile Security Patterns",
+        "patterns": [
+            "Biometric Authentication",
+            "Secure Storage",
+            "Certificate Pinning",
+            "App Signing",
+            "Code Obfuscation",
+            "Data Encryption"
+        ]
+    },
+    {
+        "category": "Mobile Navigation Patterns",
+        "patterns": [
+            "Navigation Stack",
+            "Coordinator/Flow",
+            "Deep Linking",
+            "Tab-Based Navigation",
+            "Drawer Navigation",
+            "Modal Navigation"
+        ]
+    },
+    {
+        "category": "Mobile Resource Management",
+        "patterns": [
+            "Memory Management",
+            "Battery Optimization",
+            "Network-Aware Pattern",
+            "Resource Pooling",
+            "Lazy Resource Loading"
+        ]
+    },
+    {
+        "category": "Mobile Testing Patterns",
+        "patterns": [
+            "Unit Testing",
+            "Widget Testing",
+            "Integration Testing",
+            "UI Automation Testing",
+            "Performance Testing",
+            "Device Compatibility Testing"
+        ]
+    },
+    {
+        "category": "ML Model Training Patterns",
+        "patterns": [
+            "Batch Training",
+            "Online Training",
+            "Transfer Learning",
+            "Fine-Tuning Models",
+            "Active Learning",
+            "Federated Learning",
+            "Continual Learning"
+        ]
+    },
+    {
+        "category": "ML Model Deployment Patterns",
+        "patterns": [
+            "Model Serving",
+            "Serverless Deployment",
+            "Edge Deployment",
+            "Containerization",
+            "Rolling Updates",
+            "Canary Releases",
+            "Shadow Deployment"
+        ]
+    },
+    {
+        "category": "ML Data Processing Patterns",
+        "patterns": [
+            "ETL (Extract, Transform, Load)",
+            "Feature Engineering",
+            "Dimensionality Reduction",
+            "Data Augmentation",
+            "Data Cleansing",
+            "Data Normalization"
+        ]
+    },
+    {
+        "category": "ML Model Monitoring and Observability Patterns",
+        "patterns": [
+            "Drift Detection",
+            "A/B Testing for Models",
+            "Performance Metrics Monitoring",
+            "Logging and Metrics Aggregation",
+            "Anomaly Detection in Predictions",
+            "Model Rollback Strategies"
+        ]
+    },
+    {
+        "category": "ML Model Explainability Patterns",
+        "patterns": [
+            "LIME (Local Interpretable Model-agnostic Explanations)",
+            "SHAP (SHapley Additive exPlanations)",
+            "Feature Importance Analysis",
+            "Counterfactual Explanations",
+            "Partial Dependence Plots",
+            "Surrogate Models for Explainability"
+        ]
+    },
+    {
+        "category": "ML Pipelining and Workflow Patterns",
+        "patterns": [
+            "Directed Acyclic Graph (DAG) Pipelines",
+            "Workflow Orchestration Tools",
+            "Automated Machine Learning (AutoML) Pipelines",
+            "Hyperparameter Tuning",
+            "Model Registry Patterns",
+            "CI/CD for ML Pipelines"
+        ]
+    },
+    {
+        "category": "Agent Architecture Patterns (AI Agents)",
+        "patterns": [
+            "Reactive Agent Architecture",
+            "Deliberative (BDI) Agent Architecture",
+            "Proactive Agent Design",
+            "Multi-Agent Systems",
+            "Memory-based Agents",
+            "Chain-of-Thought Orchestration",
+            "Tool-Driven Agent (AutoGPT / BabyAGI)",
+            "Agent-based Modeling",
+            "Agent & Environment Loop",
+            "Hierarchical Agent Architectures"
+        ]
+    },
+    {
+        "category": "LLM Architecture Patterns",
+        "patterns": [
+            "Transformer-based LLMs",
+            "Instruction-Tuned LLMs",
+            "Retrieval Augmented Generation (RAG)",
+            "Chain-of-Thought Prompting",
+            "Fine-Tuning (Full / LoRA / PEFT)",
+            "RLHF (Reinforcement Learning from Human Feedback)",
+            "System & User Prompting Layers",
+            "Context Window Management",
+            "Tokenizer-based Subwords",
+            "Tool-Integration Architecture"
+        ]
+    },
+    {
+        "category": "RPA Architecture Patterns",
+        "patterns": [
+            "Attended RPA",
+            "Unattended RPA",
+            "Hybrid RPA",
+            "Cognitive RPA",
+            "Bot Orchestration",
+            "Process Mining for RPA",
+            "Queue-based Workflow",
+            "AI-based Document Processing",
+            "Computer Vision-based Automation"
+        ]
+    },
+    {
+        "category": "Blockchain Architecture Patterns",
+        "patterns": [
+            "Smart Contract Architecture",
+            "Layer 2 Rollups",
+            "Sidechains",
+            "State Channels",
+            "Plasma",
+            "Bridges & Oracles",
+            "DAO (Decentralized Autonomous Organization) Patterns",
+            "DApp Architecture",
+            "Various Consensus Mechanisms (PoS, PoW, PBFT, etc.)"
+        ]
+    },
+    {
+        "category": "IoT Architecture Patterns",
+        "patterns": [
+            "Edge Computing",
+            "Fog Computing",
+            "Gateway Architecture",
+            "Sensor Networks",
+            "PubSub over MQTT",
+            "Digital Twin",
+            "Device-to-Cloud Architecture",
+            "Device-to-Device Communication",
+            "IoT Event Streaming",
+            "IoT Data Lake"
+        ]
+    },
+    {
+        "category": "MLOps Patterns",
+        "patterns": [
+            "Feature Store Architecture",
+            "Data Versioning (DVC / Git)",
+            "Metadata Tracking",
+            "CI/CD for Machine Learning",
+            "Blue-Green / Canary Deploy for ML",
+            "Automated Retraining",
+            "ML Observability",
+            "Feature Pipeline",
+            "Model Governance",
+            "Shadow Testing for ML"
+        ]
+    }
+]

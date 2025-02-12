@@ -1,0 +1,592 @@
+[
+    {
+        "name": "React Native",
+        "synonyms": [
+            "react native",
+            "react-native",
+            "rn"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "react-native-sqlite-storage",
+            "Metro Bundler",
+            "React Navigation",
+            "Expo SQLite",
+            "Xcode",
+            "Expo",
+            "JavaScript",
+            "Android Studio"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Redux Architecture",
+            "Navigation Stack",
+            "Declarative UI"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Flutter",
+        "synonyms": [
+            "flutter",
+            "flutter sdk",
+            "flutter framework"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Firebase",
+            "Dart",
+            "Dart DevTools",
+            "Xcode",
+            "Flutter CLI",
+            "Android Studio",
+            "sqflite"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Declarative UI",
+            "BLoC Architecture",
+            "Navigation Stack"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Xamarin",
+        "synonyms": [
+            "xamarin",
+            "xamarin.forms",
+            "xamarin native"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Xamarin.Forms",
+            "C#",
+            "NuGet",
+            "iOS SDK",
+            "Android SDK",
+            "Visual Studio"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Navigation Stack",
+            "MVVM (Model-View-ViewModel)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Ionic",
+        "synonyms": [
+            "ionic",
+            "ionic framework"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "Ionic CLI",
+            "JavaScript",
+            "Capacitor",
+            "TypeScript",
+            "Cordova"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Navigation Stack",
+            "MVVM (Model-View-ViewModel)",
+            "Component-Based Architecture",
+            "Responsive Design",
+            "Progressive Web Application (PWA)",
+            "Mobile-First Design"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Apache Cordova",
+        "synonyms": [
+            "cordova",
+            "phonegap",
+            "apache cordova",
+            "adobe phonegap"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "PhoneGap Build",
+            "JavaScript",
+            "Adobe PhoneGap",
+            "Cordova CLI"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "NativeScript",
+        "synonyms": [
+            "nativescript",
+            "native script"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "NativeScript CLI",
+            "Webpack",
+            "iOS SDK",
+            "Android SDK",
+            "JavaScript",
+            "TypeScript"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Navigation Stack",
+            "MVVM (Model-View-ViewModel)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "SwiftUI",
+        "synonyms": [
+            "swiftui",
+            "swift ui"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "CocoaPods",
+            "Swift Package Manager",
+            "Swift",
+            "Xcode"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Declarative UI",
+            "Navigation Stack",
+            "MVVM (Model-View-ViewModel)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Jetpack Compose",
+        "synonyms": [
+            "jetpack compose",
+            "android compose"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Kotlin",
+            "Android Studio",
+            "Gradle",
+            "Kotlin Compiler"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Declarative UI",
+            "Navigation Stack",
+            "MVVM (Model-View-ViewModel)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Android (Native)",
+        "synonyms": [
+            "android sdk",
+            "android native",
+            "android"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "ADB",
+            "Gradle",
+            "Room",
+            "SQLite",
+            "Firebase",
+            "Java",
+            "Kotlin",
+            "Android Studio"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Navigation Stack",
+            "MVVM (Model-View-ViewModel)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "iOS (Native)",
+        "synonyms": [
+            "ios sdk",
+            "ios native",
+            "cocoa touch",
+            "ios"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Objective-C",
+            "Swift",
+            "SQLite",
+            "FMDB",
+            "TestFlight",
+            "Xcode",
+            "CocoaPods",
+            "Swift Package Manager"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "Navigation Stack",
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Unity",
+        "synonyms": [
+            "unity",
+            "unity3d",
+            "unity 3d"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Visual Studio",
+            "Unity Editor",
+            "C#",
+            "Unity Asset Store"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Corona SDK (Solar2D)",
+        "synonyms": [
+            "corona sdk",
+            "corona",
+            "solar2d",
+            "solar2d sdk"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Solar2D Simulator",
+            "Corona Labs Dashboard",
+            "Lua"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Appcelerator Titanium",
+        "synonyms": [
+            "titanium",
+            "appcelerator titanium",
+            "titanium sdk"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Alloy",
+            "Appcelerator Studio",
+            "JavaScript",
+            "Titanium CLI"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Framework7",
+        "synonyms": [
+            "framework7",
+            "framework 7",
+            "f7"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript",
+            "Framework7 CLI",
+            "Webpack"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Kivy",
+        "synonyms": [
+            "kivy",
+            "kivy framework"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Buildozer",
+            "Kivy Launcher",
+            "Python"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Qt for Mobile",
+        "synonyms": [
+            "qt",
+            "qt mobile",
+            "qt framework",
+            "qt for mobile"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "C++",
+            "qmake",
+            "Qt SDK",
+            "Qt Creator"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVVM (Model-View-ViewModel)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Kotlin Multiplatform Mobile",
+        "synonyms": [
+            "kmm",
+            "kotlin multiplatform mobile",
+            "kotlin mpp"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Kotlin",
+            "Android Studio",
+            "IntelliJ IDEA",
+            "Kotlin Multiplatform Plugin"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVVM (Model-View-ViewModel)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    },
+    {
+        "name": "Onsen UI",
+        "synonyms": [
+            "onsen ui",
+            "onsen-ui",
+            "Onsen UI CLI",
+            "onsenui"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile",
+            "Frontend"
+        ],
+        "impliesKnowingSkills": [
+            "JavaScript",
+            "Cordova",
+            "Capacitor"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVC (Model-View-Controller)",
+            "Component-Based Architecture",
+            "Responsive Design",
+            "Mobile-First Design"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": [
+            "Mobile UI Components"
+        ]
+    },
+    {
+        "name": "Sencha Touch",
+        "synonyms": [
+            "sencha touch",
+            "touch",
+            "senchatouch"
+        ],
+        "type": [
+            "Framework"
+        ],
+        "technicalDomains": [
+            "Mobile"
+        ],
+        "impliesKnowingSkills": [
+            "Sencha Architect",
+            "JavaScript",
+            "Sencha Cmd"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": [
+            "MVC (Model-View-Controller)"
+        ],
+        "implementsPatternsByDefault": [],
+        "implementsPatternsThroughLibrariesAndServices": [],
+        "associatedToApplicationDomains": [],
+        "solvesApplicationTasks": []
+    }
+]

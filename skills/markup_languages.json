@@ -1,0 +1,828 @@
+[
+    {
+        "name": "XML",
+        "synonyms": [
+            "extensible markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SGML",
+        "synonyms": [
+            "standard generalized markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "JSON",
+        "synonyms": [
+            "javascript object notation"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "YAML",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Markdown",
+        "synonyms": [
+            "md"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "LaTeX",
+        "synonyms": [
+            "latex"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SVG",
+        "synonyms": [
+            "scalable vector graphics"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "XSLT",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "WSDL",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "RSS",
+        "synonyms": [
+            "rich site summary"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Atom",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "KML",
+        "synonyms": [
+            "keyhole markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "GML",
+        "synonyms": [
+            "geography markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "MathML",
+        "synonyms": [
+            "mathematical markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "RDF",
+        "synonyms": [
+            "resource description framework"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "RDFa",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Turtle",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "N-Triples",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "N-Quads",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "XBRL",
+        "synonyms": [
+            "extensible business reporting language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Sass",
+        "synonyms": [
+            "syntactically awesome stylesheets"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "CSS"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Less",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "CSS"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "HAML",
+        "synonyms": [
+            "html abstraction markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "TOML",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "INI",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CSV",
+        "synonyms": [
+            "comma-separated values"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "PLIST",
+        "synonyms": [
+            "property list"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "VCard",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "VRML",
+        "synonyms": [
+            "virtual reality markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Wikitext",
+        "synonyms": [
+            "wiki markup"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Gherkin",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "ProtoBuf",
+        "synonyms": [
+            "protocol buffers",
+            "protocol buffer",
+            "protobuff",
+            ".proto"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "JSON",
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "ASN.1",
+        "synonyms": [
+            "abstract syntax notation one"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "BSON",
+        "synonyms": [
+            "binary JSON"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "JSON"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CBOR",
+        "synonyms": [
+            "concise binary object representation"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "JSON"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "UBJSON",
+        "synonyms": [
+            "universal binary JSON"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "JSON"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "XAML",
+        "synonyms": [
+            "extensible application markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "SMIL",
+        "synonyms": [
+            "synchronized multimedia integration language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "DocBook",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "DITA",
+        "synonyms": [
+            "darwin information typing architecture"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "BibTeX",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Roff",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "OPML",
+        "synonyms": [
+            "outline processor markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "YANG",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "GraphML",
+        "synonyms": [
+            "graph markup language"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "DOT",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "MusicXML",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "COLLADA",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "FBX",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CityGML",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "STEP",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "IGES",
+        "synonyms": [
+            "initial graphics exchange specification"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "DXF",
+        "synonyms": [
+            "drawing exchange format"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "EBNF",
+        "synonyms": [
+            "extended backus-naur form"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "HCL",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "JSON"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "CUE",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "JSON"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "FOAF",
+        "synonyms": [
+            "friend of a friend"
+        ],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "XML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    },
+    {
+        "name": "Microdata",
+        "synonyms": [],
+        "type": [
+            "MarkupLanguage"
+        ],
+        "technicalDomains": [],
+        "impliesKnowingSkills": [
+            "HTML"
+        ],
+        "impliesKnowingConcepts": [],
+        "conceptualAspects": [],
+        "architecturalPatterns": []
+    }
+]
