@@ -885,30 +885,3 @@ class Taxonomy:
             skill_list.append(skill_obj.to_dict())
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(skill_list, f, indent=4)
-
-    @staticmethod
-    def get_all_frameworks_for_skill(skill_name: str):
-        found_frameworks = []
-
-        frameworks_backend_path = 'skills/frameworks_backend.json'
-        frameworks_frontend_path = 'skills/frameworks_frontend.json'
-        frameworks_mobile_path = 'skills/frameworks_mobile.json'
-
-        frameworks_backend = None
-        with open(frameworks_backend_path, "r", encoding="utf-8") as f:
-            frameworks_backend = json.load(f)
-
-        frameworks_frontend = None
-        with open(frameworks_frontend_path, "r", encoding="utf-8") as f:
-            frameworks_frontend = json.load(f)
-
-        frameworks_mobile = None
-        with open(frameworks_mobile_path, "r", encoding="utf-8") as f:
-            frameworks_mobile = json.load(f)
-
-        for framework_type in [frameworks_mobile, frameworks_backend, frameworks_frontend]:
-            for obj in framework_type:
-                if skill_name in obj['impliesKnowingSkills']:
-                    found_frameworks.append(obj['name'])
-
-        return found_frameworks
